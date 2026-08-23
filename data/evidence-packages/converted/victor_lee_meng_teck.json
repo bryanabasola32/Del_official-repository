@@ -1,0 +1,689 @@
+{
+  "executive": {
+    "name": "Victor Lee Meng Teck",
+    "title": "President and CEO",
+    "company": "Security Bank Corporation"
+  },
+  "sources": [
+    {
+      "id": "src-1",
+      "url": "https://context.ph",
+      "title": "Victor Lee Meng Teck leads Security Bank as president and CEO",
+      "sourceName": "context.ph",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2026-03-07",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-2",
+      "url": "https://context.ph",
+      "title": "Victor Lee to succeed Sanjiv Vohra as Security Bank CEO",
+      "sourceName": "context.ph",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2025-09-30",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-3",
+      "url": "https://manilatimes.net",
+      "title": "Security Bank names new president and CEO",
+      "sourceName": "manilatimes.net",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2025-09-30",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-4",
+      "url": "https://linkedin.com",
+      "title": "Victor Lee Meng Teck — Security Bank Corporation profile / CIMB post on Deloitte ConnecT 2025",
+      "sourceName": "linkedin.com",
+      "sourceTier": 2,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": "2025 (CIMB era post)",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-5",
+      "url": "https://securitybank.com",
+      "title": "Security Bank announces leadership transition and appointment of next CEO",
+      "sourceName": "securitybank.com",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": "2025-10-01",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-6",
+      "url": "https://fintechnews.ph",
+      "title": "Security Bank Appoints Former CIMB Singapore Chief Victor Lee Meng Teck as New CEO",
+      "sourceName": "fintechnews.ph",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2025-10-01",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    }
+  ],
+  "facts": [
+    {
+      "factId": "fact-identity-0",
+      "category": "biography",
+      "subject": "Victor Lee Meng Teck",
+      "predicate": "name",
+      "value": "Victor Lee Meng Teck",
+      "sourceIds": [
+        "src-1",
+        "src-5"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "full_name"
+      }
+    },
+    {
+      "factId": "fact-identity-1",
+      "category": "biography",
+      "subject": "Victor Lee Meng Teck",
+      "predicate": "title",
+      "value": "President and CEO",
+      "sourceIds": [
+        "src-1",
+        "src-5"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "current_position"
+      }
+    },
+    {
+      "factId": "fact-identity-2",
+      "category": "biography",
+      "subject": "Victor Lee Meng Teck",
+      "predicate": "company",
+      "value": "Security Bank Corporation",
+      "sourceIds": [
+        "src-1",
+        "src-5"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "current_company"
+      }
+    },
+    {
+      "factId": "fact-career-3",
+      "category": "professional_history",
+      "subject": "Victor Lee Meng Teck",
+      "predicate": "career_history",
+      "value": "Treasurer at DBS Bank",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-4",
+      "category": "professional_history",
+      "subject": "Victor Lee Meng Teck",
+      "predicate": "career_history",
+      "value": "Senior Manager, Corporate Banking at Sumitomo Mitsui Banking Corporation",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-5",
+      "category": "professional_history",
+      "subject": "Victor Lee Meng Teck",
+      "predicate": "career_history",
+      "value": "Director, Strategy & Product Development at Citibank",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-6",
+      "category": "professional_history",
+      "subject": "Victor Lee Meng Teck",
+      "predicate": "career_history",
+      "value": "CEO, Group Commercial Banking / Group Transaction Banking (Kuala Lumpur) at CIMB",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-7",
+      "category": "professional_history",
+      "subject": "Victor Lee Meng Teck",
+      "predicate": "career_history",
+      "value": "CEO, CIMB Singapore",
+      "sourceIds": [
+        "src-1",
+        "src-2"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-8",
+      "category": "professional_history",
+      "subject": "Victor Lee Meng Teck",
+      "predicate": "career_history",
+      "value": "CEO, Growth Markets at CIMB Group",
+      "sourceIds": [
+        "src-1",
+        "src-2"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-9",
+      "category": "professional_history",
+      "subject": "Victor Lee Meng Teck",
+      "predicate": "career_history",
+      "value": "President and CEO at Security Bank Corporation",
+      "sourceIds": [
+        "src-1",
+        "src-5"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-strategy-10",
+      "category": "strategic_priorities",
+      "subject": "Victor Lee Meng Teck",
+      "predicate": "strategic_priority",
+      "value": "Overall Bank Strategy, Operations & Growth (new mandate, still forming)",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-11",
+      "category": "strategic_priorities",
+      "subject": "Victor Lee Meng Teck",
+      "predicate": "strategic_priority",
+      "value": "Sustaining 'BetterBanking' Customer-Centric Positioning",
+      "sourceIds": [
+        "src-6"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-12",
+      "category": "strategic_priorities",
+      "subject": "Victor Lee Meng Teck",
+      "predicate": "strategic_priority",
+      "value": "Continuation of Digital & Customer-First Transformation (inherited from predecessor Vohra)",
+      "sourceIds": [
+        "src-2",
+        "src-6"
+      ],
+      "confidence": 0.65,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-tech-13",
+      "category": "technology_interests",
+      "subject": "Victor Lee Meng Teck",
+      "predicate": "technology_interest",
+      "value": "Artificial Intelligence",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "direct_quote"
+      }
+    },
+    {
+      "factId": "fact-tech-14",
+      "category": "technology_interests",
+      "subject": "Victor Lee Meng Teck",
+      "predicate": "technology_interest",
+      "value": "Digital Banking",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "career_pattern"
+      }
+    },
+    {
+      "factId": "fact-tech-15",
+      "category": "technology_interests",
+      "subject": "Victor Lee Meng Teck",
+      "predicate": "technology_interest",
+      "value": "Regional/Cross-border Banking Technology",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.6,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "career_pattern"
+      }
+    },
+    {
+      "factId": "fact-leadership-16",
+      "category": "leadership_style",
+      "subject": "Victor Lee Meng Teck",
+      "predicate": "leadership_trait",
+      "value": "Regional Growth Operator",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "regional_growth_operator"
+      }
+    },
+    {
+      "factId": "fact-leadership-17",
+      "category": "leadership_style",
+      "subject": "Victor Lee Meng Teck",
+      "predicate": "leadership_trait",
+      "value": "Digital And People Balanced",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "digital_and_people_balanced"
+      }
+    },
+    {
+      "factId": "fact-leadership-18",
+      "category": "leadership_style",
+      "subject": "Victor Lee Meng Teck",
+      "predicate": "leadership_trait",
+      "value": "Customer Centric",
+      "sourceIds": [
+        "src-6"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "customer_centric"
+      }
+    },
+    {
+      "factId": "fact-decision-19",
+      "category": "decision_profile",
+      "subject": "Victor Lee Meng Teck",
+      "predicate": "decision_dimension",
+      "value": "Innovation Appetite: high",
+      "sourceIds": [
+        "src-1",
+        "src-4"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "innovation_appetite"
+      }
+    },
+    {
+      "factId": "fact-decision-20",
+      "category": "decision_profile",
+      "subject": "Victor Lee Meng Teck",
+      "predicate": "decision_dimension",
+      "value": "Technology Adoption Posture: high",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "technology_adoption_posture"
+      }
+    },
+    {
+      "factId": "fact-decision-21",
+      "category": "decision_profile",
+      "subject": "Victor Lee Meng Teck",
+      "predicate": "decision_dimension",
+      "value": "Risk Tolerance: unknown",
+      "sourceIds": [],
+      "confidence": 0.0,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "risk_tolerance"
+      }
+    },
+    {
+      "factId": "fact-decision-22",
+      "category": "decision_profile",
+      "subject": "Victor Lee Meng Teck",
+      "predicate": "decision_dimension",
+      "value": "Budget Influence: high",
+      "sourceIds": [],
+      "confidence": 0.65,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "budget_influence"
+      }
+    },
+    {
+      "factId": "fact-decision-23",
+      "category": "decision_profile",
+      "subject": "Victor Lee Meng Teck",
+      "predicate": "decision_dimension",
+      "value": "Strategic Influence: high",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "strategic_influence"
+      }
+    },
+    {
+      "factId": "fact-decision-24",
+      "category": "decision_profile",
+      "subject": "Victor Lee Meng Teck",
+      "predicate": "decision_dimension",
+      "value": "Operational Focus: unknown",
+      "sourceIds": [],
+      "confidence": 0.0,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "operational_focus"
+      }
+    },
+    {
+      "factId": "fact-decision-25",
+      "category": "decision_profile",
+      "subject": "Victor Lee Meng Teck",
+      "predicate": "decision_dimension",
+      "value": "Growth Orientation: high",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "growth_orientation"
+      }
+    },
+    {
+      "factId": "fact-signals-26",
+      "category": "event_signals",
+      "subject": "Victor Lee Meng Teck",
+      "predicate": "event_interest",
+      "value": "Interested in Ai",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_ai"
+      }
+    },
+    {
+      "factId": "fact-signals-27",
+      "category": "event_signals",
+      "subject": "Victor Lee Meng Teck",
+      "predicate": "event_interest",
+      "value": "Interested in Digital Banking",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_digital_banking"
+      }
+    },
+    {
+      "factId": "fact-signals-28",
+      "category": "event_signals",
+      "subject": "Victor Lee Meng Teck",
+      "predicate": "event_interest",
+      "value": "Interested in Sme Commercial Banking",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_sme_commercial_banking"
+      }
+    },
+    {
+      "factId": "fact-signals-29",
+      "category": "event_signals",
+      "subject": "Victor Lee Meng Teck",
+      "predicate": "event_interest",
+      "value": "Interested in New To Role",
+      "sourceIds": [
+        "src-1",
+        "src-5"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "new_to_role"
+      }
+    },
+    {
+      "factId": "fact-keywords-30",
+      "category": "executive_keywords",
+      "subject": "Victor Lee Meng Teck",
+      "predicate": "keyword",
+      "value": "Digital Banking",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-31",
+      "category": "executive_keywords",
+      "subject": "Victor Lee Meng Teck",
+      "predicate": "keyword",
+      "value": "Commercial Banking",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-32",
+      "category": "executive_keywords",
+      "subject": "Victor Lee Meng Teck",
+      "predicate": "keyword",
+      "value": "SME Banking",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-33",
+      "category": "executive_keywords",
+      "subject": "Victor Lee Meng Teck",
+      "predicate": "keyword",
+      "value": "Regional Growth",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-34",
+      "category": "executive_keywords",
+      "subject": "Victor Lee Meng Teck",
+      "predicate": "keyword",
+      "value": "AI",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-35",
+      "category": "executive_keywords",
+      "subject": "Victor Lee Meng Teck",
+      "predicate": "keyword",
+      "value": "Transformation",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-comm-36",
+      "category": "communication_style",
+      "subject": "Victor Lee Meng Teck",
+      "predicate": "communication_register",
+      "value": "formal_executive",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "communication_style"
+      }
+    }
+  ],
+  "metadata": {
+    "original_format": "executive_intelligence_object",
+    "version": "1.0",
+    "entry_status": "verified_curated"
+  }
+}

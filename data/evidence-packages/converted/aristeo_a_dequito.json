@@ -1,0 +1,663 @@
+{
+  "executive": {
+    "name": "Aristeo A. Dequito",
+    "title": "Managing Director",
+    "company": "CARD MRI (Center for Agriculture and Rural Development Mutually Reinforcing Institutions)"
+  },
+  "sources": [
+    {
+      "id": "src-1",
+      "url": "https://cardmri.com",
+      "title": "CARD Bank opens 2nd Islamic banking branch in Marawi City",
+      "sourceName": "cardmri.com",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": "2025-12-15",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-2",
+      "url": "https://cardmri.com/publishinghouse",
+      "title": "News and Events — CARD MRI Publishing House Inc.",
+      "sourceName": "cardmri.com/publishinghouse",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-3",
+      "url": "https://cardmri.com",
+      "title": "CARD-PCPD Medical Center Inc. ribbon-cutting coverage",
+      "sourceName": "cardmri.com",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": "2025-12-01",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-4",
+      "url": "https://cardmri.com/cardsmebank",
+      "title": "CARD MRI clients win Microentrepreneur Awards for Digital Innovation",
+      "sourceName": "cardmri.com/cardsmebank",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": "2026-01-14",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-5",
+      "url": "https://gmanetwork.com",
+      "title": "ASK THE EXPERTS: How can we grow our money when times are tight?",
+      "sourceName": "gmanetwork.com",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2026-04-16",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-6",
+      "url": "https://cardmri.com",
+      "title": "CARD MRI governance/leadership page",
+      "sourceName": "cardmri.com",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-7",
+      "url": "https://rmaward.asia",
+      "title": "Center for Agriculture and Rural Development Mutually Reinforcing Institutions (CARD MRI) — Ramon Magsaysay Award Foundation",
+      "sourceName": "rmaward.asia",
+      "sourceTier": 1,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-8",
+      "url": "https://davaotoday.com",
+      "title": "CARD Microfinance institution expands to Mindanao",
+      "sourceName": "davaotoday.com",
+      "sourceTier": 2,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2013-12-12",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-9",
+      "url": "https://cardmri.com/rbi",
+      "title": "Our Team — CARD MRI Rizal Bank, Inc.",
+      "sourceName": "cardmri.com/rbi",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-10",
+      "url": "https://cardmri.com/cardinc",
+      "title": "CARD Banking Group pays courtesy call on BSP Governor",
+      "sourceName": "cardmri.com/cardinc",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": "2022-08-01",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-11",
+      "url": "https://dailyguardian.com.ph",
+      "title": "konek2CARD gears up for Roadshow",
+      "sourceName": "dailyguardian.com.ph",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2021-11-12",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-12",
+      "url": "https://boracayislandnews.com",
+      "title": "CMDI celebrates love and accomplishment on its founding anniversary",
+      "sourceName": "boracayislandnews.com",
+      "sourceTier": 2,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": "2023-03-03",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    }
+  ],
+  "facts": [
+    {
+      "factId": "fact-identity-0",
+      "category": "biography",
+      "subject": "Aristeo A. Dequito",
+      "predicate": "name",
+      "value": "Aristeo A. Dequito",
+      "sourceIds": [
+        "src-1",
+        "src-6"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "full_name"
+      }
+    },
+    {
+      "factId": "fact-identity-1",
+      "category": "biography",
+      "subject": "Aristeo A. Dequito",
+      "predicate": "title",
+      "value": "Managing Director",
+      "sourceIds": [
+        "src-1",
+        "src-3",
+        "src-6",
+        "src-9"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "current_position"
+      }
+    },
+    {
+      "factId": "fact-identity-2",
+      "category": "biography",
+      "subject": "Aristeo A. Dequito",
+      "predicate": "company",
+      "value": "CARD MRI (Center for Agriculture and Rural Development Mutually Reinforcing Institutions)",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "current_company"
+      }
+    },
+    {
+      "factId": "fact-career-3",
+      "category": "professional_history",
+      "subject": "Aristeo A. Dequito",
+      "predicate": "career_history",
+      "value": "President/CEO, Business Development Services Foundation Inc. (CARD-BDSFI)",
+      "sourceIds": [
+        "src-7",
+        "src-8"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-4",
+      "category": "professional_history",
+      "subject": "Aristeo A. Dequito",
+      "predicate": "career_history",
+      "value": "Part of CARD MRI's founding-era institutional buildout",
+      "sourceIds": [
+        "src-7"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-5",
+      "category": "professional_history",
+      "subject": "Aristeo A. Dequito",
+      "predicate": "career_history",
+      "value": "Managing Director, CARD MRI (current)",
+      "sourceIds": [
+        "src-1",
+        "src-3",
+        "src-6",
+        "src-9"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-6",
+      "category": "professional_history",
+      "subject": "Aristeo A. Dequito",
+      "predicate": "career_history",
+      "value": "Chairman, CARD MRI Rizal Bank, Inc. (concurrent board role)",
+      "sourceIds": [
+        "src-9"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-strategy-7",
+      "category": "strategic_priorities",
+      "subject": "Aristeo A. Dequito",
+      "predicate": "strategic_priority",
+      "value": "Digital Transformation of Banking Access for Marginalized/Rural Communities: \"Our digital initiatives not only address our need for a digital transformation but also the need of our clients to access our primary banking products and services\"",
+      "sourceIds": [
+        "src-11"
+      ],
+      "confidence": 0.88,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-8",
+      "category": "strategic_priorities",
+      "subject": "Aristeo A. Dequito",
+      "predicate": "strategic_priority",
+      "value": "Financial Inclusion Expansion (e.g., Islamic banking branch in Marawi City serving Muslim communities)",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-9",
+      "category": "strategic_priorities",
+      "subject": "Aristeo A. Dequito",
+      "predicate": "strategic_priority",
+      "value": "Support for Microentrepreneur / Digital-Commerce Clients: Quoted celebrating clients who use digital tools (Facebook, Messenger, mobile cash services) to grow their businesses",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-10",
+      "category": "strategic_priorities",
+      "subject": "Aristeo A. Dequito",
+      "predicate": "strategic_priority",
+      "value": "Poverty Eradication Mission (core institutional mandate)",
+      "sourceIds": [
+        "src-12"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-tech-11",
+      "category": "technology_interests",
+      "subject": "Aristeo A. Dequito",
+      "predicate": "technology_interest",
+      "value": "Digital/Mobile Banking (konek2CARD app)",
+      "sourceIds": [
+        "src-11"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "direct_quote"
+      }
+    },
+    {
+      "factId": "fact-tech-12",
+      "category": "technology_interests",
+      "subject": "Aristeo A. Dequito",
+      "predicate": "technology_interest",
+      "value": "Artificial Intelligence",
+      "sourceIds": [],
+      "confidence": 0.0,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "no_evidence_located"
+      }
+    },
+    {
+      "factId": "fact-tech-13",
+      "category": "technology_interests",
+      "subject": "Aristeo A. Dequito",
+      "predicate": "technology_interest",
+      "value": "Data & Analytics",
+      "sourceIds": [],
+      "confidence": 0.0,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "no_evidence_located"
+      }
+    },
+    {
+      "factId": "fact-leadership-14",
+      "category": "leadership_style",
+      "subject": "Aristeo A. Dequito",
+      "predicate": "leadership_trait",
+      "value": "Mission Driven",
+      "sourceIds": [
+        "src-12"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "mission_driven"
+      }
+    },
+    {
+      "factId": "fact-leadership-15",
+      "category": "leadership_style",
+      "subject": "Aristeo A. Dequito",
+      "predicate": "leadership_trait",
+      "value": "Community Oriented",
+      "sourceIds": [
+        "src-4",
+        "src-12"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "community_oriented"
+      }
+    },
+    {
+      "factId": "fact-leadership-16",
+      "category": "leadership_style",
+      "subject": "Aristeo A. Dequito",
+      "predicate": "leadership_trait",
+      "value": "Financial Inclusion Focused",
+      "sourceIds": [
+        "src-1",
+        "src-11"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "financial_inclusion_focused"
+      }
+    },
+    {
+      "factId": "fact-decision-17",
+      "category": "decision_profile",
+      "subject": "Aristeo A. Dequito",
+      "predicate": "decision_dimension",
+      "value": "Innovation Appetite: moderate",
+      "sourceIds": [
+        "src-11"
+      ],
+      "confidence": 0.5,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "innovation_appetite"
+      }
+    },
+    {
+      "factId": "fact-decision-18",
+      "category": "decision_profile",
+      "subject": "Aristeo A. Dequito",
+      "predicate": "decision_dimension",
+      "value": "Technology Adoption Posture: moderate; access-and-inclusion focused rather than cutting-edge",
+      "sourceIds": [
+        "src-11"
+      ],
+      "confidence": 0.55,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "technology_adoption_posture"
+      }
+    },
+    {
+      "factId": "fact-decision-19",
+      "category": "decision_profile",
+      "subject": "Aristeo A. Dequito",
+      "predicate": "decision_dimension",
+      "value": "Growth Orientation: high",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "growth_orientation"
+      }
+    },
+    {
+      "factId": "fact-decision-20",
+      "category": "decision_profile",
+      "subject": "Aristeo A. Dequito",
+      "predicate": "decision_dimension",
+      "value": "Budget Influence: high",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "budget_influence"
+      }
+    },
+    {
+      "factId": "fact-signals-21",
+      "category": "event_signals",
+      "subject": "Aristeo A. Dequito",
+      "predicate": "event_interest",
+      "value": "Interested in Digital Transformation",
+      "sourceIds": [
+        "src-11"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_digital_transformation"
+      }
+    },
+    {
+      "factId": "fact-signals-22",
+      "category": "event_signals",
+      "subject": "Aristeo A. Dequito",
+      "predicate": "event_interest",
+      "value": "Interested in Financial Inclusion",
+      "sourceIds": [
+        "src-1",
+        "src-4",
+        "src-11"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_financial_inclusion"
+      }
+    },
+    {
+      "factId": "fact-boards-23",
+      "category": "professional_history",
+      "subject": "Aristeo A. Dequito",
+      "predicate": "board_membership",
+      "value": "Chairman, CARD MRI Rizal Bank, Inc.",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-keywords-24",
+      "category": "executive_keywords",
+      "subject": "Aristeo A. Dequito",
+      "predicate": "keyword",
+      "value": "Financial Inclusion",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-25",
+      "category": "executive_keywords",
+      "subject": "Aristeo A. Dequito",
+      "predicate": "keyword",
+      "value": "Microfinance",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-26",
+      "category": "executive_keywords",
+      "subject": "Aristeo A. Dequito",
+      "predicate": "keyword",
+      "value": "Digital Banking Access (konek2CARD)",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-27",
+      "category": "executive_keywords",
+      "subject": "Aristeo A. Dequito",
+      "predicate": "keyword",
+      "value": "Islamic Banking Expansion",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-28",
+      "category": "executive_keywords",
+      "subject": "Aristeo A. Dequito",
+      "predicate": "keyword",
+      "value": "Poverty Eradication Mission",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-29",
+      "category": "executive_keywords",
+      "subject": "Aristeo A. Dequito",
+      "predicate": "keyword",
+      "value": "Rural/Underserved Communities",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-comm-30",
+      "category": "communication_style",
+      "subject": "Aristeo A. Dequito",
+      "predicate": "communication_register",
+      "value": "formal_executive, mission and community-oriented",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "communication_style"
+      }
+    }
+  ],
+  "metadata": {
+    "original_format": "executive_intelligence_object",
+    "version": "1.0",
+    "entry_status": "verified_curated_partial"
+  }
+}

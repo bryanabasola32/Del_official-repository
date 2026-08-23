@@ -1,0 +1,521 @@
+{
+  "executive": {
+    "name": "Maria Socorro Isabelle V. Aragon-GoBio",
+    "title": "President and CEO",
+    "company": "Robinsons Land Corporation"
+  },
+  "sources": [
+    {
+      "id": "src-1",
+      "url": "https://business.inquirer.net",
+      "title": "Mybelle V. Aragon-GoBio appointed as President and CEO of Robinsons Land Corporation",
+      "sourceName": "business.inquirer.net",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2025-01-06",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-2",
+      "url": "https://robinsonsland.com",
+      "title": "Mybelle V. Aragon-GoBio Appointed as President and CEO of Robinsons Land Corporation",
+      "sourceName": "robinsonsland.com",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": "2025-01-06",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-3",
+      "url": "https://bilyonaryo.com",
+      "title": "Mybelle Aragon-GoBio holds first meeting with securities analysts as Robinsons Land CEO",
+      "sourceName": "bilyonaryo.com",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2025-02-05",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-4",
+      "url": "https://bilyonaryo.com",
+      "title": "Aragon-GoBio unpacks how Robinsons Land institutionalized 'perpetual capital'",
+      "sourceName": "bilyonaryo.com",
+      "sourceTier": 1,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": "2026-06-01",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-5",
+      "url": "https://mb.com.ph",
+      "title": "Robinsons Land's new era: Led by a woman, driven by merit",
+      "sourceName": "mb.com.ph",
+      "sourceTier": 1,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": "2025-01-24",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-6",
+      "url": "https://philstar.com",
+      "title": "Doing it the Gokong-way: RLC execs build on the Gokongwei legacy",
+      "sourceName": "philstar.com",
+      "sourceTier": 1,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": "2026-08-07",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-7",
+      "url": "https://robinsonsland.com",
+      "title": "Creating Unforgettable Customer Journeys: RLC Residences Aims to Enhance Customer Experiences with Salesforce",
+      "sourceName": "robinsonsland.com",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-8",
+      "url": "https://business.inquirer.net",
+      "title": "Robinsons Land charts next phase of growth with 2026 pipeline",
+      "sourceName": "business.inquirer.net",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2026-03-30",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-9",
+      "url": "https://en.wikipedia.org",
+      "title": "Frederick Go (used only to establish departure timeline/identity correction)",
+      "sourceName": "en.wikipedia.org",
+      "sourceTier": 2,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    }
+  ],
+  "facts": [
+    {
+      "factId": "fact-identity-0",
+      "category": "biography",
+      "subject": "Maria Socorro Isabelle V. Aragon-GoBio",
+      "predicate": "name",
+      "value": "Maria Socorro Isabelle V. Aragon-GoBio (\"Mybelle\")",
+      "sourceIds": [
+        "src-1",
+        "src-2"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "full_name"
+      }
+    },
+    {
+      "factId": "fact-identity-1",
+      "category": "biography",
+      "subject": "Maria Socorro Isabelle V. Aragon-GoBio",
+      "predicate": "title",
+      "value": "President and CEO",
+      "sourceIds": [
+        "src-1",
+        "src-2",
+        "src-3"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "current_position"
+      }
+    },
+    {
+      "factId": "fact-identity-2",
+      "category": "biography",
+      "subject": "Maria Socorro Isabelle V. Aragon-GoBio",
+      "predicate": "company",
+      "value": "Robinsons Land Corporation",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "current_company"
+      }
+    },
+    {
+      "factId": "fact-career-3",
+      "category": "professional_history",
+      "subject": "Maria Socorro Isabelle V. Aragon-GoBio",
+      "predicate": "career_history",
+      "value": "Joined Robinsons Land Corporation",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-4",
+      "category": "professional_history",
+      "subject": "Maria Socorro Isabelle V. Aragon-GoBio",
+      "predicate": "career_history",
+      "value": "President and CEO, Robinsons Logistix and Industrials, Inc.",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-5",
+      "category": "professional_history",
+      "subject": "Maria Socorro Isabelle V. Aragon-GoBio",
+      "predicate": "career_history",
+      "value": "Senior Vice President, Robinsons Destination Estates",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-6",
+      "category": "professional_history",
+      "subject": "Maria Socorro Isabelle V. Aragon-GoBio",
+      "predicate": "career_history",
+      "value": "President and Chief Executive Officer at Robinsons Land Corporation",
+      "sourceIds": [
+        "src-1",
+        "src-2"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-strategy-7",
+      "category": "strategic_priorities",
+      "subject": "Maria Socorro Isabelle V. Aragon-GoBio",
+      "predicate": "strategic_priority",
+      "value": "Disciplined Capital Allocation: Investment decisions anchored to strict return thresholds (\"hurdle rates\", spread over WACC)",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.92,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-8",
+      "category": "strategic_priorities",
+      "subject": "Maria Socorro Isabelle V. Aragon-GoBio",
+      "predicate": "strategic_priority",
+      "value": "Growth Target: Nearly Double Profits by 2030",
+      "sourceIds": [
+        "src-6"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-9",
+      "category": "strategic_priorities",
+      "subject": "Maria Socorro Isabelle V. Aragon-GoBio",
+      "predicate": "strategic_priority",
+      "value": "Purpose-Driven / Nation-Building Framing: \"It's really about how our projects contribute to progress, nation-building and how it really improves lives\"",
+      "sourceIds": [
+        "src-6"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-10",
+      "category": "strategic_priorities",
+      "subject": "Maria Socorro Isabelle V. Aragon-GoBio",
+      "predicate": "strategic_priority",
+      "value": "Portfolio Diversification (malls, offices, hospitality, logistics)",
+      "sourceIds": [
+        "src-8"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-tech-11",
+      "category": "technology_interests",
+      "subject": "Maria Socorro Isabelle V. Aragon-GoBio",
+      "predicate": "technology_interest",
+      "value": "CRM / Customer Experience Digitization",
+      "sourceIds": [
+        "src-7"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "verified_program"
+      }
+    },
+    {
+      "factId": "fact-tech-12",
+      "category": "technology_interests",
+      "subject": "Maria Socorro Isabelle V. Aragon-GoBio",
+      "predicate": "technology_interest",
+      "value": "AI / Digital Convergence (general)",
+      "sourceIds": [
+        "src-8"
+      ],
+      "confidence": 0.35,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "headline_context_only"
+      }
+    },
+    {
+      "factId": "fact-decision-13",
+      "category": "decision_profile",
+      "subject": "Maria Socorro Isabelle V. Aragon-GoBio",
+      "predicate": "decision_dimension",
+      "value": "Risk Tolerance: disciplined/conservative",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "risk_tolerance"
+      }
+    },
+    {
+      "factId": "fact-decision-14",
+      "category": "decision_profile",
+      "subject": "Maria Socorro Isabelle V. Aragon-GoBio",
+      "predicate": "decision_dimension",
+      "value": "Budget Influence: high",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "budget_influence"
+      }
+    },
+    {
+      "factId": "fact-decision-15",
+      "category": "decision_profile",
+      "subject": "Maria Socorro Isabelle V. Aragon-GoBio",
+      "predicate": "decision_dimension",
+      "value": "Innovation Orientation: values a 'culture of innovation'",
+      "sourceIds": [
+        "src-5"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "innovation_orientation"
+      }
+    },
+    {
+      "factId": "fact-signals-16",
+      "category": "event_signals",
+      "subject": "Maria Socorro Isabelle V. Aragon-GoBio",
+      "predicate": "event_interest",
+      "value": "Interested in Crm Leasing Platforms",
+      "sourceIds": [
+        "src-7"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_crm_leasing_platforms"
+      }
+    },
+    {
+      "factId": "fact-boards-17",
+      "category": "professional_history",
+      "subject": "Maria Socorro Isabelle V. Aragon-GoBio",
+      "predicate": "board_membership",
+      "value": "Director, Robinsons Land Corporation",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-keywords-18",
+      "category": "executive_keywords",
+      "subject": "Maria Socorro Isabelle V. Aragon-GoBio",
+      "predicate": "keyword",
+      "value": "Recurring Income",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-19",
+      "category": "executive_keywords",
+      "subject": "Maria Socorro Isabelle V. Aragon-GoBio",
+      "predicate": "keyword",
+      "value": "Capital Discipline",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-20",
+      "category": "executive_keywords",
+      "subject": "Maria Socorro Isabelle V. Aragon-GoBio",
+      "predicate": "keyword",
+      "value": "Customer-Centricity",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-21",
+      "category": "executive_keywords",
+      "subject": "Maria Socorro Isabelle V. Aragon-GoBio",
+      "predicate": "keyword",
+      "value": "Operational Excellence",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-22",
+      "category": "executive_keywords",
+      "subject": "Maria Socorro Isabelle V. Aragon-GoBio",
+      "predicate": "keyword",
+      "value": "First Female Non-Family CEO",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-23",
+      "category": "executive_keywords",
+      "subject": "Maria Socorro Isabelle V. Aragon-GoBio",
+      "predicate": "keyword",
+      "value": "Nation-Building",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-comm-24",
+      "category": "communication_style",
+      "subject": "Maria Socorro Isabelle V. Aragon-GoBio",
+      "predicate": "communication_register",
+      "value": "formal_executive, personable in interviews",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "communication_style"
+      }
+    }
+  ],
+  "metadata": {
+    "original_format": "executive_intelligence_object",
+    "version": "1.0",
+    "entry_status": "verified_curated"
+  }
+}

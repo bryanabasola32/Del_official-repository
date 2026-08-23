@@ -1,0 +1,714 @@
+{
+  "executive": {
+    "name": "Sanjay Chakrabarty",
+    "title": "President and Chief Executive Officer",
+    "company": "Pru Life UK (Pru Life Insurance Corporation of U.K.)"
+  },
+  "sources": [
+    {
+      "id": "src-1",
+      "url": "https://prulifeuk.com.ph",
+      "title": "Pru Life UK announces new Chief Executive Officer",
+      "sourceName": "prulifeuk.com.ph",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": "2024-01",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-2",
+      "url": "https://prulifeuk.com.ph",
+      "title": "Meet Pru Life UK's Board of Directors",
+      "sourceName": "prulifeuk.com.ph",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-3",
+      "url": "https://prulifeuk.com.ph",
+      "title": "Meet Our Executive Committee",
+      "sourceName": "prulifeuk.com.ph",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-4",
+      "url": "https://business.inquirer.net",
+      "title": "Pru Life UK picks insurance veteran as new CEO",
+      "sourceName": "business.inquirer.net",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2024-01-14",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-5",
+      "url": "https://backendnews.net",
+      "title": "Pru Life UK names Sanjay Chakrabarty as new CEO",
+      "sourceName": "backendnews.net",
+      "sourceTier": 2,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2024-01-09",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-6",
+      "url": "https://prulifeuk.com.ph",
+      "title": "New Pru Life UK CEO pays courtesy visit to Insurance Commissioner",
+      "sourceName": "prulifeuk.com.ph",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-7",
+      "url": "https://prulifeuk.com.ph",
+      "title": "Profiles of Corporate Officers 2024 (PDF)",
+      "sourceName": "prulifeuk.com.ph",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-8",
+      "url": "https://bloggersphilippines.com",
+      "title": "Pru Life UK distills the value of long-term wealth",
+      "sourceName": "bloggersphilippines.com",
+      "sourceTier": 2,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": "2026-07",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-9",
+      "url": "https://prulifeuk.com.ph",
+      "title": "Pru Life UK sees digital adoption as edge in distribution and industry growth",
+      "sourceName": "prulifeuk.com.ph",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": "2025-11-13",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    }
+  ],
+  "facts": [
+    {
+      "factId": "fact-identity-0",
+      "category": "biography",
+      "subject": "Sanjay Chakrabarty",
+      "predicate": "name",
+      "value": "Sanjay Chakrabarty",
+      "sourceIds": [
+        "src-1",
+        "src-2"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "full_name"
+      }
+    },
+    {
+      "factId": "fact-identity-1",
+      "category": "biography",
+      "subject": "Sanjay Chakrabarty",
+      "predicate": "title",
+      "value": "President and Chief Executive Officer",
+      "sourceIds": [
+        "src-2",
+        "src-3"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "current_position"
+      }
+    },
+    {
+      "factId": "fact-identity-2",
+      "category": "biography",
+      "subject": "Sanjay Chakrabarty",
+      "predicate": "company",
+      "value": "Pru Life UK (Pru Life Insurance Corporation of U.K.)",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "current_company"
+      }
+    },
+    {
+      "factId": "fact-education-3",
+      "category": "biography",
+      "subject": "Sanjay Chakrabarty",
+      "predicate": "education",
+      "value": "Master's degree in Statistics, Indian Statistical Institute",
+      "sourceIds": [
+        "src-2",
+        "src-3",
+        "src-7"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "education"
+      }
+    },
+    {
+      "factId": "fact-career-4",
+      "category": "professional_history",
+      "subject": "Sanjay Chakrabarty",
+      "predicate": "career_history",
+      "value": "Started career at Citibank India",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-5",
+      "category": "professional_history",
+      "subject": "Sanjay Chakrabarty",
+      "predicate": "career_history",
+      "value": "Various roles, Citibank Japan and Korea (risk and business functions)",
+      "sourceIds": [
+        "src-4",
+        "src-7"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-6",
+      "category": "professional_history",
+      "subject": "Sanjay Chakrabarty",
+      "predicate": "career_history",
+      "value": "Joined Prudential",
+      "sourceIds": [
+        "src-1",
+        "src-2"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-7",
+      "category": "professional_history",
+      "subject": "Sanjay Chakrabarty",
+      "predicate": "career_history",
+      "value": "Chief Commercial Officer, Prudential Vietnam",
+      "sourceIds": [
+        "src-4",
+        "src-7"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-8",
+      "category": "professional_history",
+      "subject": "Sanjay Chakrabarty",
+      "predicate": "career_history",
+      "value": "CEO, Prudential Vietnam Finance Company",
+      "sourceIds": [
+        "src-7"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-9",
+      "category": "professional_history",
+      "subject": "Sanjay Chakrabarty",
+      "predicate": "career_history",
+      "value": "Deputy CEO and Head of Consumer Banking, Orient Commercial Joint Stock Bank, Vietnam",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-10",
+      "category": "professional_history",
+      "subject": "Sanjay Chakrabarty",
+      "predicate": "career_history",
+      "value": "CEO, Prudential Cambodia and Prudential's Cambodia-Laos-Myanmar Hub",
+      "sourceIds": [
+        "src-1",
+        "src-2"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-11",
+      "category": "professional_history",
+      "subject": "Sanjay Chakrabarty",
+      "predicate": "career_history",
+      "value": "President and CEO, Pru Life UK",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-strategy-12",
+      "category": "strategic_priorities",
+      "subject": "Sanjay Chakrabarty",
+      "predicate": "strategic_priority",
+      "value": "Strengthening Strategic Bank/Distribution Partnerships",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-13",
+      "category": "strategic_priorities",
+      "subject": "Sanjay Chakrabarty",
+      "predicate": "strategic_priority",
+      "value": "Customer-Centric Approach and Culture of Excellence",
+      "sourceIds": [
+        "src-1",
+        "src-2"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-14",
+      "category": "strategic_priorities",
+      "subject": "Sanjay Chakrabarty",
+      "predicate": "strategic_priority",
+      "value": "Remarkable Customer Experiences, Technology-Powered Distribution, Health Insurance Growth: \"We will leverage on Prudential's brand and market leadership position with clear priorities to deliver remarkable customer experiences, power our distribution with technology and explore growth opportunities in the health insurance business\"",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-15",
+      "category": "strategic_priorities",
+      "subject": "Sanjay Chakrabarty",
+      "predicate": "strategic_priority",
+      "value": "Financial Literacy, Governance, and Insurance Penetration",
+      "sourceIds": [
+        "src-6"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-16",
+      "category": "strategic_priorities",
+      "subject": "Sanjay Chakrabarty",
+      "predicate": "strategic_priority",
+      "value": "Wealth/Protection Product Balance for Affluent Segment",
+      "sourceIds": [
+        "src-8"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-tech-17",
+      "category": "technology_interests",
+      "subject": "Sanjay Chakrabarty",
+      "predicate": "technology_interest",
+      "value": "Technology-Powered Distribution (general)",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "direct_quote_general"
+      }
+    },
+    {
+      "factId": "fact-tech-18",
+      "category": "technology_interests",
+      "subject": "Sanjay Chakrabarty",
+      "predicate": "technology_interest",
+      "value": "Artificial Intelligence",
+      "sourceIds": [
+        "src-9"
+      ],
+      "confidence": 0.2,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "no_direct_personal_evidence"
+      }
+    },
+    {
+      "factId": "fact-leadership-19",
+      "category": "leadership_style",
+      "subject": "Sanjay Chakrabarty",
+      "predicate": "leadership_trait",
+      "value": "Customer Centric",
+      "sourceIds": [
+        "src-1",
+        "src-8"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "customer_centric"
+      }
+    },
+    {
+      "factId": "fact-leadership-20",
+      "category": "leadership_style",
+      "subject": "Sanjay Chakrabarty",
+      "predicate": "leadership_trait",
+      "value": "Governance Oriented",
+      "sourceIds": [
+        "src-6"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "governance_oriented"
+      }
+    },
+    {
+      "factId": "fact-leadership-21",
+      "category": "leadership_style",
+      "subject": "Sanjay Chakrabarty",
+      "predicate": "leadership_trait",
+      "value": "Operationally Focused",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "operationally_focused"
+      }
+    },
+    {
+      "factId": "fact-decision-22",
+      "category": "decision_profile",
+      "subject": "Sanjay Chakrabarty",
+      "predicate": "decision_dimension",
+      "value": "Innovation Appetite: moderate",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.5,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "innovation_appetite"
+      }
+    },
+    {
+      "factId": "fact-decision-23",
+      "category": "decision_profile",
+      "subject": "Sanjay Chakrabarty",
+      "predicate": "decision_dimension",
+      "value": "Technology Adoption Posture: moderate; AI-specific initiatives appear delegated to the Chief Strategy Officer rather than personally championed by the CEO",
+      "sourceIds": [
+        "src-9"
+      ],
+      "confidence": 0.5,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "technology_adoption_posture"
+      }
+    },
+    {
+      "factId": "fact-decision-24",
+      "category": "decision_profile",
+      "subject": "Sanjay Chakrabarty",
+      "predicate": "decision_dimension",
+      "value": "Growth Orientation: high",
+      "sourceIds": [
+        "src-1",
+        "src-4"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "growth_orientation"
+      }
+    },
+    {
+      "factId": "fact-decision-25",
+      "category": "decision_profile",
+      "subject": "Sanjay Chakrabarty",
+      "predicate": "decision_dimension",
+      "value": "Budget Influence: high",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "budget_influence"
+      }
+    },
+    {
+      "factId": "fact-signals-26",
+      "category": "event_signals",
+      "subject": "Sanjay Chakrabarty",
+      "predicate": "event_interest",
+      "value": "Interested in Digital Distribution",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_digital_distribution"
+      }
+    },
+    {
+      "factId": "fact-signals-27",
+      "category": "event_signals",
+      "subject": "Sanjay Chakrabarty",
+      "predicate": "event_interest",
+      "value": "Interested in Financial Inclusion",
+      "sourceIds": [
+        "src-6"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_financial_inclusion"
+      }
+    },
+    {
+      "factId": "fact-signals-28",
+      "category": "event_signals",
+      "subject": "Sanjay Chakrabarty",
+      "predicate": "event_interest",
+      "value": "Interested in Customer Experience",
+      "sourceIds": [
+        "src-1",
+        "src-8"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_customer_experience"
+      }
+    },
+    {
+      "factId": "fact-boards-29",
+      "category": "professional_history",
+      "subject": "Sanjay Chakrabarty",
+      "predicate": "board_membership",
+      "value": "Director, Pru Life UK Board of Directors",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-keywords-30",
+      "category": "executive_keywords",
+      "subject": "Sanjay Chakrabarty",
+      "predicate": "keyword",
+      "value": "Customer-Centric Distribution",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-31",
+      "category": "executive_keywords",
+      "subject": "Sanjay Chakrabarty",
+      "predicate": "keyword",
+      "value": "Bank Partnerships",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-32",
+      "category": "executive_keywords",
+      "subject": "Sanjay Chakrabarty",
+      "predicate": "keyword",
+      "value": "Financial Literacy",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-33",
+      "category": "executive_keywords",
+      "subject": "Sanjay Chakrabarty",
+      "predicate": "keyword",
+      "value": "Health Insurance Growth",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-34",
+      "category": "executive_keywords",
+      "subject": "Sanjay Chakrabarty",
+      "predicate": "keyword",
+      "value": "Cross-Market Insurance Leadership",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-comm-35",
+      "category": "communication_style",
+      "subject": "Sanjay Chakrabarty",
+      "predicate": "communication_register",
+      "value": "formal_executive, relationship and governance-oriented",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "communication_style"
+      }
+    }
+  ],
+  "metadata": {
+    "original_format": "executive_intelligence_object",
+    "version": "1.0",
+    "entry_status": "verified_curated"
+  }
+}

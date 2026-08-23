@@ -1,0 +1,1532 @@
+{
+  "batch": "Distribution (Industry 3 of 5)",
+  "note": "4 executives (not 5). Fifth candidate from the source spreadsheet, Jose Miguel R. de la Rosa (Clark Development Corporation), was investigated and excluded: verification confirmed he is VP, Administration and Finance Group at CDC, a government-owned Freeport/economic-zone administrator (real estate, investment promotion, estate management) \u2014 not a distribution/logistics operator \u2014 and a support-function VP rather than a top executive, breaking parity with the other four President/CEO-level personas. Two other spreadsheet rows (Manuel L. Onrejas Jr. and Alberto P. de Veyra Jr., both FAST Logistics Group) were excluded as duplicate-company entries already represented by William B. Chiongbian II. A further row (Rolando R. Avante, Philippine Business Bank) tagged \"Distribution\" in the sheet was excluded as a likely Banking-industry misclassification/duplicate. Per project instruction, no replacement executive was invented to reach five; accuracy and defensibility were prioritized over quota.",
+  "executives": [
+    {
+      "executive_intelligence_object_version": "1.0",
+      "entry_status": "verified_curated",
+      "source_registry": {
+        "1": {
+          "domain": "fast.com.ph",
+          "title": "Our Executive Team | FAST Logistics Group",
+          "type": "official_company_source",
+          "trust_tier": "high"
+        },
+        "2": {
+          "domain": "fastlogistics.ph",
+          "title": "Management Team - Fast Logistics Group",
+          "type": "official_company_source",
+          "trust_tier": "high"
+        },
+        "3": {
+          "domain": "logisym.org",
+          "title": "LogiSYM speaker profile: William B. Chiongbian II",
+          "type": "conference_organizer_source",
+          "trust_tier": "high"
+        },
+        "4": {
+          "domain": "blog.fast.com.ph / fast.com.ph",
+          "title": "Tech-Visionary Spotlight: FAST Group President William B. Chiongbian II on Tech-Enabled Supply Chains at LogiSYM Philippines",
+          "type": "official_company_source",
+          "trust_tier": "high",
+          "date": "2023-08"
+        },
+        "5": {
+          "domain": "business.inquirer.net",
+          "title": "Navigating through choppy waters of logistics",
+          "type": "third_party_news",
+          "trust_tier": "high",
+          "date": "2021-09-27"
+        },
+        "6": {
+          "domain": "business.inquirer.net",
+          "title": "Celebrating 50 years: How FAST Logistics Group grew from Cebu roots to nationwide reach",
+          "type": "third_party_news",
+          "trust_tier": "high",
+          "date": "2023-07-24"
+        },
+        "7": {
+          "domain": "context.ph",
+          "title": "Chiongbians buy out CVC Capital from FAST Logistics",
+          "type": "third_party_news",
+          "trust_tier": "high",
+          "date": "2026-06-21"
+        },
+        "8": {
+          "domain": "app.dealroom.co",
+          "title": "FAST Group company profile",
+          "type": "third_party_business_data",
+          "trust_tier": "medium"
+        }
+      },
+      "excluded_sources": [
+        {
+          "reason": "unrelated_person",
+          "detail": "2GO Group Wikipedia entry lists 'William Chiongbian' as historical founder of predecessor company William Lines (1949) \u2014 this is a different, earlier generation Chiongbian, not William B. Chiongbian II. Not used as evidence for the living executive."
+        }
+      ],
+      "identity": {
+        "full_name": {
+          "value": "William B. Chiongbian II",
+          "confidence": 0.95,
+          "sources": [
+            1,
+            2
+          ]
+        },
+        "current_position": {
+          "value": "Group President and CEO",
+          "confidence": 0.9,
+          "sources": [
+            3,
+            7
+          ],
+          "note": "Company's own executive page (source 1) titles him 'Group President'; conference bio (source 3) and 2026 news coverage (source 7) both add 'and CEO' \u2014 treated as his current full title"
+        },
+        "current_company": {
+          "value": "FAST Logistics Group",
+          "confidence": 0.95,
+          "sources": [
+            1,
+            2
+          ]
+        },
+        "company_parent_group": {
+          "value": "Chiongbian family / Asturias Group of Companies",
+          "confidence": 0.7,
+          "sources": [
+            2,
+            7
+          ]
+        },
+        "education": [
+          {
+            "degree": "BS Management Economics",
+            "institution": "Ateneo de Manila University",
+            "confidence": 0.85,
+            "sources": [
+              2
+            ]
+          },
+          {
+            "degree": "Post-graduate studies, Finance for Non-Finance Manager",
+            "institution": "Columbia Business School",
+            "confidence": 0.85,
+            "sources": [
+              2
+            ]
+          }
+        ],
+        "family_business_note": {
+          "value": "Grandson of the founder of William Lines (predecessor shipping company); FAST Logistics traces to the Chiongbian family's diversification from shipping into logistics starting 1976",
+          "confidence": 0.8,
+          "sources": [
+            5,
+            6
+          ]
+        }
+      },
+      "career_history": [
+        {
+          "role": "President of Araw Shipping Agency Corporation",
+          "org": "Chiongbian Group",
+          "confidence": 0.8,
+          "sources": [
+            2
+          ]
+        },
+        {
+          "role": "Director",
+          "org": "Fast Autoworld Philippines Corporation; Hyundai Alabang, Inc.",
+          "confidence": 0.8,
+          "sources": [
+            2
+          ]
+        },
+        {
+          "role": "Group President and CEO",
+          "org": "FAST Logistics Group",
+          "confidence": 0.9,
+          "sources": [
+            1,
+            3,
+            7
+          ]
+        }
+      ],
+      "awards": [],
+      "leadership_style": {
+        "digital_transformation_champion": {
+          "value": true,
+          "confidence": 0.85,
+          "sources": [
+            4,
+            6
+          ],
+          "note": "Publicly presented on 'Leveraging Tech-Enabled Supply Chain Platform for Sustainable Performance' at LogiSYM Philippines 2023; on record framing FAST's growth around digitizing end-to-end logistics"
+        },
+        "customer_centric": {
+          "value": true,
+          "confidence": 0.75,
+          "sources": [
+            5
+          ],
+          "note": "Public quote framing company focus as helping customers get ahead of their competition"
+        },
+        "growth_and_expansion_oriented": {
+          "value": true,
+          "confidence": 0.8,
+          "sources": [
+            7
+          ],
+          "note": "Led family buyout of CVC Capital's stake to pursue nationwide expansion and further investment in digital capabilities"
+        }
+      },
+      "strategic_priorities": [
+        {
+          "priority": "Digitizing End-to-End Logistics",
+          "detail": "Publicly framed as an industry-wide aspiration; FAST has invested in monitoring/scheduling apps and digital supply-chain platforms",
+          "confidence": 0.85,
+          "sources": [
+            4,
+            6
+          ]
+        },
+        {
+          "priority": "Nationwide Network Expansion",
+          "detail": "Coverage of 94% of Philippine provinces cited at 50th-anniversary milestone (2023)",
+          "confidence": 0.8,
+          "sources": [
+            6
+          ]
+        },
+        {
+          "priority": "Post-Buyout Growth Investment",
+          "detail": "2026 buyout of CVC Capital's stake explicitly tied to plans to expand footprint, strengthen operations, and invest further in digital capabilities and warehousing/cold-chain/transportation",
+          "confidence": 0.85,
+          "sources": [
+            7
+          ]
+        },
+        {
+          "priority": "Sustainability in Supply Chain",
+          "detail": "Co-presented on sustainable supply chain performance at LogiSYM Philippines 2023 alongside sustainability-focused panelists",
+          "confidence": 0.7,
+          "sources": [
+            4
+          ]
+        }
+      ],
+      "technology_interests": [
+        {
+          "topic": "Tech-Enabled Supply Chain Platforms",
+          "evidence_strength": "direct_conference_presentation",
+          "confidence": 0.85,
+          "sources": [
+            4
+          ]
+        },
+        {
+          "topic": "Digital Transformation / Digitization of Logistics",
+          "evidence_strength": "direct_quote",
+          "confidence": 0.85,
+          "sources": [
+            6
+          ]
+        },
+        {
+          "topic": "Warehousing, Cross-docking, Cold Chain Technology",
+          "evidence_strength": "company_positioning",
+          "confidence": 0.65,
+          "sources": [
+            7
+          ]
+        },
+        {
+          "topic": "Artificial Intelligence",
+          "evidence_strength": "inferred",
+          "confidence": 0.25,
+          "inferred": true,
+          "sources": [],
+          "note": "No direct AI-specific quote found for Chiongbian personally; inferred only from general digital-transformation and tech-enabled supply chain framing. Treat as low-confidence."
+        }
+      ],
+      "event_signals": {
+        "interested_in_ai": {
+          "value": "unknown",
+          "confidence": 0.25,
+          "note": "no direct evidence; do not treat as confirmed"
+        },
+        "interested_in_digital_transformation": {
+          "value": true,
+          "confidence": 0.9,
+          "sources": [
+            4,
+            6
+          ]
+        },
+        "interested_in_supply_chain_technology": {
+          "value": true,
+          "confidence": 0.85,
+          "sources": [
+            4
+          ]
+        },
+        "interested_in_sustainability": {
+          "value": true,
+          "confidence": 0.65,
+          "sources": [
+            4
+          ]
+        }
+      },
+      "communication_style": {
+        "register": "formal_executive",
+        "traits": [
+          {
+            "trait": "industry_thought_leadership_oriented",
+            "confidence": 0.75,
+            "sources": [
+              3,
+              4
+            ],
+            "note": "Regular conference speaker at LogiSYM Philippines, a recognized Asia-Pacific logistics/supply-chain symposium"
+          },
+          {
+            "trait": "customer_focused_messaging",
+            "confidence": 0.7,
+            "sources": [
+              5
+            ]
+          }
+        ]
+      },
+      "decision_profile": {
+        "innovation_appetite": {
+          "value": "high",
+          "confidence": 0.75,
+          "sources": [
+            4,
+            6
+          ]
+        },
+        "technology_adoption_posture": {
+          "value": "high",
+          "confidence": 0.75,
+          "sources": [
+            4,
+            6
+          ]
+        },
+        "growth_orientation": {
+          "value": "high",
+          "confidence": 0.8,
+          "sources": [
+            7
+          ]
+        },
+        "budget_influence": {
+          "value": "high",
+          "confidence": 0.7,
+          "inferred": true,
+          "note": "inferred from Group President/CEO title and role in family buyout transaction"
+        },
+        "operational_focus": {
+          "value": "high",
+          "confidence": 0.7,
+          "sources": [
+            5
+          ],
+          "inferred": true
+        }
+      },
+      "explicit_unknowns": [
+        "Exact date William B. Chiongbian II assumed the Group President/CEO title",
+        "Formal education timeline/graduation year",
+        "Specific AI adoption or AI-specific public statements",
+        "Board memberships outside the Chiongbian Group of Companies",
+        "Sustainability/ESG-specific commitments beyond conference panel participation"
+      ],
+      "executive_keywords": [
+        "Digital Transformation",
+        "Supply Chain Technology",
+        "Logistics",
+        "Selling Distribution",
+        "Nationwide Expansion",
+        "Sustainability",
+        "Cold Chain"
+      ],
+      "industry_tags": [
+        "Distribution",
+        "Logistics",
+        "Supply Chain",
+        "Philippines"
+      ],
+      "relationships": {
+        "board_memberships": [
+          "Makati Business Club (Member)",
+          "Wallace Business Forum (Member)"
+        ],
+        "industry_organizations": [
+          "LogiSYM Philippines (recurring speaker)"
+        ]
+      },
+      "merge_notes_for_trust_engine": {
+        "primary_confidence_drivers": [
+          "identity (official company source)",
+          "digital transformation evidence (conference presentation + on-record quotes)",
+          "2026 buyout/expansion evidence"
+        ],
+        "secondary_lower_weight": [
+          "AI interest \u2014 explicitly low confidence, inferred only"
+        ],
+        "recommendation": "Strong evidence for Digital Transformation / Supply Chain Technology / Sustainability event themes; weak/insufficient evidence for AI-specific event themes \u2014 flag for additional research before using in an AI-focused invitation decision."
+      }
+    },
+    {
+      "executive_intelligence_object_version": "1.0",
+      "entry_status": "verified_curated",
+      "source_registry": {
+        "1": {
+          "domain": "en.wikipedia.org",
+          "title": "F2 Logistics",
+          "type": "encyclopedic_reference",
+          "trust_tier": "medium"
+        },
+        "2": {
+          "domain": "chelsealogistics.ph",
+          "title": "Efren E. Uy \u2014 Director bio, Chelsea Logistics and Infrastructure Holdings Corp.",
+          "type": "official_company_source",
+          "trust_tier": "high"
+        },
+        "3": {
+          "domain": "chelsealogistics.ph",
+          "title": "The Governance and Management Team - Chelsea Logistics",
+          "type": "official_company_source",
+          "trust_tier": "high",
+          "date": "2025-10-23"
+        },
+        "4": {
+          "domain": "portcalls.com",
+          "title": "COMELEC scrutinizes ownership of F2 Logistics",
+          "type": "third_party_news",
+          "trust_tier": "high",
+          "date": "2021-08-24"
+        },
+        "5": {
+          "domain": "philstar.com",
+          "title": "F2 in every Pinoy's Lives: Efren Uy at the forefront of the country's logistics",
+          "type": "third_party_news",
+          "trust_tier": "high",
+          "date": "2019-07-08"
+        },
+        "6": {
+          "domain": "businessmirror.com.ph",
+          "title": "F2 Logistics President Efren Uy: Moving business to the next level",
+          "type": "third_party_news",
+          "trust_tier": "high",
+          "date": "2018-06-11"
+        }
+      },
+      "excluded_sources": [
+        {
+          "reason": "unreliable_contact_broker",
+          "detail": "Owler company profile excluded from factual claims about title/chairmanship due to low editorial reliability; used only as a weak cross-check."
+        }
+      ],
+      "identity": {
+        "full_name": {
+          "value": "Efren E. Uy",
+          "confidence": 0.95,
+          "sources": [
+            2,
+            5
+          ]
+        },
+        "current_position": {
+          "value": "President and Chief Executive Officer",
+          "confidence": 0.9,
+          "sources": [
+            2,
+            3,
+            6
+          ]
+        },
+        "current_position_chairman_note": {
+          "value": "The minimal-profile source sheet lists Uy as 'Chairman, President and CEO' of F2 Logistics. Public evidence is mixed: Wikipedia (source 1) lists him as 'Chairman, President and CEO'; however, F2 Logistics' own parent-company disclosure (2020 Chelsea Logistics annual report, cited in source 4) states Dennis Uy (unrelated, different person) sits as Chairman of F2 Logistics, with Efren Uy as President/CEO. Chelsea Logistics' own 2025 governance page (source 3) does not assign Efren Uy a Chairman title.",
+          "confidence": 0.4,
+          "sources": [
+            1,
+            3,
+            4
+          ],
+          "note": "Entity-verification flag: do not treat 'Chairman' as confirmed for Efren Uy without a more recent, single, authoritative source; President/CEO title is well-supported, Chairman title is not."
+        },
+        "current_company": {
+          "value": "F2 Logistics Philippines, Inc.",
+          "confidence": 0.95,
+          "sources": [
+            1,
+            2,
+            3
+          ]
+        },
+        "company_founder_note": {
+          "value": "Founded F2 Logistics Philippines in 2006",
+          "confidence": 0.9,
+          "sources": [
+            1,
+            5
+          ]
+        },
+        "company_parent_group": {
+          "value": "Miren Holdings Inc.; F2 Logistics operates as a joint venture with Udenna Management & Resources Corp. (Udenna Corp., led by Dennis Uy \u2014 no relation to Efren Uy)",
+          "confidence": 0.85,
+          "sources": [
+            1,
+            4
+          ]
+        },
+        "education": [
+          {
+            "degree": "BS Mechanical Engineering",
+            "institution": "University of San Carlos",
+            "confidence": 0.85,
+            "sources": [
+              2
+            ]
+          },
+          {
+            "degree": "MBA",
+            "institution": "De La Salle University and Stanford University (executive program)",
+            "confidence": 0.6,
+            "sources": [
+              5
+            ],
+            "note": "single-source; Stanford affiliation described as part of an MBA program in a profile feature, not independently confirmed via an official bio"
+          }
+        ]
+      },
+      "career_history": [
+        {
+          "role": "Founder, President and CEO",
+          "org": "F2 Logistics Philippines, Inc.",
+          "year": 2006,
+          "confidence": 0.9,
+          "sources": [
+            1,
+            5
+          ]
+        },
+        {
+          "role": "President and CEO",
+          "org": "F2 Global Logistics Inc., Agri Farmers Inc., F8 Prime Transport Services Inc., Ultimate Yellow Transport Services Inc., FMoves Transport Corp.",
+          "confidence": 0.85,
+          "sources": [
+            2,
+            3
+          ]
+        },
+        {
+          "role": "President and CEO",
+          "org": "Miren Holdings Inc.",
+          "confidence": 0.8,
+          "sources": [
+            2
+          ]
+        },
+        {
+          "role": "Director",
+          "org": "Chelsea Logistics and Infrastructure Holdings Corp.",
+          "year": 2017,
+          "confidence": 0.85,
+          "sources": [
+            3
+          ]
+        }
+      ],
+      "awards": [],
+      "leadership_style": {
+        "operational_execution_focus": {
+          "value": true,
+          "confidence": 0.75,
+          "sources": [
+            5,
+            6
+          ],
+          "note": "Public account emphasizes hands-on build-up from a small fleet of 3-4 trucks to a 20+ company group"
+        },
+        "government_and_institutional_client_orientation": {
+          "value": true,
+          "confidence": 0.75,
+          "sources": [
+            4,
+            6
+          ],
+          "note": "F2 has repeatedly won large government logistics contracts (COMELEC election materials distribution, 2018/2019/2022)"
+        }
+      },
+      "strategic_priorities": [
+        {
+          "priority": "Nationwide Distribution Network Reliability",
+          "detail": "Public commendation for 100% delivery performance on nationwide COMELEC election-materials contracts",
+          "confidence": 0.8,
+          "sources": [
+            6
+          ]
+        },
+        {
+          "priority": "Diversified Logistics Portfolio",
+          "detail": "Growth from a single trucking operation into a group of 20+ companies spanning warehousing, cold chain, freight forwarding, customs brokerage",
+          "confidence": 0.8,
+          "sources": [
+            1,
+            5
+          ]
+        },
+        {
+          "priority": "Cost-Efficient Supply Chain for Consumer Goods",
+          "detail": "Publicly stated mission of bringing down the cost of goods for Filipino consumers through efficient logistics",
+          "confidence": 0.75,
+          "sources": [
+            5
+          ]
+        }
+      ],
+      "technology_interests": [
+        {
+          "topic": "Cold Chain Distribution",
+          "evidence_strength": "company_service_line",
+          "confidence": 0.7,
+          "sources": [
+            1
+          ]
+        },
+        {
+          "topic": "ISO Tank Solutions / Specialized Freight Handling",
+          "evidence_strength": "company_service_line",
+          "confidence": 0.65,
+          "sources": [
+            1
+          ]
+        },
+        {
+          "topic": "Artificial Intelligence / Digital Transformation",
+          "evidence_strength": "inferred",
+          "confidence": 0.15,
+          "inferred": true,
+          "sources": [],
+          "note": "No direct public quote found from Efren Uy on AI, automation, or digital transformation specifically. Do not use as a Technology Alignment driver."
+        }
+      ],
+      "event_signals": {
+        "interested_in_ai": {
+          "value": "unknown",
+          "confidence": 0.15,
+          "note": "no direct evidence"
+        },
+        "interested_in_digital_transformation": {
+          "value": "unknown",
+          "confidence": 0.2,
+          "note": "no direct evidence found; company offers technology-adjacent services (cold chain, ISO tank) but no personal statements located"
+        },
+        "interested_in_operational_efficiency": {
+          "value": true,
+          "confidence": 0.75,
+          "sources": [
+            5,
+            6
+          ]
+        },
+        "interested_in_government_and_institutional_logistics": {
+          "value": true,
+          "confidence": 0.8,
+          "sources": [
+            4,
+            6
+          ]
+        }
+      },
+      "communication_style": {
+        "register": "founder_practitioner",
+        "traits": [
+          {
+            "trait": "origin_story_narrative",
+            "confidence": 0.7,
+            "sources": [
+              5
+            ],
+            "note": "frequently frames his public remarks around his founding story and early struggles building the company"
+          }
+        ]
+      },
+      "decision_profile": {
+        "growth_orientation": {
+          "value": "high",
+          "confidence": 0.75,
+          "sources": [
+            1,
+            5
+          ]
+        },
+        "operational_focus": {
+          "value": "high",
+          "confidence": 0.75,
+          "sources": [
+            5,
+            6
+          ]
+        },
+        "technology_adoption_posture": {
+          "value": "unknown",
+          "confidence": 0.2,
+          "note": "insufficient direct evidence to characterize"
+        },
+        "budget_influence": {
+          "value": "high",
+          "confidence": 0.7,
+          "inferred": true,
+          "note": "inferred from founder/President-CEO role across a 20+ company group"
+        }
+      },
+      "explicit_unknowns": [
+        "Whether Efren Uy currently holds a Chairman title at F2 Logistics (conflicting sources \u2014 see current_position_chairman_note)",
+        "Direct public statements on AI, automation, or digital transformation",
+        "Sustainability/ESG stance",
+        "Board memberships or industry-association roles beyond Chelsea Logistics directorship",
+        "Exact founding capital and current headcount/fleet size"
+      ],
+      "executive_keywords": [
+        "Logistics",
+        "Selling Distribution",
+        "Cold Chain",
+        "Freight Forwarding",
+        "Government Contracts",
+        "Nationwide Trucking"
+      ],
+      "industry_tags": [
+        "Distribution",
+        "Logistics",
+        "Supply Chain",
+        "Philippines"
+      ],
+      "relationships": {
+        "board_memberships": [
+          "Director, Chelsea Logistics and Infrastructure Holdings Corp. (since 2017)"
+        ],
+        "industry_organizations": []
+      },
+      "merge_notes_for_trust_engine": {
+        "primary_confidence_drivers": [
+          "identity/title (multiple official and news sources)",
+          "government contract track record"
+        ],
+        "secondary_lower_weight": [
+          "Chairman title \u2014 explicitly conflicting across sources, low confidence",
+          "AI/digital transformation interest \u2014 no direct evidence, do not use as Technology Alignment driver"
+        ],
+        "recommendation": "Sufficient evidence for Operations / Supply Chain / Distribution-network event themes. Insufficient evidence for AI or Digital Transformation-specific themes \u2014 do not match to AI-focused events without further direct research."
+      }
+    },
+    {
+      "executive_intelligence_object_version": "1.0",
+      "entry_status": "verified_curated",
+      "source_registry": {
+        "1": {
+          "domain": "craft.co",
+          "title": "2GO CEO and Key Executive Team",
+          "type": "third_party_business_data",
+          "trust_tier": "medium"
+        },
+        "2": {
+          "domain": "manilatimes.net",
+          "title": "DyBuncio is 2GO's president and CEO",
+          "type": "third_party_news",
+          "trust_tier": "high",
+          "date": "2020-12-04"
+        },
+        "3": {
+          "domain": "bilyonaryo.com",
+          "title": "DyBuncio's growth plans for 2Go: Connecting more regions and building a sustainable logistics network",
+          "type": "third_party_news",
+          "trust_tier": "high",
+          "date": "2025-01-07"
+        },
+        "4": {
+          "domain": "insiderph.com",
+          "title": "INSIDER INSIGHT: How DyBuncio made money-losing 2GO a world-class logistics firm",
+          "type": "third_party_news",
+          "trust_tier": "high"
+        },
+        "5": {
+          "domain": "feature-asia.com",
+          "title": "Frederic DyBuncio: Champion of Sustainable Business",
+          "type": "third_party_editorial",
+          "trust_tier": "medium",
+          "date": "2025-06-15"
+        },
+        "6": {
+          "domain": "en.wikipedia.org",
+          "title": "2GO Group",
+          "type": "encyclopedic_reference",
+          "trust_tier": "medium"
+        },
+        "7": {
+          "domain": "theofficialboard.com",
+          "title": "Frederic DyBuncio Bio \u2013 2GO Group CEO & Chairman",
+          "type": "third_party_business_data",
+          "trust_tier": "medium"
+        }
+      },
+      "excluded_sources": [
+        {
+          "reason": "ai_generated_content_risk",
+          "detail": "Feature Asia profile (source 5) reads as editorial/aggregated content; used only for the JPMorgan Chase career-history claim, cross-checked against other sources for consistency, not for any figure or quote."
+        }
+      ],
+      "identity": {
+        "full_name": {
+          "value": "Frederic C. DyBuncio",
+          "confidence": 0.95,
+          "sources": [
+            2,
+            6
+          ]
+        },
+        "current_position": {
+          "value": "President, Chief Executive Officer, and Chairman of the Board",
+          "confidence": 0.75,
+          "sources": [
+            1,
+            6
+          ],
+          "note": "Craft.co and Wikipedia (2GO infobox) both list him as holding Chairman in addition to President/CEO; however, a 2020 Manila Times report (source 2) names Dennis Uy as chairman at that time. Chairman title appears to have transferred to DyBuncio after 2020 \u2014 treated as current per more recent sources 1 and 6, but flagged as a role that changed over time rather than a long-held title."
+        },
+        "current_company": {
+          "value": "2GO Group, Inc.",
+          "confidence": 0.95,
+          "sources": [
+            2,
+            3,
+            6
+          ]
+        },
+        "company_parent_group": {
+          "value": "SM Investments Corporation (SM Group, led by the Sy family)",
+          "confidence": 0.9,
+          "sources": [
+            3,
+            5
+          ]
+        },
+        "prior_role_note": {
+          "value": "President and CEO of SM Investments Corporation (SMIC) since 2017; also previously President and CEO of Belle Corporation and Premium Leisure",
+          "confidence": 0.8,
+          "sources": [
+            5,
+            7
+          ]
+        },
+        "education": [
+          {
+            "degree": "BS Business Management",
+            "institution": "Ateneo de Manila University",
+            "confidence": 0.8,
+            "sources": [
+              5
+            ]
+          },
+          {
+            "degree": "MBA",
+            "institution": "Asian Institute of Management",
+            "confidence": 0.8,
+            "sources": [
+              5,
+              7
+            ]
+          }
+        ],
+        "career_background_note": {
+          "value": "Spent over two decades at JPMorgan Chase and predecessor institutions in New York, Seoul, Bangkok, Hong Kong, and Manila across credit, relationship management, investment banking, and capital markets roles before moving into Philippine conglomerate leadership",
+          "confidence": 0.7,
+          "sources": [
+            5
+          ]
+        }
+      },
+      "career_history": [
+        {
+          "role": "Various executive roles",
+          "org": "JPMorgan Chase and predecessor institutions",
+          "confidence": 0.7,
+          "sources": [
+            5
+          ]
+        },
+        {
+          "role": "President and Chief Executive Officer",
+          "org": "Belle Corporation; Premium Leisure",
+          "confidence": 0.75,
+          "sources": [
+            7
+          ]
+        },
+        {
+          "role": "President and Chief Executive Officer",
+          "org": "SM Investments Corporation",
+          "year": 2017,
+          "confidence": 0.85,
+          "sources": [
+            5,
+            7
+          ]
+        },
+        {
+          "role": "President and CEO (joined 2GO)",
+          "org": "2GO Group, Inc.",
+          "year": 2017,
+          "confidence": 0.85,
+          "sources": [
+            7
+          ]
+        },
+        {
+          "role": "Chairman of the Board (in addition to President/CEO)",
+          "org": "2GO Group, Inc.",
+          "confidence": 0.6,
+          "sources": [
+            1,
+            6
+          ],
+          "note": "see current_position note on Chairman timeline uncertainty"
+        }
+      ],
+      "awards": [],
+      "leadership_style": {
+        "operational_efficiency_focus": {
+          "value": true,
+          "confidence": 0.85,
+          "sources": [
+            3,
+            4
+          ],
+          "note": "On record: 'You can't scale up with manual processes. Technology is key.'"
+        },
+        "growth_and_network_expansion_oriented": {
+          "value": true,
+          "confidence": 0.85,
+          "sources": [
+            3
+          ],
+          "note": "2025 growth plan centered on expanding shipping routes to Davao/General Santos and new logistics solutions"
+        },
+        "sustainability_oriented": {
+          "value": true,
+          "confidence": 0.65,
+          "sources": [
+            5
+          ],
+          "note": "Profiled specifically for sustainable-business leadership, including renewable energy investment at SMIC and digital/logistics enhancement at 2GO"
+        },
+        "financially_disciplined": {
+          "value": true,
+          "confidence": 0.7,
+          "sources": [
+            4
+          ],
+          "note": "On record that 2GO's fleet/facility investments have been funded from internal cash flow without additional shareholder funding since 2017"
+        }
+      },
+      "strategic_priorities": [
+        {
+          "priority": "Regional Network Expansion",
+          "detail": "Extended shipping routes to Davao and General Santos City (2024); 2025 goals to further improve interregional connectivity",
+          "confidence": 0.85,
+          "sources": [
+            3
+          ]
+        },
+        {
+          "priority": "Cold Chain Logistics Investment",
+          "detail": "Investing in refrigerated transport and ISO tank services for perishable-goods demand",
+          "confidence": 0.8,
+          "sources": [
+            3
+          ]
+        },
+        {
+          "priority": "Technology-Driven Supply Chain Efficiency",
+          "detail": "Direct quote framing technology as essential to scaling package-handling volume with speed and accuracy",
+          "confidence": 0.85,
+          "sources": [
+            4
+          ]
+        },
+        {
+          "priority": "Passenger-Cargo Hybrid Model Growth",
+          "detail": "Positions 2GO's combined passenger/cargo sea-travel model as a differentiator versus competitors exiting warehousing/logistics",
+          "confidence": 0.75,
+          "sources": [
+            4
+          ]
+        },
+        {
+          "priority": "Sustainable Business Practices",
+          "detail": "Championed renewable energy investment (e.g., geothermal) at SMIC and framed as part of broader sustainability commitment",
+          "confidence": 0.65,
+          "sources": [
+            5
+          ]
+        }
+      ],
+      "technology_interests": [
+        {
+          "topic": "Supply Chain Technology / Process Automation",
+          "evidence_strength": "direct_quote",
+          "confidence": 0.85,
+          "sources": [
+            4
+          ],
+          "note": "Direct quote: 'You can't scale up with manual processes. Technology is key.'"
+        },
+        {
+          "topic": "E-commerce and Logistics Digital Transformation",
+          "evidence_strength": "editorial_summary",
+          "confidence": 0.65,
+          "sources": [
+            5
+          ],
+          "note": "described as having 'championed digital transformation' enhancing e-commerce platforms and logistics services; not a direct quote"
+        },
+        {
+          "topic": "Cold Chain / Refrigerated Transport Technology",
+          "evidence_strength": "company_initiative",
+          "confidence": 0.8,
+          "sources": [
+            3
+          ]
+        },
+        {
+          "topic": "Artificial Intelligence",
+          "evidence_strength": "inferred",
+          "confidence": 0.25,
+          "inferred": true,
+          "sources": [],
+          "note": "No direct AI-specific quote found; inferred only from general digital transformation and technology-adoption framing"
+        }
+      ],
+      "event_signals": {
+        "interested_in_ai": {
+          "value": "unknown",
+          "confidence": 0.25,
+          "note": "no direct evidence; do not treat as confirmed"
+        },
+        "interested_in_digital_transformation": {
+          "value": true,
+          "confidence": 0.75,
+          "sources": [
+            4,
+            5
+          ]
+        },
+        "interested_in_supply_chain_technology": {
+          "value": true,
+          "confidence": 0.85,
+          "sources": [
+            3,
+            4
+          ]
+        },
+        "interested_in_sustainability": {
+          "value": true,
+          "confidence": 0.65,
+          "sources": [
+            5
+          ]
+        }
+      },
+      "communication_style": {
+        "register": "formal_executive",
+        "traits": [
+          {
+            "trait": "metrics_and_operations_focused",
+            "confidence": 0.75,
+            "sources": [
+              4
+            ],
+            "note": "public remarks emphasize scale, efficiency, and internally-funded growth over promotional language"
+          },
+          {
+            "trait": "customer_experience_narrative",
+            "confidence": 0.6,
+            "sources": [
+              4
+            ],
+            "note": "references customer reactions and campaigns like '2GOkada' in interviews"
+          }
+        ]
+      },
+      "decision_profile": {
+        "innovation_appetite": {
+          "value": "high",
+          "confidence": 0.75,
+          "sources": [
+            3,
+            4
+          ]
+        },
+        "technology_adoption_posture": {
+          "value": "high",
+          "confidence": 0.8,
+          "sources": [
+            4
+          ]
+        },
+        "growth_orientation": {
+          "value": "high",
+          "confidence": 0.85,
+          "sources": [
+            3
+          ]
+        },
+        "budget_influence": {
+          "value": "high",
+          "confidence": 0.75,
+          "sources": [
+            7
+          ],
+          "inferred": true,
+          "note": "inferred from concurrent President/CEO role at parent company SM Investments Corporation"
+        },
+        "financial_discipline": {
+          "value": "high",
+          "confidence": 0.7,
+          "sources": [
+            4
+          ]
+        }
+      },
+      "explicit_unknowns": [
+        "Exact date Chairman title (vs. President/CEO alone) was formally conferred at 2GO",
+        "Specific AI adoption plans or AI-related public statements",
+        "Current concurrent status at SM Investments Corporation as of 2026 (career-history sources are from 2025 and earlier)",
+        "Board memberships beyond 2GO and SMIC",
+        "Detailed sustainability/ESG targets or metrics"
+      ],
+      "executive_keywords": [
+        "Logistics",
+        "Sea Freight",
+        "Supply Chain Technology",
+        "Network Expansion",
+        "Cold Chain",
+        "Sustainability",
+        "E-commerce Logistics"
+      ],
+      "industry_tags": [
+        "Distribution",
+        "Logistics",
+        "Shipping",
+        "Supply Chain",
+        "Philippines"
+      ],
+      "relationships": {
+        "board_memberships": [
+          "President and CEO, SM Investments Corporation (as of most recent available sources)"
+        ],
+        "industry_organizations": []
+      },
+      "merge_notes_for_trust_engine": {
+        "primary_confidence_drivers": [
+          "identity/title",
+          "direct on-record quotes on technology-driven scaling",
+          "2025 growth-strategy reporting"
+        ],
+        "secondary_lower_weight": [
+          "Chairman title timeline \u2014 moderate confidence, transferred role",
+          "AI-specific interest \u2014 inferred only, low confidence"
+        ],
+        "recommendation": "Strong evidence for Digital Transformation / Supply Chain Technology / Sustainability event themes; weak evidence specifically for AI \u2014 flag for additional research before an AI-focused invitation decision."
+      }
+    },
+    {
+      "executive_intelligence_object_version": "1.0",
+      "entry_status": "verified_curated",
+      "source_registry": {
+        "1": {
+          "domain": "business.inquirer.net",
+          "title": "LBC Express marks the retirement of CEO Mike Camahort",
+          "type": "third_party_news",
+          "trust_tier": "high",
+          "date": "2025-08-29"
+        },
+        "2": {
+          "domain": "manilatimes.net",
+          "title": "LBC Express chairman to step down in October",
+          "type": "third_party_news",
+          "trust_tier": "high",
+          "date": "2025-08-28"
+        },
+        "3": {
+          "domain": "context.ph",
+          "title": "LBC Express announces major leadership changes",
+          "type": "third_party_news",
+          "trust_tier": "high",
+          "date": "2025-08-27"
+        },
+        "4": {
+          "domain": "sunstar.com.ph",
+          "title": "LBC Express Appoints Enrique Rey Jr. as CEO",
+          "type": "third_party_news",
+          "trust_tier": "high",
+          "date": "2025-09-04"
+        },
+        "5": {
+          "domain": "theorg.com",
+          "title": "Enrique V. Rey Jr. \u2014 CFO & Investor Relations Officer at LBC Express",
+          "type": "third_party_business_data",
+          "trust_tier": "medium"
+        },
+        "6": {
+          "domain": "lbcexpressholdings.com",
+          "title": "LBC Express Inc. Management Team \u2013 LBC Holding Annual Report 2020",
+          "type": "official_company_source",
+          "trust_tier": "high"
+        },
+        "7": {
+          "domain": "en.wikipedia.org",
+          "title": "LBC Express",
+          "type": "encyclopedic_reference",
+          "trust_tier": "medium"
+        }
+      },
+      "excluded_sources": [
+        {
+          "reason": "unrelated_person",
+          "detail": "'Enrique Riquelme' (Real Madrid presidential candidate) search result excluded \u2014 different, unrelated individual."
+        }
+      ],
+      "identity": {
+        "full_name": {
+          "value": "Enrique V. Rey Jr.",
+          "confidence": 0.95,
+          "sources": [
+            1,
+            4
+          ]
+        },
+        "current_position": {
+          "value": "President and Chief Executive Officer",
+          "confidence": 0.9,
+          "sources": [
+            1,
+            3,
+            4,
+            7
+          ],
+          "note": "Appointed effective October 1, 2025, to serve the remainder of predecessor Miguel Angel A. Camahort's term"
+        },
+        "current_company": {
+          "value": "LBC Express Holdings, Inc.",
+          "confidence": 0.95,
+          "sources": [
+            1,
+            4,
+            7
+          ]
+        },
+        "role_start_date": {
+          "value": "October 1, 2025",
+          "confidence": 0.9,
+          "sources": [
+            1,
+            3,
+            4
+          ]
+        },
+        "education": [
+          {
+            "degree": "Attended",
+            "institution": "De La Salle University",
+            "confidence": 0.8,
+            "sources": [
+              5
+            ]
+          },
+          {
+            "degree": "Management program",
+            "institution": "Ateneo Business School",
+            "confidence": 0.7,
+            "sources": [
+              5
+            ]
+          },
+          {
+            "degree": "Executive training in Finance",
+            "institution": "INSEAD",
+            "confidence": 0.7,
+            "sources": [
+              5
+            ]
+          }
+        ]
+      },
+      "career_history": [
+        {
+          "role": "Associate Vice President, Institutional Sales",
+          "org": "Coca-Cola Phil ATS",
+          "year": "2000-2003",
+          "confidence": 0.75,
+          "sources": [
+            5
+          ]
+        },
+        {
+          "role": "Senior Head of Sales",
+          "org": "Coca-Cola Phil ATS",
+          "year": "2003-2005",
+          "confidence": 0.75,
+          "sources": [
+            5
+          ]
+        },
+        {
+          "role": "Director",
+          "org": "LBC Mundial Inc.",
+          "year": "2005-2008",
+          "confidence": 0.75,
+          "sources": [
+            5
+          ]
+        },
+        {
+          "role": "Director",
+          "org": "LBC Systems, Inc.",
+          "year": "2008-2010",
+          "confidence": 0.75,
+          "sources": [
+            5
+          ]
+        },
+        {
+          "role": "Investor Relations Officer",
+          "org": "LBC Express Holdings, Inc.",
+          "year": 2015,
+          "confidence": 0.85,
+          "sources": [
+            5
+          ]
+        },
+        {
+          "role": "Chief Finance Officer, Chief Risk Officer, Compliance & Investor Relations Officer",
+          "org": "LBC Express Holdings, Inc.",
+          "year": 2017,
+          "confidence": 0.9,
+          "sources": [
+            5,
+            6
+          ]
+        },
+        {
+          "role": "President and Chief Executive Officer",
+          "org": "LBC Express Holdings, Inc.",
+          "year": 2025,
+          "confidence": 0.9,
+          "sources": [
+            1,
+            3,
+            4
+          ]
+        }
+      ],
+      "awards": [],
+      "leadership_style": {
+        "finance_and_governance_grounded": {
+          "value": true,
+          "confidence": 0.8,
+          "sources": [
+            5,
+            6
+          ],
+          "note": "Nearly a decade as CFO/Chief Risk Officer/Compliance & Investor Relations Officer prior to becoming CEO"
+        },
+        "continuity_and_transformation_orientation": {
+          "value": true,
+          "confidence": 0.6,
+          "sources": [
+            1,
+            4
+          ],
+          "note": "Publicly described by the company as bringing 'deep experience in business strategy and transformation'; framed as continuing predecessor's growth/digital transformation legacy rather than an abrupt strategic pivot"
+        }
+      },
+      "strategic_priorities": [
+        {
+          "priority": "Operational Excellence and Innovation",
+          "detail": "Publicly stated mandate alongside new CFO and Chairman to 'drive operational excellence and innovation'",
+          "confidence": 0.75,
+          "sources": [
+            4
+          ]
+        },
+        {
+          "priority": "Continuity of Corporate Solutions (B2B) Growth",
+          "detail": "Inherits LBC Corporate Solutions division, described as a key revenue driver built under predecessor Camahort",
+          "confidence": 0.7,
+          "sources": [
+            1,
+            3
+          ]
+        },
+        {
+          "priority": "Customer-Centric, Care-Oriented Service Mission",
+          "detail": "New leadership team publicly reaffirmed mission to 'move lives, businesses, and communities with care'",
+          "confidence": 0.65,
+          "sources": [
+            1
+          ]
+        }
+      ],
+      "technology_interests": [
+        {
+          "topic": "E-commerce Logistics",
+          "evidence_strength": "company_context",
+          "confidence": 0.6,
+          "sources": [
+            1
+          ],
+          "note": "cited as part of predecessor's legacy that new leadership is building on, not a direct Rey quote"
+        },
+        {
+          "topic": "Digital Transformation",
+          "evidence_strength": "company_context",
+          "confidence": 0.5,
+          "sources": [
+            3
+          ],
+          "note": "attributed to Camahort's tenure; new leadership's specific digital agenda not yet independently documented"
+        },
+        {
+          "topic": "Artificial Intelligence",
+          "evidence_strength": "inferred",
+          "confidence": 0.1,
+          "inferred": true,
+          "sources": [],
+          "note": "No evidence found; Rey has been CEO only since October 2025 and no direct public statements on AI, automation, or technology strategy were located"
+        }
+      ],
+      "event_signals": {
+        "interested_in_ai": {
+          "value": "unknown",
+          "confidence": 0.1,
+          "note": "no evidence; recently appointed CEO with limited public statement history"
+        },
+        "interested_in_digital_transformation": {
+          "value": "unknown",
+          "confidence": 0.4,
+          "note": "inherited company narrative, not yet a personally-attributed priority"
+        },
+        "interested_in_operational_excellence": {
+          "value": true,
+          "confidence": 0.75,
+          "sources": [
+            4
+          ]
+        },
+        "interested_in_corporate_solutions_b2b_growth": {
+          "value": true,
+          "confidence": 0.65,
+          "sources": [
+            1,
+            3
+          ]
+        }
+      },
+      "communication_style": {
+        "register": "formal_executive",
+        "traits": [
+          {
+            "trait": "governance_and_finance_oriented_framing",
+            "confidence": 0.65,
+            "sources": [
+              5,
+              6
+            ],
+            "note": "career background in finance/risk/compliance roles predates limited public-facing CEO communications to date"
+          }
+        ]
+      },
+      "decision_profile": {
+        "operational_focus": {
+          "value": "high",
+          "confidence": 0.7,
+          "sources": [
+            4
+          ],
+          "inferred": true
+        },
+        "budget_influence": {
+          "value": "high",
+          "confidence": 0.75,
+          "sources": [
+            5,
+            6
+          ],
+          "note": "long tenure as CFO/Chief Risk Officer gives strong direct evidence of financial decision authority prior to CEO role"
+        },
+        "technology_adoption_posture": {
+          "value": "unknown",
+          "confidence": 0.15,
+          "note": "insufficient direct evidence; too new in CEO role"
+        },
+        "risk_orientation": {
+          "value": "governance-grounded",
+          "confidence": 0.7,
+          "sources": [
+            5,
+            6
+          ],
+          "note": "extensive prior role as Chief Risk Officer and Compliance Officer"
+        }
+      },
+      "explicit_unknowns": [
+        "Direct public statements by Rey (as CEO) on technology, AI, or digital transformation strategy",
+        "Specific initiatives launched under his CEO tenure (appointment is recent \u2014 effective Oct 1, 2025; limited post-appointment public record as of this research)",
+        "Sustainability/ESG stance",
+        "Full educational credentials (degree names/years not specified in available sources)",
+        "Board memberships outside LBC entities"
+      ],
+      "executive_keywords": [
+        "Courier",
+        "Logistics",
+        "Corporate Solutions",
+        "Operational Excellence",
+        "Finance",
+        "Risk Management",
+        "Leadership Transition"
+      ],
+      "industry_tags": [
+        "Distribution",
+        "Courier",
+        "Logistics",
+        "Philippines"
+      ],
+      "relationships": {
+        "board_memberships": [
+          "Member, Institute of Internal Auditors Philippines (since 2010)"
+        ],
+        "industry_organizations": []
+      },
+      "merge_notes_for_trust_engine": {
+        "primary_confidence_drivers": [
+          "identity/title (multiple high-trust news sources)",
+          "verified career history as CFO/Chief Risk Officer prior to CEO appointment"
+        ],
+        "secondary_lower_weight": [
+          "strategic priorities \u2014 largely inherited/company-level statements at time of appointment, not yet personally-attributed follow-through",
+          "technology/AI interest \u2014 no direct evidence, very low confidence due to short CEO tenure"
+        ],
+        "recommendation": "Sufficient evidence for Operational Excellence / Finance & Risk Governance event themes. Insufficient evidence for AI or Digital Transformation-specific themes given his very recent (Oct 2025) transition into the CEO role \u2014 recommend a follow-up research pass in 6-12 months as more CEO-era public statements accumulate."
+      }
+    }
+  ]
+}

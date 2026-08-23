@@ -1,0 +1,624 @@
+{
+  "executive": {
+    "name": "Anna Ma. Margarita B. Dy",
+    "title": "President and CEO",
+    "company": "Ayala Land, Inc."
+  },
+  "sources": [
+    {
+      "id": "src-1",
+      "url": "https://ir.ayalaland.com.ph",
+      "title": "Board of Directors — Ayala Land Investor Relations",
+      "sourceName": "ir.ayalaland.com.ph",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": "2026-05-25",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-2",
+      "url": "https://ir.ayalaland.com.ph",
+      "title": "Management Team and Officers — Ayala Land Investor Relations",
+      "sourceName": "ir.ayalaland.com.ph",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": "2025-08-19",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-3",
+      "url": "https://business.inquirer.net",
+      "title": "Anna 'Meean' Dy named new Ayala Land president and CEO",
+      "sourceName": "business.inquirer.net",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2023-09-06",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-4",
+      "url": "https://mb.com.ph",
+      "title": "Ayala Land enters next phase with leasing pivot, delivery focus",
+      "sourceName": "mb.com.ph",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2026-05-05",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-5",
+      "url": "https://seekingalpha.com",
+      "title": "Ayala Land, Inc. (AYAAY) Q1 2026 Earnings Call Transcript",
+      "sourceName": "seekingalpha.com",
+      "sourceTier": 1,
+      "sourceType": "industry_report",
+      "snippet": "",
+      "publishedDate": "2026-05-04",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-6",
+      "url": "https://business.inquirer.net",
+      "title": "Ayala Land puts innovation, technology at the center of building sustainable communities",
+      "sourceName": "business.inquirer.net",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2024-03-11",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-7",
+      "url": "https://en.wikipedia.org",
+      "title": "Ayala Land (company overview / financials)",
+      "sourceName": "en.wikipedia.org",
+      "sourceTier": 2,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-8",
+      "url": "https://bloomberg.com",
+      "title": "Anna Maria Margarita Bautista Dy — Bloomberg profile",
+      "sourceName": "bloomberg.com",
+      "sourceTier": 1,
+      "sourceType": "industry_report",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    }
+  ],
+  "facts": [
+    {
+      "factId": "fact-identity-0",
+      "category": "biography",
+      "subject": "Anna Ma. Margarita B. Dy",
+      "predicate": "name",
+      "value": "Anna Ma. Margarita B. Dy",
+      "sourceIds": [
+        "src-1",
+        "src-2"
+      ],
+      "confidence": 0.97,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "full_name"
+      }
+    },
+    {
+      "factId": "fact-identity-1",
+      "category": "biography",
+      "subject": "Anna Ma. Margarita B. Dy",
+      "predicate": "title",
+      "value": "President and CEO",
+      "sourceIds": [
+        "src-1",
+        "src-5"
+      ],
+      "confidence": 0.97,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "current_position"
+      }
+    },
+    {
+      "factId": "fact-identity-2",
+      "category": "biography",
+      "subject": "Anna Ma. Margarita B. Dy",
+      "predicate": "company",
+      "value": "Ayala Land, Inc.",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.97,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "current_company"
+      }
+    },
+    {
+      "factId": "fact-education-3",
+      "category": "biography",
+      "subject": "Anna Ma. Margarita B. Dy",
+      "predicate": "education",
+      "value": "BS Economics (Honors Program), magna cum laude, Ateneo de Manila University",
+      "sourceIds": [
+        "src-3"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "education"
+      }
+    },
+    {
+      "factId": "fact-education-4",
+      "category": "biography",
+      "subject": "Anna Ma. Margarita B. Dy",
+      "predicate": "education",
+      "value": "MSc Economics, London School of Economics and Political Science",
+      "sourceIds": [
+        "src-3"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "education"
+      }
+    },
+    {
+      "factId": "fact-education-5",
+      "category": "biography",
+      "subject": "Anna Ma. Margarita B. Dy",
+      "predicate": "education",
+      "value": "MBA, Harvard Graduate School of Business Administration",
+      "sourceIds": [
+        "src-3"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "education"
+      }
+    },
+    {
+      "factId": "fact-career-6",
+      "category": "professional_history",
+      "subject": "Anna Ma. Margarita B. Dy",
+      "predicate": "career_history",
+      "value": "Member, Management Committee at Ayala Land, Inc.",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-7",
+      "category": "professional_history",
+      "subject": "Anna Ma. Margarita B. Dy",
+      "predicate": "career_history",
+      "value": "Senior Vice President at Ayala Land, Inc.",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-8",
+      "category": "professional_history",
+      "subject": "Anna Ma. Margarita B. Dy",
+      "predicate": "career_history",
+      "value": "Head, Residential Business Group at Ayala Land, Inc.",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-9",
+      "category": "professional_history",
+      "subject": "Anna Ma. Margarita B. Dy",
+      "predicate": "career_history",
+      "value": "Head, Malls, Offices and Hotels & Resorts Group at Ayala Land, Inc.",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-10",
+      "category": "professional_history",
+      "subject": "Anna Ma. Margarita B. Dy",
+      "predicate": "career_history",
+      "value": "Executive Vice President at Ayala Land, Inc.",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-11",
+      "category": "professional_history",
+      "subject": "Anna Ma. Margarita B. Dy",
+      "predicate": "career_history",
+      "value": "President and Chief Executive Officer at Ayala Land, Inc.",
+      "sourceIds": [
+        "src-1",
+        "src-3"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-strategy-12",
+      "category": "strategic_priorities",
+      "subject": "Anna Ma. Margarita B. Dy",
+      "predicate": "strategic_priority",
+      "value": "Pivot to Leasing / Recurring Income Growth: 2026 strategy accelerates leasing to build a stronger recurring income base; retail leasing showing ~12% growth even with only 2 of 4 major mall redevelopments complete",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.92,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-13",
+      "category": "strategic_priorities",
+      "subject": "Anna Ma. Margarita B. Dy",
+      "predicate": "strategic_priority",
+      "value": "Inventory Monetization / Property Development Discipline: Monetizing ~19 months' worth of inventory (₱130B), delivering 13,000 residential units in 2026",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-14",
+      "category": "strategic_priorities",
+      "subject": "Anna Ma. Margarita B. Dy",
+      "predicate": "strategic_priority",
+      "value": "Balance Sheet Discipline / Active Portfolio Management: 2026 launches cut to ₱30B from prior ₱70B pace amid global uncertainty",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.88,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-tech-15",
+      "category": "technology_interests",
+      "subject": "Anna Ma. Margarita B. Dy",
+      "predicate": "technology_interest",
+      "value": "AI/Drone-Based Construction Quality Inspection",
+      "sourceIds": [
+        "src-6"
+      ],
+      "confidence": 0.55,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "verified_program"
+      }
+    },
+    {
+      "factId": "fact-tech-16",
+      "category": "technology_interests",
+      "subject": "Anna Ma. Margarita B. Dy",
+      "predicate": "technology_interest",
+      "value": "Digital Customer Platforms",
+      "sourceIds": [
+        "src-6"
+      ],
+      "confidence": 0.4,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "inferred_from_company_history"
+      }
+    },
+    {
+      "factId": "fact-tech-17",
+      "category": "technology_interests",
+      "subject": "Anna Ma. Margarita B. Dy",
+      "predicate": "technology_interest",
+      "value": "Artificial Intelligence (personal interest/statement)",
+      "sourceIds": [],
+      "confidence": 0.2,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "inferred"
+      }
+    },
+    {
+      "factId": "fact-decision-18",
+      "category": "decision_profile",
+      "subject": "Anna Ma. Margarita B. Dy",
+      "predicate": "decision_dimension",
+      "value": "Risk Posture: disciplined/conservative",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "risk_posture"
+      }
+    },
+    {
+      "factId": "fact-decision-19",
+      "category": "decision_profile",
+      "subject": "Anna Ma. Margarita B. Dy",
+      "predicate": "decision_dimension",
+      "value": "Budget Influence: high",
+      "sourceIds": [
+        "src-7"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "budget_influence"
+      }
+    },
+    {
+      "factId": "fact-decision-20",
+      "category": "decision_profile",
+      "subject": "Anna Ma. Margarita B. Dy",
+      "predicate": "decision_dimension",
+      "value": "Strategic Influence: high",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "strategic_influence"
+      }
+    },
+    {
+      "factId": "fact-decision-21",
+      "category": "decision_profile",
+      "subject": "Anna Ma. Margarita B. Dy",
+      "predicate": "decision_dimension",
+      "value": "Growth Orientation: tempered/measured",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "growth_orientation"
+      }
+    },
+    {
+      "factId": "fact-signals-22",
+      "category": "event_signals",
+      "subject": "Anna Ma. Margarita B. Dy",
+      "predicate": "event_interest",
+      "value": "Interested in Smart Buildings Proptech",
+      "sourceIds": [
+        "src-6"
+      ],
+      "confidence": 0.55,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_smart_buildings_proptech"
+      }
+    },
+    {
+      "factId": "fact-signals-23",
+      "category": "event_signals",
+      "subject": "Anna Ma. Margarita B. Dy",
+      "predicate": "event_interest",
+      "value": "Interested in Leasing Crm Analytics",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_leasing_crm_analytics"
+      }
+    },
+    {
+      "factId": "fact-boards-24",
+      "category": "professional_history",
+      "subject": "Anna Ma. Margarita B. Dy",
+      "predicate": "board_membership",
+      "value": "Director, Ayala Land, Inc. (Executive)",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-keywords-25",
+      "category": "executive_keywords",
+      "subject": "Anna Ma. Margarita B. Dy",
+      "predicate": "keyword",
+      "value": "Leasing Pivot",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-26",
+      "category": "executive_keywords",
+      "subject": "Anna Ma. Margarita B. Dy",
+      "predicate": "keyword",
+      "value": "Recurring Income",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-27",
+      "category": "executive_keywords",
+      "subject": "Anna Ma. Margarita B. Dy",
+      "predicate": "keyword",
+      "value": "Portfolio Discipline",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-28",
+      "category": "executive_keywords",
+      "subject": "Anna Ma. Margarita B. Dy",
+      "predicate": "keyword",
+      "value": "Residential Development",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-29",
+      "category": "executive_keywords",
+      "subject": "Anna Ma. Margarita B. Dy",
+      "predicate": "keyword",
+      "value": "Mall Redevelopment",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-30",
+      "category": "executive_keywords",
+      "subject": "Anna Ma. Margarita B. Dy",
+      "predicate": "keyword",
+      "value": "First Female CEO",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-comm-31",
+      "category": "communication_style",
+      "subject": "Anna Ma. Margarita B. Dy",
+      "predicate": "communication_register",
+      "value": "formal_executive",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "communication_style"
+      }
+    }
+  ],
+  "metadata": {
+    "original_format": "executive_intelligence_object",
+    "version": "1.0",
+    "entry_status": "verified_curated"
+  }
+}

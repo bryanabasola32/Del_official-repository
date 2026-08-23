@@ -1,0 +1,441 @@
+{
+  "batch": "Banking (Industry 1 of 5)",
+  "note": "Jose Teodoro K. Limcaoco (BPI) was delivered separately as limcaoco_executive_intelligence_object.json. This file contains the remaining 4 Banking executives.",
+  "executives": [
+
+    {
+      "executive_intelligence_object_version": "1.0",
+      "entry_status": "verified_curated",
+
+      "source_registry": {
+        "1": {"domain": "theasianbanker.com", "title": "Fabian S. Dee awarded Best Bank CEO in the Philippines", "type": "press_release", "trust_tier": "high", "date": "2025-08-14"},
+        "2": {"domain": "business.inquirer.net", "title": "The Asian Banker names Metrobank President Fabian Dee as Best CEO in PH", "type": "third_party_news", "trust_tier": "high", "date": "2025-08-29"},
+        "3": {"domain": "metrobank.com.ph", "title": "Metrobank receives Best Managed Bank and Best CEO Awards", "type": "official_company_source", "trust_tier": "high", "date": "2026-01-29"},
+        "4": {"domain": "macroaxis.com", "title": "Fabian Dee corporate profile", "type": "third_party_financial_data", "trust_tier": "medium"},
+        "5": {"domain": "marketscreener.com", "title": "Fabian Dee: Positions, Relations and Network", "type": "third_party_financial_data", "trust_tier": "medium"},
+        "6": {"domain": "philstar.com", "title": "Metrobank H1 profit inches up to P24.9 billion", "type": "third_party_news", "trust_tier": "high", "date": "2026-08-01"},
+        "7": {"domain": "bloomberg.com", "title": "Fabian S Dee — Bloomberg profile", "type": "third_party_financial_data", "trust_tier": "high"}
+      },
+      "excluded_sources": [
+        {"reason": "ai_generated_content", "detail": "Ithy.com 'Comprehensive Research on Metrobank' excluded — AI-generated aggregator content per research rules"},
+        {"reason": "unreliable_contact_broker", "detail": "RocketReach/Crunchbase contact-detail pages excluded from factual claims — used only to cross-check name spelling"}
+      ],
+
+      "identity": {
+        "full_name": {"value": "Fabian S. Dee", "confidence": 0.95, "sources": [1, 3]},
+        "current_position": {"value": "President", "confidence": 0.95, "sources": [1, 3, 6]},
+        "current_company": {"value": "Metropolitan Bank & Trust Co. (Metrobank)", "confidence": 0.95, "sources": [1, 3]},
+        "company_parent_group": {"value": "GT Capital Holdings / Ty family", "confidence": 0.8, "sources": [4]},
+        "role_start_date": {"value": "2012 (as President)", "confidence": 0.75, "sources": [5], "note": "single-source (Macroaxis); widely consistent with tenure references elsewhere but not independently re-confirmed via an official Metrobank bio"},
+        "education": [
+          {"degree": "BS Management Engineering", "institution": "Ateneo de Manila University", "confidence": 0.85, "sources": [4, 5]}
+        ],
+        "prior_role_note": {"value": "Previously Treasurer & Senior Vice President at Security Bank Corp. before Metrobank", "confidence": 0.6, "sources": [5], "note": "single-source"}
+      },
+
+      "career_history": [
+        {"role": "Treasurer & SVP", "org": "Security Bank Corp.", "confidence": 0.6, "sources": [5]},
+        {"role": "Head, National Branch Banking Sector / Account Management Group / Marketing Center", "org": "Metrobank", "confidence": 0.7, "sources": [4]},
+        {"role": "Chairman, Metrobank Card Corporation", "confidence": 0.85, "sources": [1, 4]},
+        {"role": "President", "org": "Metropolitan Bank & Trust Co.", "year": 2012, "confidence": 0.85, "sources": [4, 5]}
+      ],
+
+      "awards": [
+        {"award": "Best Bank CEO in the Philippines", "org": "The Asian Banker (TAB Global)", "year": 2025, "confidence": 0.95, "sources": [1, 2, 3]}
+      ],
+
+      "leadership_style": {
+        "digital_transformation_champion": {"value": true, "confidence": 0.9, "sources": [1, 2]},
+        "operational_excellence_focus": {"value": true, "confidence": 0.85, "sources": [1]},
+        "talent_development_oriented": {"value": true, "confidence": 0.75, "sources": [1]},
+        "customer_centric": {"value": true, "confidence": 0.85, "sources": [1, 3]},
+        "prudent_risk_grounded": {"value": true, "confidence": 0.75, "sources": [3, 6], "note": "self-described 'prudent' approach and long-term strategic view in acceptance speech and earnings statements"}
+      },
+
+      "strategic_priorities": [
+        {"priority": "Digital Transformation of Operations", "detail": "Metrobank Operations Support Engine — user adoption grew from 4% to 95% in 3 years", "confidence": 0.9, "sources": [1, 2]},
+        {"priority": "Staff Realignment to Client-Facing Roles", "confidence": 0.8, "sources": [2]},
+        {"priority": "Middle Market & Large Corporate Growth", "confidence": 0.75, "sources": [2]},
+        {"priority": "Retail Banking Leadership (Auto Lending, Credit Cards, Home Loans)", "confidence": 0.75, "sources": [2]},
+        {"priority": "Treasury / Bond House Strength", "confidence": 0.7, "sources": [2]},
+        {"priority": "Disciplined Growth Amid Uncertain Environment", "confidence": 0.8, "sources": [6]}
+      ],
+
+      "technology_interests": [
+        {"topic": "Digital Banking Platforms", "evidence_strength": "direct_quote_adjacent", "confidence": 0.85, "sources": [1, 2]},
+        {"topic": "Process Automation", "evidence_strength": "verified_metric", "confidence": 0.85, "sources": [1], "note": "Operations Support Engine adoption metric is the strongest quantified evidence in this profile"},
+        {"topic": "Artificial Intelligence", "evidence_strength": "inferred", "confidence": 0.3, "sources": [], "inferred": true, "note": "No direct AI quote found for Dee personally; inferred only from general digital transformation framing. Treat as low-confidence until corroborated."}
+      ],
+
+      "event_signals": {
+        "interested_in_ai": {"value": "unknown", "confidence": 0.3, "note": "no direct evidence; do not treat as confirmed"},
+        "interested_in_digital_banking": {"value": true, "confidence": 0.9, "sources": [1, 2]},
+        "interested_in_core_banking_modernization": {"value": true, "confidence": 0.85, "sources": [1]},
+        "interested_in_customer_experience": {"value": true, "confidence": 0.85, "sources": [1, 3]}
+      },
+
+      "communication_style": {
+        "register": "formal_executive",
+        "traits": [
+          {"trait": "visionary_but_grounded", "confidence": 0.75, "sources": [3]},
+          {"trait": "customer_focused_messaging", "confidence": 0.8, "sources": [1, 3]},
+          {"trait": "modest_acceptance_tone", "confidence": 0.6, "sources": [3], "note": "credits team/customers over self in award speech"}
+        ]
+      },
+
+      "decision_profile": {
+        "innovation_appetite": {"value": "high", "confidence": 0.8, "sources": [1, 2]},
+        "technology_adoption_posture": {"value": "high", "confidence": 0.85, "sources": [1]},
+        "risk_tolerance": {"value": "moderate/prudent", "confidence": 0.7, "sources": [6]},
+        "budget_influence": {"value": "high", "confidence": 0.7, "inferred": true, "note": "inferred from President title over a P3.92T asset institution"},
+        "strategic_influence": {"value": "high", "confidence": 0.7, "sources": [4], "note": "multiple board/director seats across BancNet, FMIC, BAP-related bodies"},
+        "operational_focus": {"value": "high", "confidence": 0.85, "sources": [1]},
+        "growth_orientation": {"value": "high", "confidence": 0.75, "sources": [2, 6]}
+      },
+
+      "explicit_unknowns": [
+        "Direct personal quote on AI (only general digital transformation quotes found)",
+        "Exact official date/year he assumed Metrobank presidency (single-sourced to Macroaxis)",
+        "Personal technology interests outside banking operations",
+        "Sustainability/ESG stance",
+        "Specific board memberships beyond those listed (BancNet, FMIC, Metrobank Foundation, Toyota Manila Bay Corp, Thomas Cook Philippines)"
+      ],
+
+      "executive_keywords": ["Digital Transformation", "Operational Excellence", "Retail Banking", "Talent Development", "Customer Experience", "Treasury", "Best Managed Bank"],
+      "industry_tags": ["Banking", "Financial Services", "Retail Banking", "Digital Transformation", "Philippines"],
+
+      "relationships": {
+        "board_memberships": ["BancNet (Director/President)", "First Metro Investment Corporation (Vice Chairman)", "Metrobank Foundation (Trustee)", "FMIC Equities", "Toyota Manila Bay Corporation", "Thomas Cook (Philippines)"],
+        "industry_organizations": ["Bankers Association of the Philippines"]
+      },
+
+      "merge_notes_for_trust_engine": {
+        "primary_confidence_drivers": ["identity", "awards", "strategic_priorities (Operations Support Engine metric)"],
+        "secondary_lower_weight": ["AI interest — explicitly low confidence, do not use as strong Technology Alignment driver without further evidence"],
+        "recommendation": "Strong evidence for Digital Banking / Digital Transformation event themes; weak/insufficient evidence for AI-specific event themes — flag for additional research before using in an AI-focused invitation decision."
+      }
+    },
+
+    {
+      "executive_intelligence_object_version": "1.0",
+      "entry_status": "verified_curated",
+
+      "source_registry": {
+        "1": {"domain": "context.ph", "title": "Victor Lee Meng Teck leads Security Bank as president and CEO", "type": "third_party_news", "trust_tier": "high", "date": "2026-03-07"},
+        "2": {"domain": "context.ph", "title": "Victor Lee to succeed Sanjiv Vohra as Security Bank CEO", "type": "third_party_news", "trust_tier": "high", "date": "2025-09-30"},
+        "3": {"domain": "manilatimes.net", "title": "Security Bank names new president and CEO", "type": "third_party_news", "trust_tier": "high", "date": "2025-09-30"},
+        "4": {"domain": "linkedin.com", "title": "Victor Lee Meng Teck — Security Bank Corporation profile / CIMB post on Deloitte ConnecT 2025", "type": "professional_profile", "trust_tier": "medium_high", "date": "2025 (CIMB era post)"},
+        "5": {"domain": "securitybank.com", "title": "Security Bank announces leadership transition and appointment of next CEO", "type": "official_company_source", "trust_tier": "high", "date": "2025-10-01"},
+        "6": {"domain": "fintechnews.ph", "title": "Security Bank Appoints Former CIMB Singapore Chief Victor Lee Meng Teck as New CEO", "type": "third_party_news", "trust_tier": "high", "date": "2025-10-01"}
+      },
+      "excluded_sources": [
+        {"reason": "unverifiable_investor_data_site", "detail": "Caproasia and Simply Wall St used only for cross-checking dates, not as primary claim sources"}
+      ],
+
+      "identity": {
+        "full_name": {"value": "Victor Lee Meng Teck", "confidence": 0.95, "sources": [1, 5]},
+        "current_position": {"value": "President and CEO", "confidence": 0.95, "sources": [1, 5]},
+        "current_company": {"value": "Security Bank Corporation", "confidence": 0.95, "sources": [1, 5]},
+        "role_start_date": {"value": "January 2026 (early January, exact date Jan 5 2026 per one source)", "confidence": 0.85, "sources": [1, 3, 5]},
+        "nationality": {"value": "Singaporean", "confidence": 0.85, "sources": [3, 6]},
+        "predecessor": {"value": "Sanjiv Vohra (transitioned to Senior Advisor to the Board)", "confidence": 0.9, "sources": [2, 5]},
+        "education": {"value": "Unknown", "confidence": 0.0, "note": "not found in verified sources"}
+      },
+
+      "career_history": [
+        {"role": "Treasurer", "org": "DBS Bank", "years": "1994-1996", "confidence": 0.7, "sources": [1]},
+        {"role": "Senior Manager, Corporate Banking", "org": "Sumitomo Mitsui Banking Corporation", "years": "1996-1999", "confidence": 0.7, "sources": [1]},
+        {"role": "Director, Strategy & Product Development", "org": "Citibank", "years": "1999-2005", "confidence": 0.7, "sources": [1]},
+        {"role": "CEO, Group Commercial Banking / Group Transaction Banking (Kuala Lumpur)", "org": "CIMB", "confidence": 0.75, "sources": [1]},
+        {"role": "CEO, CIMB Singapore", "years": "2020-2025", "confidence": 0.85, "sources": [1, 2]},
+        {"role": "CEO, Growth Markets", "org": "CIMB Group", "year": 2025, "confidence": 0.85, "sources": [1, 2]},
+        {"role": "President and CEO", "org": "Security Bank Corporation", "year": 2026, "confidence": 0.95, "sources": [1, 5]}
+      ],
+
+      "awards": [],
+
+      "leadership_style": {
+        "regional_growth_operator": {"value": true, "confidence": 0.8, "sources": [1], "note": "track record expanding CIMB's commercial/SME banking across ASEAN"},
+        "digital_and_people_balanced": {"value": true, "confidence": 0.75, "sources": [4], "note": "direct quote: 'AI is a game-changer, but people remain at the heart of real transformation'"},
+        "customer_centric": {"value": true, "confidence": 0.7, "sources": [6]}
+      },
+
+      "strategic_priorities": [
+        {"priority": "Overall Bank Strategy, Operations & Growth (new mandate, still forming)", "confidence": 0.7, "sources": [1]},
+        {"priority": "Sustaining 'BetterBanking' Customer-Centric Positioning", "confidence": 0.7, "sources": [6]},
+        {"priority": "Continuation of Digital & Customer-First Transformation (inherited from predecessor Vohra)", "confidence": 0.65, "sources": [2, 6], "scope": "company_level", "note": "priority is attributed to predecessor's era; Lee's own specific priorities for Security Bank not yet extensively quoted as of research date"}
+      ],
+
+      "technology_interests": [
+        {"topic": "Artificial Intelligence", "evidence_strength": "direct_quote", "confidence": 0.75, "sources": [4], "note": "quote is from his CIMB tenure (Deloitte ConnecT 2025 panel on AI), not yet a Security Bank-specific statement — still highly relevant as his personal stance"},
+        {"topic": "Digital Banking", "evidence_strength": "career_pattern", "confidence": 0.7, "sources": [1]},
+        {"topic": "Regional/Cross-border Banking Technology", "evidence_strength": "career_pattern", "confidence": 0.6, "sources": [1]}
+      ],
+
+      "event_signals": {
+        "interested_in_ai": {"value": true, "confidence": 0.75, "sources": [4]},
+        "interested_in_digital_banking": {"value": true, "confidence": 0.75, "sources": [1]},
+        "interested_in_sme_commercial_banking": {"value": true, "confidence": 0.75, "sources": [1]},
+        "new_to_role": {"value": true, "confidence": 0.95, "sources": [1, 5], "note": "assumed role Jan 2026 — flag for DEL as a recent appointment; his Philippine-market-specific priorities are still emerging in public record"}
+      },
+
+      "communication_style": {
+        "register": "formal_executive",
+        "traits": [
+          {"trait": "measured_and_grateful_tone", "confidence": 0.65, "sources": [3, 6], "note": "'I'm honored to be entrusted with this responsibility'"},
+          {"trait": "technology_and_people_balance_framing", "confidence": 0.7, "sources": [4]}
+        ]
+      },
+
+      "decision_profile": {
+        "innovation_appetite": {"value": "high", "confidence": 0.7, "sources": [1, 4]},
+        "technology_adoption_posture": {"value": "high", "confidence": 0.7, "sources": [4]},
+        "risk_tolerance": {"value": "unknown", "confidence": 0.0},
+        "budget_influence": {"value": "high", "confidence": 0.65, "inferred": true},
+        "strategic_influence": {"value": "high", "confidence": 0.7, "sources": [1], "note": "regional CEO background across CIMB markets"},
+        "operational_focus": {"value": "unknown", "confidence": 0.0, "note": "too early in Security Bank tenure to assess"},
+        "growth_orientation": {"value": "high", "confidence": 0.75, "sources": [1]}
+      },
+
+      "explicit_unknowns": [
+        "Education background",
+        "Risk tolerance",
+        "Security Bank-specific strategic priorities (role is <1 year old at time of research)",
+        "Board memberships at Security Bank",
+        "Personal quotes specific to the Philippine market"
+      ],
+
+      "executive_keywords": ["Digital Banking", "Commercial Banking", "SME Banking", "Regional Growth", "AI", "Transformation"],
+      "industry_tags": ["Banking", "Financial Services", "Digital Transformation", "Philippines", "ASEAN Banking"],
+
+      "relationships": {
+        "predecessor_relationship": "Succeeds Sanjiv Vohra, who remains Senior Advisor to the Board",
+        "prior_employer_network": "CIMB Group (Singapore, Malaysia, regional ASEAN)"
+      },
+
+      "merge_notes_for_trust_engine": {
+        "primary_confidence_drivers": ["identity", "career_history", "AI quote from CIMB era"],
+        "secondary_lower_weight": ["Security Bank-specific strategic priorities — largely inherited/inferred, not yet self-stated"],
+        "recommendation": "Treat as a high-potential but data-limited profile due to recency of appointment (Jan 2026). Recommend a follow-up research pass closer to any event date to capture Philippine-market-specific statements."
+      }
+    },
+
+    {
+      "executive_intelligence_object_version": "1.0",
+      "entry_status": "verified_curated",
+
+      "source_registry": {
+        "1": {"domain": "context.ph", "title": "RCBC names new CEO in leadership transition", "type": "third_party_news", "trust_tier": "high", "date": "2025-07-01"},
+        "2": {"domain": "philstar.com", "title": "RCBC names new president, CEO", "type": "third_party_news", "trust_tier": "high", "date": "2025-07-02"},
+        "3": {"domain": "rcbc.com", "title": "RCBC names new president, CEO", "type": "official_company_source", "trust_tier": "high"},
+        "4": {"domain": "context.ph", "title": "From submariner to CEO: Reggie Cariaso leads RCBC into its next era", "type": "third_party_news", "trust_tier": "high", "date": "2026-03-21"},
+        "5": {"domain": "mb.com.ph", "title": "RCBC names Reginaldo Cariaso as new president, CEO", "type": "third_party_news", "trust_tier": "high", "date": "2025-07-01"},
+        "6": {"domain": "bworldonline.com", "title": "Cariaso takes helm as RCBC president, CEO", "type": "third_party_news", "trust_tier": "high", "date": "2025-07-01"},
+        "7": {"domain": "thedigitalbanker.com", "title": "RCBC names Reggie Cariaso president and CEO", "type": "third_party_news", "trust_tier": "high", "date": "2025-07-03"},
+        "8": {"domain": "gmanetwork.com", "title": "Reggie Cariaso is new RCBC President and CEO", "type": "third_party_news", "trust_tier": "high", "date": "2025-07-01"},
+        "9": {"domain": "rappler.com", "title": "RCBC names Reggie Cariaso as new president, CEO", "type": "third_party_news", "trust_tier": "high", "date": "2025-07-01"}
+      },
+      "excluded_sources": [],
+
+      "identity": {
+        "full_name": {"value": "Reginaldo Anthony B. Cariaso", "alias": "Reggie", "confidence": 0.95, "sources": [1, 2, 6]},
+        "current_position": {"value": "President and CEO", "confidence": 0.95, "sources": [1, 2, 3]},
+        "current_company": {"value": "Rizal Commercial Banking Corporation (RCBC)", "confidence": 0.95, "sources": [1, 2, 3]},
+        "company_parent_group": {"value": "Yuchengco Group of Companies", "confidence": 0.9, "sources": [2]},
+        "role_start_date": {"value": "2025-07-01", "confidence": 0.95, "sources": [1, 2, 3, 5, 6, 8, 9]},
+        "predecessor": {"value": "Eugene S. Acevedo (retired to board)", "confidence": 0.95, "sources": [1, 2, 6]},
+        "education": [
+          {"degree": "BA Chemistry", "institution": "University of Pennsylvania", "confidence": 0.85, "sources": [2]}
+        ]
+      },
+
+      "career_history": [
+        {"role": "Executive Director", "org": "Nomura International (Hong Kong)", "confidence": 0.75, "sources": [4]},
+        {"role": "Executive Director", "org": "J.P. Morgan (Hong Kong)", "confidence": 0.85, "sources": [1, 4]},
+        {"role": "Senior Vice President, Corporate Banking Strategy, Products & Support", "org": "Bank of the Philippine Islands (BPI)", "years": "2019-05 to 2023-11", "confidence": 0.85, "sources": [2, 4]},
+        {"role": "SVP, BPI Capital Corporation & Institutional Banking Group", "org": "BPI", "confidence": 0.75, "sources": [4]},
+        {"role": "Executive Vice President & Group Head of Operations", "org": "RCBC", "confidence": 0.85, "sources": [1, 2, 6]},
+        {"role": "Deputy CEO", "org": "RCBC", "year": 2025, "confidence": 0.9, "sources": [1, 6, 8]},
+        {"role": "President and CEO", "org": "RCBC", "year": 2025, "confidence": 0.95, "sources": [1, 2, 3]}
+      ],
+
+      "awards": [],
+
+      "leadership_style": {
+        "digitally_driven_customer_first": {"value": true, "confidence": 0.9, "sources": [5, 9], "note": "self-described positioning goal for RCBC"},
+        "data_and_systems_integration_focus": {"value": true, "confidence": 0.85, "sources": [1, 6]},
+        "analytical_disciplined": {"value": true, "confidence": 0.7, "sources": [4], "note": "profile emphasizes capital markets/M&A background and 'analytical rigor'"}
+      },
+
+      "strategic_priorities": [
+        {"priority": "Digital Transformation — Data Intelligence & Enterprise Integration", "confidence": 0.9, "sources": [1, 5, 6]},
+        {"priority": "Beyond Traditional Banking (loans/deposits) Toward Platforms & Partnerships", "confidence": 0.85, "sources": [5, 6], "note": "direct quote: RCBC 'must go beyond traditional offerings such as loans and deposits to stay competitive'"},
+        {"priority": "Channel, Data & Team Integration", "confidence": 0.85, "sources": [5, 6], "note": "direct quote: 'integrate channels, data, and teams more effectively... to deliver not just better products, but better outcomes'"},
+        {"priority": "Payments, Platforms & Partnerships Value Chain", "confidence": 0.8, "sources": [5]}
+      ],
+
+      "technology_interests": [
+        {"topic": "Data Intelligence", "evidence_strength": "direct_quote", "confidence": 0.9, "sources": [1, 5, 6]},
+        {"topic": "Enterprise System Integration", "evidence_strength": "direct_quote", "confidence": 0.85, "sources": [1, 6]},
+        {"topic": "Digital Onboarding", "evidence_strength": "direct_statement", "confidence": 0.75, "sources": [4]},
+        {"topic": "Artificial Intelligence", "evidence_strength": "inferred", "confidence": 0.35, "sources": [], "inferred": true, "note": "No direct AI quote found; strong data/digital framing suggests likely relevance but not confirmed"}
+      ],
+
+      "event_signals": {
+        "interested_in_ai": {"value": "unknown", "confidence": 0.35, "note": "inferred only, not directly confirmed — flag for follow-up before using as strong signal"},
+        "interested_in_data_intelligence": {"value": true, "confidence": 0.9, "sources": [1, 5, 6]},
+        "interested_in_digital_transformation": {"value": true, "confidence": 0.9, "sources": [1, 4, 5]},
+        "interested_in_core_banking_modernization": {"value": true, "confidence": 0.8, "sources": [4]}
+      },
+
+      "communication_style": {
+        "register": "formal_executive",
+        "traits": [
+          {"trait": "clarity_and_directness", "confidence": 0.8, "sources": [5, 6], "note": "'Our focus is clear' — recurring phrase across multiple statements"},
+          {"trait": "systems_thinking_framing", "confidence": 0.8, "sources": [5, 6]},
+          {"trait": "customer_outcome_oriented", "confidence": 0.8, "sources": [5, 6]}
+        ]
+      },
+
+      "decision_profile": {
+        "innovation_appetite": {"value": "high", "confidence": 0.85, "sources": [1, 5, 6]},
+        "technology_adoption_posture": {"value": "high", "confidence": 0.85, "sources": [1, 5, 6]},
+        "risk_tolerance": {"value": "unknown", "confidence": 0.0},
+        "budget_influence": {"value": "high", "confidence": 0.7, "inferred": true},
+        "strategic_influence": {"value": "high", "confidence": 0.75, "sources": [4]},
+        "operational_focus": {"value": "high", "confidence": 0.85, "sources": [1, 6], "note": "operations background (Group Head of Operations) directly supports this"},
+        "growth_orientation": {"value": "high", "confidence": 0.75, "sources": [2, 4]}
+      },
+
+      "explicit_unknowns": [
+        "Direct AI-specific quotes (data/digital quotes are strong, AI-specific is inferred only)",
+        "Board memberships at RCBC",
+        "Sustainability/ESG stance",
+        "Personal interests outside banking"
+      ],
+
+      "executive_keywords": ["Data Intelligence", "Enterprise Integration", "Digital Transformation", "Operations", "Customer-First Banking", "Capital Markets"],
+      "industry_tags": ["Banking", "Financial Services", "Digital Transformation", "Data Analytics", "Philippines"],
+
+      "relationships": {
+        "parent_group": "Yuchengco Group of Companies",
+        "prior_employer_network": ["Bank of the Philippine Islands (BPI)", "J.P. Morgan Hong Kong", "Nomura International Hong Kong"]
+      },
+
+      "merge_notes_for_trust_engine": {
+        "primary_confidence_drivers": ["identity", "strategic_priorities (multiple consistent direct quotes across 5+ independent outlets)", "technology_interests (data intelligence)"],
+        "secondary_lower_weight": ["AI interest — inferred only, do not treat as confirmed"],
+        "recommendation": "This is one of the strongest-evidenced profiles in the batch for Digital Transformation / Data & Analytics event themes — priorities are corroborated by 6+ independent news outlets using near-identical direct quotes, indicating high reliability."
+      }
+    },
+
+    {
+      "executive_intelligence_object_version": "1.0",
+      "entry_status": "verified_curated",
+
+      "source_registry": {
+        "1": {"domain": "sunstar.com.ph", "title": "New BAP chief pushes collaborative banking future", "type": "third_party_news", "trust_tier": "high", "date": "2026-03-19"},
+        "2": {"domain": "mb.com.ph", "title": "Philippines' new banking head warns of AI risks as she takes helm", "type": "third_party_news", "trust_tier": "high", "date": "2026-03-18"},
+        "3": {"domain": "aboitizeyes.aboitiz.com", "title": "Ana Aboitiz-Delgado Elected As BAP President", "type": "official_company_source", "trust_tier": "high", "date": "2026-03-18", "note": "Aboitiz Group's own news channel — high trust for direct quotes"},
+        "4": {"domain": "gmanetwork.com", "title": "UnionBank CEO elected as bankers group's first female president", "type": "third_party_news", "trust_tier": "high", "date": "2026-03-18"},
+        "5": {"domain": "bworldonline.com", "title": "UnionBank CEO 1st female BAP head", "type": "third_party_news", "trust_tier": "high", "date": "2026-03-19"},
+        "6": {"domain": "en.wikipedia.org", "title": "UnionBank (Philippines)", "type": "encyclopedic_reference", "trust_tier": "medium_high", "date": "accessed 2026-08"},
+        "7": {"domain": "insiderph.com", "title": "UnionBank's Aboitiz-Delgado named BAP chief, succeeds BPI's Limcaoco", "type": "third_party_news", "trust_tier": "medium_high"}
+      },
+      "excluded_sources": [],
+
+      "identity": {
+        "full_name": {"value": "Ana Maria Aboitiz-Delgado (listed in DEL's spreadsheet as Ana Maria A. Delgado)", "confidence": 0.9, "sources": [1, 2, 3], "note": "Press consistently uses 'Aboitiz-Delgado'; spreadsheet uses 'Ana Maria A. Delgado' — same individual, confirm which form DEL should standardize on"},
+        "current_position": {"value": "President and CEO", "confidence": 0.95, "sources": [2, 3, 6]},
+        "current_company": {"value": "Union Bank of the Philippines (UnionBank)", "confidence": 0.95, "sources": [2, 3, 6]},
+        "family_affiliation": {"value": "Member of the Aboitiz family", "confidence": 0.85, "sources": [2]},
+        "role_start_date": {"value": "2025-01-01 (UnionBank CEO)", "confidence": 0.9, "sources": [3, 6]},
+        "additional_role": {"value": "President, Bankers Association of the Philippines (BAP), 2026-2027 term — first woman to hold this role in BAP's ~80-year history", "confidence": 0.95, "sources": [1, 2, 3, 4, 5]},
+        "education": {"value": "Unknown", "confidence": 0.0, "note": "not found in verified sources"}
+      },
+
+      "career_history": [
+        {"role": "Management Trainee", "org": "UnionBank", "year": 2003, "confidence": 0.9, "sources": [1, 2]},
+        {"role": "Various roles: retail & institutional finance, customer experience, digital channels", "org": "UnionBank", "confidence": 0.85, "sources": [2, 3]},
+        {"role": "President and CEO", "org": "UnionBank", "year": 2025, "confidence": 0.95, "sources": [3, 6], "note": "succeeded Edwin Bautista, who stepped down mid-2024"},
+        {"role": "President", "org": "Bankers Association of the Philippines", "year": 2026, "confidence": 0.95, "sources": [1, 2, 3, 4, 5]}
+      ],
+
+      "awards": [
+        {"award": "First woman President of the Bankers Association of the Philippines (historic distinction, not a formal award)", "confidence": 0.95, "sources": [1, 2, 3, 4, 5]}
+      ],
+
+      "leadership_style": {
+        "collaborative": {"value": true, "confidence": 0.85, "sources": [1], "note": "explicit theme of her BAP inaugural framing — 'collaborative banking future'"},
+        "risk_aware_pragmatic": {"value": true, "confidence": 0.85, "sources": [2], "note": "headline framing: 'warns of AI risks as she takes helm'"},
+        "digitally_experienced": {"value": true, "confidence": 0.9, "sources": [2, 3, 5], "note": "two decades leading digital transformation, consumer finance, SME/institutional banking, customer experience design at UnionBank"},
+        "inclusion_minded": {"value": true, "confidence": 0.75, "sources": [3], "note": "quote ties banking industry's purpose to 'uplift lives and fuel economic progress'"}
+      },
+
+      "strategic_priorities": [
+        {"priority": "Responsible AI Adoption Industry-Wide", "confidence": 0.9, "sources": [1, 2, 3], "scope": "industry_level", "note": "as BAP President; distinct from UnionBank-specific priorities"},
+        {"priority": "Cross-Institution Risk Safeguards (Cybersecurity, Fraud)", "confidence": 0.85, "sources": [1, 2]},
+        {"priority": "Continuation/Expansion of Digital Transformation & Ecosystem-Based Risk Management (building on Limcaoco's BAP term)", "confidence": 0.8, "sources": [1]},
+        {"priority": "Regional/Geopolitical Risk Coordination Across Banks", "confidence": 0.75, "sources": [2, 4]},
+        {"priority": "UnionBank Digital Transformation, Consumer Finance, SME & Institutional Banking (company-level, pre-BAP role)", "confidence": 0.85, "sources": [2, 3, 5], "scope": "company_level"}
+      ],
+
+      "technology_interests": [
+        {"topic": "Artificial Intelligence", "evidence_strength": "direct_quote", "confidence": 0.92, "sources": [1, 2, 3, 4], "note": "multiple independent outlets quote her directly on AI risk/opportunity: 'as we accelerate digitalization and unlock the potential of AI, we also face a next generation of risks...'"},
+        {"topic": "Digital Banking / Digital Channels", "evidence_strength": "career_history_and_quote", "confidence": 0.9, "sources": [2, 3, 5]},
+        {"topic": "Cybersecurity / Risk Technology", "evidence_strength": "direct_quote", "confidence": 0.85, "sources": [1, 2]}
+      ],
+
+      "event_signals": {
+        "interested_in_ai": {"value": true, "confidence": 0.92, "sources": [1, 2, 3, 4]},
+        "interested_in_cybersecurity": {"value": true, "confidence": 0.85, "sources": [1, 2]},
+        "interested_in_digital_transformation": {"value": true, "confidence": 0.9, "sources": [2, 3, 5]},
+        "interested_in_financial_inclusion": {"value": true, "confidence": 0.75, "sources": [3]},
+        "interested_in_regional_cooperation": {"value": true, "confidence": 0.75, "sources": [2, 4]}
+      },
+
+      "communication_style": {
+        "register": "formal_executive",
+        "traits": [
+          {"trait": "risk_conscious_but_optimistic", "confidence": 0.85, "sources": [1, 2, 3], "note": "consistently pairs AI opportunity with explicit risk framing"},
+          {"trait": "collaboration_forward", "confidence": 0.85, "sources": [1]},
+          {"trait": "purpose_driven_framing", "confidence": 0.75, "sources": [3], "note": "'ability to uplift lives and fuel economic progress'"}
+        ]
+      },
+
+      "decision_profile": {
+        "innovation_appetite": {"value": "high", "confidence": 0.85, "sources": [2, 3, 5]},
+        "technology_adoption_posture": {"value": "high_but_risk_aware", "confidence": 0.88, "sources": [1, 2]},
+        "risk_tolerance": {"value": "moderate — explicitly risk-conscious on AI/cyber", "confidence": 0.8, "sources": [1, 2]},
+        "budget_influence": {"value": "high", "confidence": 0.7, "inferred": true},
+        "strategic_influence": {"value": "very_high", "confidence": 0.9, "sources": [1, 2, 3, 4, 5], "note": "leads both UnionBank and the entire Philippine banking industry association"},
+        "operational_focus": {"value": "unknown", "confidence": 0.0, "note": "no direct evidence of day-to-day operational focus vs. strategic focus"},
+        "growth_orientation": {"value": "high", "confidence": 0.75, "sources": [2, 3]}
+      },
+
+      "explicit_unknowns": [
+        "Education background",
+        "Operational focus (vs. strategic focus)",
+        "Board memberships beyond BAP and UnionBank subsidiaries (e.g., CitySavings chairwoman role found but not fully explored)",
+        "Personal interests outside banking/finance"
+      ],
+
+      "executive_keywords": ["Artificial Intelligence", "AI Risk", "Cybersecurity", "Digital Transformation", "Financial Inclusion", "Regional Cooperation", "Consumer Finance"],
+      "industry_tags": ["Banking", "Financial Services", "Artificial Intelligence", "Cybersecurity", "Digital Transformation", "Philippines"],
+
+      "relationships": {
+        "family_affiliation": "Aboitiz family",
+        "board_memberships": ["Chairwoman, City Savings Bank (UnionBank subsidiary)"],
+        "industry_organizations": ["President, Bankers Association of the Philippines (2026-2027)"],
+        "predecessor_successor": "Succeeds Jose Teodoro K. Limcaoco (BPI) as BAP President"
+      },
+
+      "merge_notes_for_trust_engine": {
+        "primary_confidence_drivers": ["identity", "technology_interests (AI — 4 independent sources with near-identical direct quotes)", "strategic_priorities"],
+        "secondary_lower_weight": ["operational_focus — no evidence, left unknown"],
+        "recommendation": "One of the strongest AI-alignment profiles in this batch — multiple independently-sourced direct quotes on AI specifically (not just general digital transformation). High-confidence candidate for AI-themed event invitations. Note the name-form discrepancy (Aboitiz-Delgado vs. Delgado) for DEL's identity matching logic."
+      }
+    }
+
+  ]
+}

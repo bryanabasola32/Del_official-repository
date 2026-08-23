@@ -1,0 +1,782 @@
+{
+  "executive": {
+    "name": "Reginaldo Anthony B. Cariaso",
+    "title": "President and CEO",
+    "company": "Rizal Commercial Banking Corporation (RCBC)"
+  },
+  "sources": [
+    {
+      "id": "src-1",
+      "url": "https://context.ph",
+      "title": "RCBC names new CEO in leadership transition",
+      "sourceName": "context.ph",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2025-07-01",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-2",
+      "url": "https://philstar.com",
+      "title": "RCBC names new president, CEO",
+      "sourceName": "philstar.com",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2025-07-02",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-3",
+      "url": "https://rcbc.com",
+      "title": "RCBC names new president, CEO",
+      "sourceName": "rcbc.com",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-4",
+      "url": "https://context.ph",
+      "title": "From submariner to CEO: Reggie Cariaso leads RCBC into its next era",
+      "sourceName": "context.ph",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2026-03-21",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-5",
+      "url": "https://mb.com.ph",
+      "title": "RCBC names Reginaldo Cariaso as new president, CEO",
+      "sourceName": "mb.com.ph",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2025-07-01",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-6",
+      "url": "https://bworldonline.com",
+      "title": "Cariaso takes helm as RCBC president, CEO",
+      "sourceName": "bworldonline.com",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2025-07-01",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-7",
+      "url": "https://thedigitalbanker.com",
+      "title": "RCBC names Reggie Cariaso president and CEO",
+      "sourceName": "thedigitalbanker.com",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2025-07-03",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-8",
+      "url": "https://gmanetwork.com",
+      "title": "Reggie Cariaso is new RCBC President and CEO",
+      "sourceName": "gmanetwork.com",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2025-07-01",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-9",
+      "url": "https://rappler.com",
+      "title": "RCBC names Reggie Cariaso as new president, CEO",
+      "sourceName": "rappler.com",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2025-07-01",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    }
+  ],
+  "facts": [
+    {
+      "factId": "fact-identity-0",
+      "category": "biography",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "name",
+      "value": "Reginaldo Anthony B. Cariaso",
+      "sourceIds": [
+        "src-1",
+        "src-2",
+        "src-6"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "full_name"
+      }
+    },
+    {
+      "factId": "fact-identity-1",
+      "category": "biography",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "title",
+      "value": "President and CEO",
+      "sourceIds": [
+        "src-1",
+        "src-2",
+        "src-3"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "current_position"
+      }
+    },
+    {
+      "factId": "fact-identity-2",
+      "category": "biography",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "company",
+      "value": "Rizal Commercial Banking Corporation (RCBC)",
+      "sourceIds": [
+        "src-1",
+        "src-2",
+        "src-3"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "current_company"
+      }
+    },
+    {
+      "factId": "fact-education-3",
+      "category": "biography",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "education",
+      "value": "BA Chemistry, University of Pennsylvania",
+      "sourceIds": [
+        "src-2"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "education"
+      }
+    },
+    {
+      "factId": "fact-career-4",
+      "category": "professional_history",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "career_history",
+      "value": "Executive Director at Nomura International (Hong Kong)",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-5",
+      "category": "professional_history",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "career_history",
+      "value": "Executive Director at J.P. Morgan (Hong Kong)",
+      "sourceIds": [
+        "src-1",
+        "src-4"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-6",
+      "category": "professional_history",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "career_history",
+      "value": "Senior Vice President, Corporate Banking Strategy, Products & Support at Bank of the Philippine Islands (BPI)",
+      "sourceIds": [
+        "src-2",
+        "src-4"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-7",
+      "category": "professional_history",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "career_history",
+      "value": "SVP, BPI Capital Corporation & Institutional Banking Group at BPI",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-8",
+      "category": "professional_history",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "career_history",
+      "value": "Executive Vice President & Group Head of Operations at RCBC",
+      "sourceIds": [
+        "src-1",
+        "src-2",
+        "src-6"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-9",
+      "category": "professional_history",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "career_history",
+      "value": "Deputy CEO at RCBC",
+      "sourceIds": [
+        "src-1",
+        "src-6",
+        "src-8"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-10",
+      "category": "professional_history",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "career_history",
+      "value": "President and CEO at RCBC",
+      "sourceIds": [
+        "src-1",
+        "src-2",
+        "src-3"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-strategy-11",
+      "category": "strategic_priorities",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "strategic_priority",
+      "value": "Digital Transformation — Data Intelligence & Enterprise Integration",
+      "sourceIds": [
+        "src-1",
+        "src-5",
+        "src-6"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-12",
+      "category": "strategic_priorities",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "strategic_priority",
+      "value": "Beyond Traditional Banking (loans/deposits) Toward Platforms & Partnerships",
+      "sourceIds": [
+        "src-5",
+        "src-6"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-13",
+      "category": "strategic_priorities",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "strategic_priority",
+      "value": "Channel, Data & Team Integration",
+      "sourceIds": [
+        "src-5",
+        "src-6"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-14",
+      "category": "strategic_priorities",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "strategic_priority",
+      "value": "Payments, Platforms & Partnerships Value Chain",
+      "sourceIds": [
+        "src-5"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-tech-15",
+      "category": "technology_interests",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "technology_interest",
+      "value": "Data Intelligence",
+      "sourceIds": [
+        "src-1",
+        "src-5",
+        "src-6"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "direct_quote"
+      }
+    },
+    {
+      "factId": "fact-tech-16",
+      "category": "technology_interests",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "technology_interest",
+      "value": "Enterprise System Integration",
+      "sourceIds": [
+        "src-1",
+        "src-6"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "direct_quote"
+      }
+    },
+    {
+      "factId": "fact-tech-17",
+      "category": "technology_interests",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "technology_interest",
+      "value": "Digital Onboarding",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "direct_statement"
+      }
+    },
+    {
+      "factId": "fact-tech-18",
+      "category": "technology_interests",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "technology_interest",
+      "value": "Artificial Intelligence",
+      "sourceIds": [],
+      "confidence": 0.35,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "inferred"
+      }
+    },
+    {
+      "factId": "fact-leadership-19",
+      "category": "leadership_style",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "leadership_trait",
+      "value": "Digitally Driven Customer First",
+      "sourceIds": [
+        "src-5",
+        "src-9"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "digitally_driven_customer_first"
+      }
+    },
+    {
+      "factId": "fact-leadership-20",
+      "category": "leadership_style",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "leadership_trait",
+      "value": "Data And Systems Integration Focus",
+      "sourceIds": [
+        "src-1",
+        "src-6"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "data_and_systems_integration_focus"
+      }
+    },
+    {
+      "factId": "fact-leadership-21",
+      "category": "leadership_style",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "leadership_trait",
+      "value": "Analytical Disciplined",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "analytical_disciplined"
+      }
+    },
+    {
+      "factId": "fact-decision-22",
+      "category": "decision_profile",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "decision_dimension",
+      "value": "Innovation Appetite: high",
+      "sourceIds": [
+        "src-1",
+        "src-5",
+        "src-6"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "innovation_appetite"
+      }
+    },
+    {
+      "factId": "fact-decision-23",
+      "category": "decision_profile",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "decision_dimension",
+      "value": "Technology Adoption Posture: high",
+      "sourceIds": [
+        "src-1",
+        "src-5",
+        "src-6"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "technology_adoption_posture"
+      }
+    },
+    {
+      "factId": "fact-decision-24",
+      "category": "decision_profile",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "decision_dimension",
+      "value": "Risk Tolerance: unknown",
+      "sourceIds": [],
+      "confidence": 0.0,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "risk_tolerance"
+      }
+    },
+    {
+      "factId": "fact-decision-25",
+      "category": "decision_profile",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "decision_dimension",
+      "value": "Budget Influence: high",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "budget_influence"
+      }
+    },
+    {
+      "factId": "fact-decision-26",
+      "category": "decision_profile",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "decision_dimension",
+      "value": "Strategic Influence: high",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "strategic_influence"
+      }
+    },
+    {
+      "factId": "fact-decision-27",
+      "category": "decision_profile",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "decision_dimension",
+      "value": "Operational Focus: high",
+      "sourceIds": [
+        "src-1",
+        "src-6"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "operational_focus"
+      }
+    },
+    {
+      "factId": "fact-decision-28",
+      "category": "decision_profile",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "decision_dimension",
+      "value": "Growth Orientation: high",
+      "sourceIds": [
+        "src-2",
+        "src-4"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "growth_orientation"
+      }
+    },
+    {
+      "factId": "fact-signals-29",
+      "category": "event_signals",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "event_interest",
+      "value": "Interested in Data Intelligence",
+      "sourceIds": [
+        "src-1",
+        "src-5",
+        "src-6"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_data_intelligence"
+      }
+    },
+    {
+      "factId": "fact-signals-30",
+      "category": "event_signals",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "event_interest",
+      "value": "Interested in Digital Transformation",
+      "sourceIds": [
+        "src-1",
+        "src-4",
+        "src-5"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_digital_transformation"
+      }
+    },
+    {
+      "factId": "fact-signals-31",
+      "category": "event_signals",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "event_interest",
+      "value": "Interested in Core Banking Modernization",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_core_banking_modernization"
+      }
+    },
+    {
+      "factId": "fact-keywords-32",
+      "category": "executive_keywords",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "keyword",
+      "value": "Data Intelligence",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-33",
+      "category": "executive_keywords",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "keyword",
+      "value": "Enterprise Integration",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-34",
+      "category": "executive_keywords",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "keyword",
+      "value": "Digital Transformation",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-35",
+      "category": "executive_keywords",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "keyword",
+      "value": "Operations",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-36",
+      "category": "executive_keywords",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "keyword",
+      "value": "Customer-First Banking",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-37",
+      "category": "executive_keywords",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "keyword",
+      "value": "Capital Markets",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-comm-38",
+      "category": "communication_style",
+      "subject": "Reginaldo Anthony B. Cariaso",
+      "predicate": "communication_register",
+      "value": "formal_executive",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "communication_style"
+      }
+    }
+  ],
+  "metadata": {
+    "original_format": "executive_intelligence_object",
+    "version": "1.0",
+    "entry_status": "verified_curated"
+  }
+}

@@ -1,0 +1,846 @@
+{
+  "executive": {
+    "name": "Jonathan Juan \"JJ\" Moreno",
+    "title": "CEO and Country Head, Philippines",
+    "company": "Sun Life of Canada (Philippines), Inc. / Sun Life Philippines"
+  },
+  "sources": [
+    {
+      "id": "src-1",
+      "url": "https://sunlife.com.ph",
+      "title": "Sun Life announces leadership succession in the Philippines",
+      "sourceName": "sunlife.com.ph",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": "2026-01-09",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-2",
+      "url": "https://manilatimes.net",
+      "title": "Sun Life names JJ Moreno as next Philippine chief",
+      "sourceName": "manilatimes.net",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2026-01-12",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-3",
+      "url": "https://manilastandard.net",
+      "title": "Sun Life Philippines names Moreno as incoming CEO to succeed Sison",
+      "sourceName": "manilastandard.net",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2026-01-10",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-4",
+      "url": "https://manilatimes.net",
+      "title": "Sun Life announces leadership succession in PH operations",
+      "sourceName": "manilatimes.net",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2026-01-17",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-5",
+      "url": "https://mb.com.ph",
+      "title": "Sun Life names JJ Moreno Philippines chief as Benedict Sison retires",
+      "sourceName": "mb.com.ph",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2026-01-09",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-6",
+      "url": "https://bworldonline.com",
+      "title": "Ushering a new leadership at Sun Life Philippines",
+      "sourceName": "bworldonline.com",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2026-01-30",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-7",
+      "url": "https://prstation.ph",
+      "title": "Sun Life announces leadership succession in the Philippines",
+      "sourceName": "prstation.ph",
+      "sourceTier": 2,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": "2026-01-09",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-8",
+      "url": "https://lifestyleasia-onemega.com",
+      "title": "Meet JJ Moreno, The New Sun Life Philippines Country Head And CEO",
+      "sourceName": "lifestyleasia-onemega.com",
+      "sourceTier": 1,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": "2026-04-29",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-9",
+      "url": "https://sunlife.com.ph",
+      "title": "Sun Life PH incoming CEO meets with insurance commissioner",
+      "sourceName": "sunlife.com.ph",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": "2026-02",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-10",
+      "url": "https://philstar.com",
+      "title": "Incoming Sun Life CEO JJ Moreno eyes digital innovation as client expectations evolve",
+      "sourceName": "philstar.com",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2026-03-18",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-11",
+      "url": "https://philstar.com",
+      "title": "Sun Life Philippines leadership transition marks continuity, growth and people-first future",
+      "sourceName": "philstar.com",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2026-04-08",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-12",
+      "url": "https://sunlife.com.ph",
+      "title": "Sun Life Philippines appoints JJ Moreno as President of its insurance business",
+      "sourceName": "sunlife.com.ph",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": "2025-06-23",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-13",
+      "url": "https://linkedin.com/in/jj-moreno-strategy",
+      "title": "JJ Moreno — Sun Life Philippines (self-authored LinkedIn posts)",
+      "sourceName": "linkedin.com/in/jj-moreno-strategy",
+      "sourceTier": 2,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    }
+  ],
+  "facts": [
+    {
+      "factId": "fact-identity-0",
+      "category": "biography",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "name",
+      "value": "Jonathan Juan \"JJ\" Moreno",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "full_name"
+      }
+    },
+    {
+      "factId": "fact-identity-1",
+      "category": "biography",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "title",
+      "value": "CEO and Country Head, Philippines",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "current_position"
+      }
+    },
+    {
+      "factId": "fact-identity-2",
+      "category": "biography",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "company",
+      "value": "Sun Life of Canada (Philippines), Inc. / Sun Life Philippines",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "current_company"
+      }
+    },
+    {
+      "factId": "fact-career-3",
+      "category": "professional_history",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "career_history",
+      "value": "Naval officer / military strategist at Philippine military",
+      "sourceIds": [
+        "src-6",
+        "src-12"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-4",
+      "category": "professional_history",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "career_history",
+      "value": "Vice President at Philippine Stock Exchange",
+      "sourceIds": [
+        "src-8"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-5",
+      "category": "professional_history",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "career_history",
+      "value": "Principal at Palladium Group Inc.",
+      "sourceIds": [
+        "src-8"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-6",
+      "category": "professional_history",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "career_history",
+      "value": "Chief Strategy Officer at Metro Retail Stores Group",
+      "sourceIds": [
+        "src-2",
+        "src-8"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-7",
+      "category": "professional_history",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "career_history",
+      "value": "President and CEO at AF Payments Inc. (fintech company behind the beep™ card)",
+      "sourceIds": [
+        "src-2",
+        "src-8",
+        "src-12"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-8",
+      "category": "professional_history",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "career_history",
+      "value": "Joined Sun Life",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-9",
+      "category": "professional_history",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "career_history",
+      "value": "President, Sun Life of Canada (Philippines), Inc. (insurance business)",
+      "sourceIds": [
+        "src-12"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-10",
+      "category": "professional_history",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "career_history",
+      "value": "CEO and Country Head, Sun Life Philippines",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-strategy-11",
+      "category": "strategic_priorities",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "strategic_priority",
+      "value": "Digital Innovation Amid Evolving Client Expectations",
+      "sourceIds": [
+        "src-10"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-12",
+      "category": "strategic_priorities",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "strategic_priority",
+      "value": "New High-Net-Worth Client Product Launch (Q1 2026): \"We're launching one in the first quarter. A new product for our high-net-worth clients, which is very unique in the market\"",
+      "sourceIds": [
+        "src-10"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-13",
+      "category": "strategic_priorities",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "strategic_priority",
+      "value": "Financial Literacy and Insurance Penetration Expansion",
+      "sourceIds": [
+        "src-9"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-14",
+      "category": "strategic_priorities",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "strategic_priority",
+      "value": "Continuity-Focused Leadership Philosophy: \"When I take on a role, my leadership style has always been not to focus on what will change, but to first focus on what will endure\"",
+      "sourceIds": [
+        "src-11"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-15",
+      "category": "strategic_priorities",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "strategic_priority",
+      "value": "Enterprise Reform, Value-Based and Technology-Enabled Career Thread: \"The whole thread that binds my career has always been in enterprise reform—value-based, technology-enabled\"",
+      "sourceIds": [
+        "src-11"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-tech-16",
+      "category": "technology_interests",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "technology_interest",
+      "value": "Fintech / Digital Payments",
+      "sourceIds": [
+        "src-2",
+        "src-8",
+        "src-12"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "verified_prior_role"
+      }
+    },
+    {
+      "factId": "fact-tech-17",
+      "category": "technology_interests",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "technology_interest",
+      "value": "Digital Platforms for Financial Education/Literacy",
+      "sourceIds": [
+        "src-9"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": ""
+      }
+    },
+    {
+      "factId": "fact-tech-18",
+      "category": "technology_interests",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "technology_interest",
+      "value": "Artificial Intelligence",
+      "sourceIds": [
+        "src-13"
+      ],
+      "confidence": 0.65,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "self_authored_social_media"
+      }
+    },
+    {
+      "factId": "fact-tech-19",
+      "category": "technology_interests",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "technology_interest",
+      "value": "Digital Innovation (general, not AI-specific)",
+      "sourceIds": [
+        "src-10"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": ""
+      }
+    },
+    {
+      "factId": "fact-leadership-20",
+      "category": "leadership_style",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "leadership_trait",
+      "value": "Customer Centric",
+      "sourceIds": [
+        "src-12"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "customer_centric"
+      }
+    },
+    {
+      "factId": "fact-leadership-21",
+      "category": "leadership_style",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "leadership_trait",
+      "value": "Digital Transformation Champion",
+      "sourceIds": [
+        "src-10",
+        "src-11"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "digital_transformation_champion"
+      }
+    },
+    {
+      "factId": "fact-leadership-22",
+      "category": "leadership_style",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "leadership_trait",
+      "value": "Strategic Visionary",
+      "sourceIds": [
+        "src-8",
+        "src-11"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "strategic_visionary"
+      }
+    },
+    {
+      "factId": "fact-leadership-23",
+      "category": "leadership_style",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "leadership_trait",
+      "value": "Growth Oriented",
+      "sourceIds": [
+        "src-10"
+      ],
+      "confidence": 0.65,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "growth_oriented"
+      }
+    },
+    {
+      "factId": "fact-decision-24",
+      "category": "decision_profile",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "decision_dimension",
+      "value": "Innovation Appetite: high",
+      "sourceIds": [
+        "src-8",
+        "src-11"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "innovation_appetite"
+      }
+    },
+    {
+      "factId": "fact-decision-25",
+      "category": "decision_profile",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "decision_dimension",
+      "value": "Technology Adoption Posture: high",
+      "sourceIds": [
+        "src-2",
+        "src-8",
+        "src-12",
+        "src-13"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "technology_adoption_posture"
+      }
+    },
+    {
+      "factId": "fact-decision-26",
+      "category": "decision_profile",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "decision_dimension",
+      "value": "Growth Orientation: moderate-high",
+      "sourceIds": [
+        "src-10"
+      ],
+      "confidence": 0.65,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "growth_orientation"
+      }
+    },
+    {
+      "factId": "fact-decision-27",
+      "category": "decision_profile",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "decision_dimension",
+      "value": "Budget Influence: high",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "budget_influence"
+      }
+    },
+    {
+      "factId": "fact-decision-28",
+      "category": "decision_profile",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "decision_dimension",
+      "value": "Strategic Influence: high",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "strategic_influence"
+      }
+    },
+    {
+      "factId": "fact-signals-29",
+      "category": "event_signals",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "event_interest",
+      "value": "Interested in Ai",
+      "sourceIds": [
+        "src-13"
+      ],
+      "confidence": 0.65,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_ai"
+      }
+    },
+    {
+      "factId": "fact-signals-30",
+      "category": "event_signals",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "event_interest",
+      "value": "Interested in Fintech",
+      "sourceIds": [
+        "src-2",
+        "src-8",
+        "src-12"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_fintech"
+      }
+    },
+    {
+      "factId": "fact-signals-31",
+      "category": "event_signals",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "event_interest",
+      "value": "Interested in Digital Transformation",
+      "sourceIds": [
+        "src-10"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_digital_transformation"
+      }
+    },
+    {
+      "factId": "fact-signals-32",
+      "category": "event_signals",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "event_interest",
+      "value": "Interested in Financial Inclusion",
+      "sourceIds": [
+        "src-9"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_financial_inclusion"
+      }
+    },
+    {
+      "factId": "fact-orgs-33",
+      "category": "professional_history",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "industry_organization",
+      "value": "Speaker/panelist, InsureTech Connect Asia 2026 (per own LinkedIn activity)",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-keywords-34",
+      "category": "executive_keywords",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "keyword",
+      "value": "Fintech Background",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-35",
+      "category": "executive_keywords",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "keyword",
+      "value": "Digital Innovation",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-36",
+      "category": "executive_keywords",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "keyword",
+      "value": "Enterprise Reform",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-37",
+      "category": "executive_keywords",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "keyword",
+      "value": "Beep Card / AF Payments",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-38",
+      "category": "executive_keywords",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "keyword",
+      "value": "Financial Literacy",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-39",
+      "category": "executive_keywords",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "keyword",
+      "value": "New CEO (April 2026)",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-comm-40",
+      "category": "communication_style",
+      "subject": "Jonathan Juan \"JJ\" Moreno",
+      "predicate": "communication_register",
+      "value": "formal_executive, strategy and continuity-framed",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "communication_style"
+      }
+    }
+  ],
+  "metadata": {
+    "original_format": "executive_intelligence_object",
+    "version": "1.0",
+    "entry_status": "verified_curated"
+  }
+}

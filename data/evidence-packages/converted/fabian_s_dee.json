@@ -1,0 +1,874 @@
+{
+  "executive": {
+    "name": "Fabian S. Dee",
+    "title": "President",
+    "company": "Metropolitan Bank & Trust Co. (Metrobank)"
+  },
+  "sources": [
+    {
+      "id": "src-1",
+      "url": "https://theasianbanker.com",
+      "title": "Fabian S. Dee awarded Best Bank CEO in the Philippines",
+      "sourceName": "theasianbanker.com",
+      "sourceTier": 1,
+      "sourceType": "press_release",
+      "snippet": "",
+      "publishedDate": "2025-08-14",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-2",
+      "url": "https://business.inquirer.net",
+      "title": "The Asian Banker names Metrobank President Fabian Dee as Best CEO in PH",
+      "sourceName": "business.inquirer.net",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2025-08-29",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-3",
+      "url": "https://metrobank.com.ph",
+      "title": "Metrobank receives Best Managed Bank and Best CEO Awards",
+      "sourceName": "metrobank.com.ph",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": "2026-01-29",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-4",
+      "url": "https://macroaxis.com",
+      "title": "Fabian Dee corporate profile",
+      "sourceName": "macroaxis.com",
+      "sourceTier": 2,
+      "sourceType": "industry_report",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-5",
+      "url": "https://marketscreener.com",
+      "title": "Fabian Dee: Positions, Relations and Network",
+      "sourceName": "marketscreener.com",
+      "sourceTier": 2,
+      "sourceType": "industry_report",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-6",
+      "url": "https://philstar.com",
+      "title": "Metrobank H1 profit inches up to P24.9 billion",
+      "sourceName": "philstar.com",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2026-08-01",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-7",
+      "url": "https://bloomberg.com",
+      "title": "Fabian S Dee — Bloomberg profile",
+      "sourceName": "bloomberg.com",
+      "sourceTier": 1,
+      "sourceType": "industry_report",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    }
+  ],
+  "facts": [
+    {
+      "factId": "fact-identity-0",
+      "category": "biography",
+      "subject": "Fabian S. Dee",
+      "predicate": "name",
+      "value": "Fabian S. Dee",
+      "sourceIds": [
+        "src-1",
+        "src-3"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "full_name"
+      }
+    },
+    {
+      "factId": "fact-identity-1",
+      "category": "biography",
+      "subject": "Fabian S. Dee",
+      "predicate": "title",
+      "value": "President",
+      "sourceIds": [
+        "src-1",
+        "src-3",
+        "src-6"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "current_position"
+      }
+    },
+    {
+      "factId": "fact-identity-2",
+      "category": "biography",
+      "subject": "Fabian S. Dee",
+      "predicate": "company",
+      "value": "Metropolitan Bank & Trust Co. (Metrobank)",
+      "sourceIds": [
+        "src-1",
+        "src-3"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "current_company"
+      }
+    },
+    {
+      "factId": "fact-education-3",
+      "category": "biography",
+      "subject": "Fabian S. Dee",
+      "predicate": "education",
+      "value": "BS Management Engineering, Ateneo de Manila University",
+      "sourceIds": [
+        "src-4",
+        "src-5"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "education"
+      }
+    },
+    {
+      "factId": "fact-career-4",
+      "category": "professional_history",
+      "subject": "Fabian S. Dee",
+      "predicate": "career_history",
+      "value": "Treasurer & SVP at Security Bank Corp.",
+      "sourceIds": [
+        "src-5"
+      ],
+      "confidence": 0.6,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-5",
+      "category": "professional_history",
+      "subject": "Fabian S. Dee",
+      "predicate": "career_history",
+      "value": "Head, National Branch Banking Sector / Account Management Group / Marketing Center at Metrobank",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-6",
+      "category": "professional_history",
+      "subject": "Fabian S. Dee",
+      "predicate": "career_history",
+      "value": "Chairman, Metrobank Card Corporation",
+      "sourceIds": [
+        "src-1",
+        "src-4"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-7",
+      "category": "professional_history",
+      "subject": "Fabian S. Dee",
+      "predicate": "career_history",
+      "value": "President at Metropolitan Bank & Trust Co.",
+      "sourceIds": [
+        "src-4",
+        "src-5"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-awards-8",
+      "category": "awards",
+      "subject": "Fabian S. Dee",
+      "predicate": "award",
+      "value": "Best Bank CEO in the Philippines — The Asian Banker (TAB Global) — 2025",
+      "sourceIds": [
+        "src-1",
+        "src-2",
+        "src-3"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "awards"
+      }
+    },
+    {
+      "factId": "fact-strategy-9",
+      "category": "strategic_priorities",
+      "subject": "Fabian S. Dee",
+      "predicate": "strategic_priority",
+      "value": "Digital Transformation of Operations: Metrobank Operations Support Engine — user adoption grew from 4% to 95% in 3 years",
+      "sourceIds": [
+        "src-1",
+        "src-2"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-10",
+      "category": "strategic_priorities",
+      "subject": "Fabian S. Dee",
+      "predicate": "strategic_priority",
+      "value": "Staff Realignment to Client-Facing Roles",
+      "sourceIds": [
+        "src-2"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-11",
+      "category": "strategic_priorities",
+      "subject": "Fabian S. Dee",
+      "predicate": "strategic_priority",
+      "value": "Middle Market & Large Corporate Growth",
+      "sourceIds": [
+        "src-2"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-12",
+      "category": "strategic_priorities",
+      "subject": "Fabian S. Dee",
+      "predicate": "strategic_priority",
+      "value": "Retail Banking Leadership (Auto Lending, Credit Cards, Home Loans)",
+      "sourceIds": [
+        "src-2"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-13",
+      "category": "strategic_priorities",
+      "subject": "Fabian S. Dee",
+      "predicate": "strategic_priority",
+      "value": "Treasury / Bond House Strength",
+      "sourceIds": [
+        "src-2"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-14",
+      "category": "strategic_priorities",
+      "subject": "Fabian S. Dee",
+      "predicate": "strategic_priority",
+      "value": "Disciplined Growth Amid Uncertain Environment",
+      "sourceIds": [
+        "src-6"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-tech-15",
+      "category": "technology_interests",
+      "subject": "Fabian S. Dee",
+      "predicate": "technology_interest",
+      "value": "Digital Banking Platforms",
+      "sourceIds": [
+        "src-1",
+        "src-2"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "direct_quote_adjacent"
+      }
+    },
+    {
+      "factId": "fact-tech-16",
+      "category": "technology_interests",
+      "subject": "Fabian S. Dee",
+      "predicate": "technology_interest",
+      "value": "Process Automation",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "verified_metric"
+      }
+    },
+    {
+      "factId": "fact-tech-17",
+      "category": "technology_interests",
+      "subject": "Fabian S. Dee",
+      "predicate": "technology_interest",
+      "value": "Artificial Intelligence",
+      "sourceIds": [],
+      "confidence": 0.3,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "inferred"
+      }
+    },
+    {
+      "factId": "fact-leadership-18",
+      "category": "leadership_style",
+      "subject": "Fabian S. Dee",
+      "predicate": "leadership_trait",
+      "value": "Digital Transformation Champion",
+      "sourceIds": [
+        "src-1",
+        "src-2"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "digital_transformation_champion"
+      }
+    },
+    {
+      "factId": "fact-leadership-19",
+      "category": "leadership_style",
+      "subject": "Fabian S. Dee",
+      "predicate": "leadership_trait",
+      "value": "Operational Excellence Focus",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "operational_excellence_focus"
+      }
+    },
+    {
+      "factId": "fact-leadership-20",
+      "category": "leadership_style",
+      "subject": "Fabian S. Dee",
+      "predicate": "leadership_trait",
+      "value": "Talent Development Oriented",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "talent_development_oriented"
+      }
+    },
+    {
+      "factId": "fact-leadership-21",
+      "category": "leadership_style",
+      "subject": "Fabian S. Dee",
+      "predicate": "leadership_trait",
+      "value": "Customer Centric",
+      "sourceIds": [
+        "src-1",
+        "src-3"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "customer_centric"
+      }
+    },
+    {
+      "factId": "fact-leadership-22",
+      "category": "leadership_style",
+      "subject": "Fabian S. Dee",
+      "predicate": "leadership_trait",
+      "value": "Prudent Risk Grounded",
+      "sourceIds": [
+        "src-3",
+        "src-6"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "prudent_risk_grounded"
+      }
+    },
+    {
+      "factId": "fact-decision-23",
+      "category": "decision_profile",
+      "subject": "Fabian S. Dee",
+      "predicate": "decision_dimension",
+      "value": "Innovation Appetite: high",
+      "sourceIds": [
+        "src-1",
+        "src-2"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "innovation_appetite"
+      }
+    },
+    {
+      "factId": "fact-decision-24",
+      "category": "decision_profile",
+      "subject": "Fabian S. Dee",
+      "predicate": "decision_dimension",
+      "value": "Technology Adoption Posture: high",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "technology_adoption_posture"
+      }
+    },
+    {
+      "factId": "fact-decision-25",
+      "category": "decision_profile",
+      "subject": "Fabian S. Dee",
+      "predicate": "decision_dimension",
+      "value": "Risk Tolerance: moderate/prudent",
+      "sourceIds": [
+        "src-6"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "risk_tolerance"
+      }
+    },
+    {
+      "factId": "fact-decision-26",
+      "category": "decision_profile",
+      "subject": "Fabian S. Dee",
+      "predicate": "decision_dimension",
+      "value": "Budget Influence: high",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "budget_influence"
+      }
+    },
+    {
+      "factId": "fact-decision-27",
+      "category": "decision_profile",
+      "subject": "Fabian S. Dee",
+      "predicate": "decision_dimension",
+      "value": "Strategic Influence: high",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "strategic_influence"
+      }
+    },
+    {
+      "factId": "fact-decision-28",
+      "category": "decision_profile",
+      "subject": "Fabian S. Dee",
+      "predicate": "decision_dimension",
+      "value": "Operational Focus: high",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "operational_focus"
+      }
+    },
+    {
+      "factId": "fact-decision-29",
+      "category": "decision_profile",
+      "subject": "Fabian S. Dee",
+      "predicate": "decision_dimension",
+      "value": "Growth Orientation: high",
+      "sourceIds": [
+        "src-2",
+        "src-6"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "growth_orientation"
+      }
+    },
+    {
+      "factId": "fact-signals-30",
+      "category": "event_signals",
+      "subject": "Fabian S. Dee",
+      "predicate": "event_interest",
+      "value": "Interested in Digital Banking",
+      "sourceIds": [
+        "src-1",
+        "src-2"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_digital_banking"
+      }
+    },
+    {
+      "factId": "fact-signals-31",
+      "category": "event_signals",
+      "subject": "Fabian S. Dee",
+      "predicate": "event_interest",
+      "value": "Interested in Core Banking Modernization",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_core_banking_modernization"
+      }
+    },
+    {
+      "factId": "fact-signals-32",
+      "category": "event_signals",
+      "subject": "Fabian S. Dee",
+      "predicate": "event_interest",
+      "value": "Interested in Customer Experience",
+      "sourceIds": [
+        "src-1",
+        "src-3"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_customer_experience"
+      }
+    },
+    {
+      "factId": "fact-boards-33",
+      "category": "professional_history",
+      "subject": "Fabian S. Dee",
+      "predicate": "board_membership",
+      "value": "BancNet (Director/President)",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-boards-34",
+      "category": "professional_history",
+      "subject": "Fabian S. Dee",
+      "predicate": "board_membership",
+      "value": "First Metro Investment Corporation (Vice Chairman)",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-boards-35",
+      "category": "professional_history",
+      "subject": "Fabian S. Dee",
+      "predicate": "board_membership",
+      "value": "Metrobank Foundation (Trustee)",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-boards-36",
+      "category": "professional_history",
+      "subject": "Fabian S. Dee",
+      "predicate": "board_membership",
+      "value": "FMIC Equities",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-boards-37",
+      "category": "professional_history",
+      "subject": "Fabian S. Dee",
+      "predicate": "board_membership",
+      "value": "Toyota Manila Bay Corporation",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-boards-38",
+      "category": "professional_history",
+      "subject": "Fabian S. Dee",
+      "predicate": "board_membership",
+      "value": "Thomas Cook (Philippines)",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-orgs-39",
+      "category": "professional_history",
+      "subject": "Fabian S. Dee",
+      "predicate": "industry_organization",
+      "value": "Bankers Association of the Philippines",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-keywords-40",
+      "category": "executive_keywords",
+      "subject": "Fabian S. Dee",
+      "predicate": "keyword",
+      "value": "Digital Transformation",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-41",
+      "category": "executive_keywords",
+      "subject": "Fabian S. Dee",
+      "predicate": "keyword",
+      "value": "Operational Excellence",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-42",
+      "category": "executive_keywords",
+      "subject": "Fabian S. Dee",
+      "predicate": "keyword",
+      "value": "Retail Banking",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-43",
+      "category": "executive_keywords",
+      "subject": "Fabian S. Dee",
+      "predicate": "keyword",
+      "value": "Talent Development",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-44",
+      "category": "executive_keywords",
+      "subject": "Fabian S. Dee",
+      "predicate": "keyword",
+      "value": "Customer Experience",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-45",
+      "category": "executive_keywords",
+      "subject": "Fabian S. Dee",
+      "predicate": "keyword",
+      "value": "Treasury",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-46",
+      "category": "executive_keywords",
+      "subject": "Fabian S. Dee",
+      "predicate": "keyword",
+      "value": "Best Managed Bank",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-comm-47",
+      "category": "communication_style",
+      "subject": "Fabian S. Dee",
+      "predicate": "communication_register",
+      "value": "formal_executive",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "communication_style"
+      }
+    }
+  ],
+  "metadata": {
+    "original_format": "executive_intelligence_object",
+    "version": "1.0",
+    "entry_status": "verified_curated"
+  }
+}

@@ -1,0 +1,607 @@
+{
+  "executive": {
+    "name": "Lourdes T. Gutierrez-Alfonso",
+    "title": "President and CEO",
+    "company": "Megaworld Corporation"
+  },
+  "sources": [
+    {
+      "id": "src-1",
+      "url": "https://bworldonline.com",
+      "title": "Megaworld names Lourdes Gutierrez-Alfonso as new president",
+      "sourceName": "bworldonline.com",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2024-06-26",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-2",
+      "url": "https://tatlerasia.com",
+      "title": "Lourdes Gutierrez-Alfonso replaces Andrew Tan as Megaworld's president",
+      "sourceName": "tatlerasia.com",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2024-07-02",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-3",
+      "url": "https://bilyonaryo.com",
+      "title": "Megaworld's Gutierrez-Alfonso accelerates township buildout with ₱21B project handovers this year",
+      "sourceName": "bilyonaryo.com",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2026-04-22",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-4",
+      "url": "https://insiderph.com",
+      "title": "Megaworld raises 2026 spending to fuel township growth outside capital",
+      "sourceName": "insiderph.com",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2026-02-04",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-5",
+      "url": "https://mreit.com.ph",
+      "title": "Lourdes T. Gutierrez-Alfonso bio — MREIT Board/Management",
+      "sourceName": "mreit.com.ph",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-6",
+      "url": "https://philstar.com / mb.com.ph",
+      "title": "Megaworld ventures into data science, AI lab (TAT Lab)",
+      "sourceName": "philstar.com / mb.com.ph",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2023-07-16",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-7",
+      "url": "https://gmanetwork.com",
+      "title": "Megaworld to roll out 'AI-powered' homes in partnership with Samsung",
+      "sourceName": "gmanetwork.com",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2026-01-26",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-8",
+      "url": "https://en.wikipedia.org",
+      "title": "Megaworld (company overview)",
+      "sourceName": "en.wikipedia.org",
+      "sourceTier": 2,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    }
+  ],
+  "facts": [
+    {
+      "factId": "fact-identity-0",
+      "category": "biography",
+      "subject": "Lourdes T. Gutierrez-Alfonso",
+      "predicate": "name",
+      "value": "Lourdes T. Gutierrez-Alfonso",
+      "sourceIds": [
+        "src-1",
+        "src-2"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "full_name"
+      }
+    },
+    {
+      "factId": "fact-identity-1",
+      "category": "biography",
+      "subject": "Lourdes T. Gutierrez-Alfonso",
+      "predicate": "title",
+      "value": "President and CEO",
+      "sourceIds": [
+        "src-1",
+        "src-3",
+        "src-4"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "current_position"
+      }
+    },
+    {
+      "factId": "fact-identity-2",
+      "category": "biography",
+      "subject": "Lourdes T. Gutierrez-Alfonso",
+      "predicate": "company",
+      "value": "Megaworld Corporation",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "current_company"
+      }
+    },
+    {
+      "factId": "fact-career-3",
+      "category": "professional_history",
+      "subject": "Lourdes T. Gutierrez-Alfonso",
+      "predicate": "career_history",
+      "value": "Joined Megaworld Corporation",
+      "sourceIds": [
+        "src-2"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-4",
+      "category": "professional_history",
+      "subject": "Lourdes T. Gutierrez-Alfonso",
+      "predicate": "career_history",
+      "value": "Senior Executive Vice President, Finance and Administration",
+      "sourceIds": [
+        "src-5"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-5",
+      "category": "professional_history",
+      "subject": "Lourdes T. Gutierrez-Alfonso",
+      "predicate": "career_history",
+      "value": "Chief Operating Officer at Megaworld Corporation",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-6",
+      "category": "professional_history",
+      "subject": "Lourdes T. Gutierrez-Alfonso",
+      "predicate": "career_history",
+      "value": "Director; Chairman, Board Executive Committee and Management Executive Committee at Megaworld Corporation",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-7",
+      "category": "professional_history",
+      "subject": "Lourdes T. Gutierrez-Alfonso",
+      "predicate": "career_history",
+      "value": "Director at Global-Estate Resorts, Inc. and MREIT, Inc.",
+      "sourceIds": [
+        "src-1",
+        "src-5"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-8",
+      "category": "professional_history",
+      "subject": "Lourdes T. Gutierrez-Alfonso",
+      "predicate": "career_history",
+      "value": "President (and CEO per 2026 sources) at Megaworld Corporation",
+      "sourceIds": [
+        "src-1",
+        "src-3",
+        "src-4"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-strategy-9",
+      "category": "strategic_priorities",
+      "subject": "Lourdes T. Gutierrez-Alfonso",
+      "predicate": "strategic_priority",
+      "value": "Township Delivery Acceleration: ₱21B worth of project handovers targeted in 2026 across residential, commercial, and beachfront developments",
+      "sourceIds": [
+        "src-3"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-10",
+      "category": "strategic_priorities",
+      "subject": "Lourdes T. Gutierrez-Alfonso",
+      "predicate": "strategic_priority",
+      "value": "Provincial/Regional Expansion: ₱65B 2026 capex (up 30% YoY) directed toward townships outside Metro Manila (Ilocos, Cagayan de Oro, Batangas)",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.88,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-11",
+      "category": "strategic_priorities",
+      "subject": "Lourdes T. Gutierrez-Alfonso",
+      "predicate": "strategic_priority",
+      "value": "Recurring Income Growth via MREIT Asset Injections",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-12",
+      "category": "strategic_priorities",
+      "subject": "Lourdes T. Gutierrez-Alfonso",
+      "predicate": "strategic_priority",
+      "value": "AI Integration into New Developments: \"We are continuing our expansion program with renewed optimism as we innovate our township offerings...we introduce more pioneering projects that integrate new technologies such as the use of artificial intelligence into our new developments\"",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-tech-13",
+      "category": "technology_interests",
+      "subject": "Lourdes T. Gutierrez-Alfonso",
+      "predicate": "technology_interest",
+      "value": "Artificial Intelligence in Residential Developments",
+      "sourceIds": [
+        "src-4",
+        "src-7"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "direct_quote_by_executive_plus_verified_program"
+      }
+    },
+    {
+      "factId": "fact-tech-14",
+      "category": "technology_interests",
+      "subject": "Lourdes T. Gutierrez-Alfonso",
+      "predicate": "technology_interest",
+      "value": "Data Science / Machine Learning for Township Safety (TAT Lab)",
+      "sourceIds": [
+        "src-6"
+      ],
+      "confidence": 0.5,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "verified_program_pre_tenure"
+      }
+    },
+    {
+      "factId": "fact-decision-15",
+      "category": "decision_profile",
+      "subject": "Lourdes T. Gutierrez-Alfonso",
+      "predicate": "decision_dimension",
+      "value": "Growth Orientation: high",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "growth_orientation"
+      }
+    },
+    {
+      "factId": "fact-decision-16",
+      "category": "decision_profile",
+      "subject": "Lourdes T. Gutierrez-Alfonso",
+      "predicate": "decision_dimension",
+      "value": "Technology Adoption Posture: high",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "technology_adoption_posture"
+      }
+    },
+    {
+      "factId": "fact-decision-17",
+      "category": "decision_profile",
+      "subject": "Lourdes T. Gutierrez-Alfonso",
+      "predicate": "decision_dimension",
+      "value": "Operational Focus: high",
+      "sourceIds": [
+        "src-3"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "operational_focus"
+      }
+    },
+    {
+      "factId": "fact-decision-18",
+      "category": "decision_profile",
+      "subject": "Lourdes T. Gutierrez-Alfonso",
+      "predicate": "decision_dimension",
+      "value": "Budget Influence: high",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "budget_influence"
+      }
+    },
+    {
+      "factId": "fact-signals-19",
+      "category": "event_signals",
+      "subject": "Lourdes T. Gutierrez-Alfonso",
+      "predicate": "event_interest",
+      "value": "Interested in Ai",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_ai"
+      }
+    },
+    {
+      "factId": "fact-signals-20",
+      "category": "event_signals",
+      "subject": "Lourdes T. Gutierrez-Alfonso",
+      "predicate": "event_interest",
+      "value": "Interested in Proptech Smart Homes",
+      "sourceIds": [
+        "src-4",
+        "src-7"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_proptech_smart_homes"
+      }
+    },
+    {
+      "factId": "fact-boards-21",
+      "category": "professional_history",
+      "subject": "Lourdes T. Gutierrez-Alfonso",
+      "predicate": "board_membership",
+      "value": "Director, Megaworld Corporation",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-boards-22",
+      "category": "professional_history",
+      "subject": "Lourdes T. Gutierrez-Alfonso",
+      "predicate": "board_membership",
+      "value": "Director, Global-Estate Resorts, Inc.",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-boards-23",
+      "category": "professional_history",
+      "subject": "Lourdes T. Gutierrez-Alfonso",
+      "predicate": "board_membership",
+      "value": "Director, MREIT, Inc.",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-boards-24",
+      "category": "professional_history",
+      "subject": "Lourdes T. Gutierrez-Alfonso",
+      "predicate": "board_membership",
+      "value": "Chairman, First Oceanic Property Management, Inc.",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-keywords-25",
+      "category": "executive_keywords",
+      "subject": "Lourdes T. Gutierrez-Alfonso",
+      "predicate": "keyword",
+      "value": "Township Expansion",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-26",
+      "category": "executive_keywords",
+      "subject": "Lourdes T. Gutierrez-Alfonso",
+      "predicate": "keyword",
+      "value": "AI-Powered Homes",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-27",
+      "category": "executive_keywords",
+      "subject": "Lourdes T. Gutierrez-Alfonso",
+      "predicate": "keyword",
+      "value": "Capital Expenditure Growth",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-28",
+      "category": "executive_keywords",
+      "subject": "Lourdes T. Gutierrez-Alfonso",
+      "predicate": "keyword",
+      "value": "Recurring Income",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-29",
+      "category": "executive_keywords",
+      "subject": "Lourdes T. Gutierrez-Alfonso",
+      "predicate": "keyword",
+      "value": "First Employee-Promoted President",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-comm-30",
+      "category": "communication_style",
+      "subject": "Lourdes T. Gutierrez-Alfonso",
+      "predicate": "communication_register",
+      "value": "formal_executive, growth-oriented",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "communication_style"
+      }
+    }
+  ],
+  "metadata": {
+    "original_format": "executive_intelligence_object",
+    "version": "1.0",
+    "entry_status": "verified_curated"
+  }
+}

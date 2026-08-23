@@ -1,0 +1,544 @@
+{
+  "executive": {
+    "name": "Jeffrey T. Ng",
+    "title": "President and CEO",
+    "company": "Cathay Land, Inc."
+  },
+  "sources": [
+    {
+      "id": "src-1",
+      "url": "https://cathaylandinc.com",
+      "title": "About — Cathay Land Inc.",
+      "sourceName": "cathaylandinc.com",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-2",
+      "url": "https://bworldonline.com",
+      "title": "PCCI names Cathay Land's Jeffrey Ng as 47th PBC&E chairman",
+      "sourceName": "bworldonline.com",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2021-10-04",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-3",
+      "url": "https://philstar.com",
+      "title": "PCCI names Cathay Land's Jeffrey Ng as 47th PBC&E chair",
+      "sourceName": "philstar.com",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2021-10-15",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-4",
+      "url": "https://esquiremag.ph",
+      "title": "5 Business Lessons Everyone Can Learn from Jeffrey Ng, Founder and CEO of Cathay Land, Inc.",
+      "sourceName": "esquiremag.ph",
+      "sourceTier": 2,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": "2026-02-24",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-5",
+      "url": "https://fef.org.ph",
+      "title": "Jeffrey Ng — Foundation for Economic Freedom member bio",
+      "sourceName": "fef.org.ph",
+      "sourceTier": 2,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-6",
+      "url": "https://globalpeace.org",
+      "title": "Jeffrey Ng — Global Peace Foundation speaker bio",
+      "sourceName": "globalpeace.org",
+      "sourceTier": 2,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    }
+  ],
+  "facts": [
+    {
+      "factId": "fact-identity-0",
+      "category": "biography",
+      "subject": "Jeffrey T. Ng",
+      "predicate": "name",
+      "value": "Jeffrey T. Ng",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "full_name"
+      }
+    },
+    {
+      "factId": "fact-identity-1",
+      "category": "biography",
+      "subject": "Jeffrey T. Ng",
+      "predicate": "title",
+      "value": "President and CEO",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "current_position"
+      }
+    },
+    {
+      "factId": "fact-identity-2",
+      "category": "biography",
+      "subject": "Jeffrey T. Ng",
+      "predicate": "company",
+      "value": "Cathay Land, Inc.",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "current_company"
+      }
+    },
+    {
+      "factId": "fact-education-3",
+      "category": "biography",
+      "subject": "Jeffrey T. Ng",
+      "predicate": "education",
+      "value": "BS Economics, cum laude, University of the Philippines Diliman",
+      "sourceIds": [
+        "src-2",
+        "src-3"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "education"
+      }
+    },
+    {
+      "factId": "fact-education-4",
+      "category": "biography",
+      "subject": "Jeffrey T. Ng",
+      "predicate": "education",
+      "value": "Master's in Business Economics, University of Asia and the Pacific",
+      "sourceIds": [
+        "src-2",
+        "src-3"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "education"
+      }
+    },
+    {
+      "factId": "fact-career-5",
+      "category": "professional_history",
+      "subject": "Jeffrey T. Ng",
+      "predicate": "career_history",
+      "value": "Led early land-banking strategy south of Metro Manila at Cathay Land, Inc.",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-6",
+      "category": "professional_history",
+      "subject": "Jeffrey T. Ng",
+      "predicate": "career_history",
+      "value": "President at Cathay Land, Inc. (developer of South Forbes Golf City)",
+      "sourceIds": [
+        "src-1",
+        "src-2"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-7",
+      "category": "professional_history",
+      "subject": "Jeffrey T. Ng",
+      "predicate": "career_history",
+      "value": "President at Astoria Hotels and Resorts",
+      "sourceIds": [
+        "src-2"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-8",
+      "category": "professional_history",
+      "subject": "Jeffrey T. Ng",
+      "predicate": "career_history",
+      "value": "President at Cathay Metal Corp. (steel manufacturing)",
+      "sourceIds": [
+        "src-2"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-9",
+      "category": "professional_history",
+      "subject": "Jeffrey T. Ng",
+      "predicate": "career_history",
+      "value": "Chairman, 47th Philippine Business Conference & Expo at Philippine Chamber of Commerce and Industry",
+      "sourceIds": [
+        "src-2",
+        "src-3"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-10",
+      "category": "professional_history",
+      "subject": "Jeffrey T. Ng",
+      "predicate": "career_history",
+      "value": "President, UP School of Economics Alumni Association",
+      "sourceIds": [
+        "src-2"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-11",
+      "category": "professional_history",
+      "subject": "Jeffrey T. Ng",
+      "predicate": "career_history",
+      "value": "Board Member at Philippine Chamber of Commerce and Industry; Foundation for Economic Freedom",
+      "sourceIds": [
+        "src-2",
+        "src-5"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-strategy-12",
+      "category": "strategic_priorities",
+      "subject": "Jeffrey T. Ng",
+      "predicate": "strategic_priority",
+      "value": "Master-Planned Community Development: Championed large-scale integrated townships (e.g., South Forbes Golf City, 250-hectare development in Silang, Cavite)",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-13",
+      "category": "strategic_priorities",
+      "subject": "Jeffrey T. Ng",
+      "predicate": "strategic_priority",
+      "value": "Strategic Land-Banking South of Metro Manila",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-14",
+      "category": "strategic_priorities",
+      "subject": "Jeffrey T. Ng",
+      "predicate": "strategic_priority",
+      "value": "Long-Term, Patient Capital Deployment Philosophy: Publication characterizes his approach as built on 'patience, long-term conviction'",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.6,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-tech-15",
+      "category": "technology_interests",
+      "subject": "Jeffrey T. Ng",
+      "predicate": "technology_interest",
+      "value": "Artificial Intelligence / Digital Transformation",
+      "sourceIds": [],
+      "confidence": 0.0,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": ""
+      }
+    },
+    {
+      "factId": "fact-decision-16",
+      "category": "decision_profile",
+      "subject": "Jeffrey T. Ng",
+      "predicate": "decision_dimension",
+      "value": "Growth Orientation: moderate/patient (land-banking, long-horizon community building)",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.6,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "growth_orientation"
+      }
+    },
+    {
+      "factId": "fact-decision-17",
+      "category": "decision_profile",
+      "subject": "Jeffrey T. Ng",
+      "predicate": "decision_dimension",
+      "value": "Diversification: cross-industry (real estate, hospitality, steel manufacturing)",
+      "sourceIds": [
+        "src-2"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "diversification"
+      }
+    },
+    {
+      "factId": "fact-decision-18",
+      "category": "decision_profile",
+      "subject": "Jeffrey T. Ng",
+      "predicate": "decision_dimension",
+      "value": "Budget Influence: high",
+      "sourceIds": [
+        "src-2"
+      ],
+      "confidence": 0.6,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "budget_influence"
+      }
+    },
+    {
+      "factId": "fact-boards-19",
+      "category": "professional_history",
+      "subject": "Jeffrey T. Ng",
+      "predicate": "board_membership",
+      "value": "Philippine Chamber of Commerce and Industry (Board Member)",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-boards-20",
+      "category": "professional_history",
+      "subject": "Jeffrey T. Ng",
+      "predicate": "board_membership",
+      "value": "Foundation for Economic Freedom (Board Member)",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-orgs-21",
+      "category": "professional_history",
+      "subject": "Jeffrey T. Ng",
+      "predicate": "industry_organization",
+      "value": "Philippine Chamber of Commerce and Industry",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-orgs-22",
+      "category": "professional_history",
+      "subject": "Jeffrey T. Ng",
+      "predicate": "industry_organization",
+      "value": "UP School of Economics Alumni Association (President)",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-keywords-23",
+      "category": "executive_keywords",
+      "subject": "Jeffrey T. Ng",
+      "predicate": "keyword",
+      "value": "Master-Planned Communities",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-24",
+      "category": "executive_keywords",
+      "subject": "Jeffrey T. Ng",
+      "predicate": "keyword",
+      "value": "Land-Banking",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-25",
+      "category": "executive_keywords",
+      "subject": "Jeffrey T. Ng",
+      "predicate": "keyword",
+      "value": "South Forbes Golf City",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-26",
+      "category": "executive_keywords",
+      "subject": "Jeffrey T. Ng",
+      "predicate": "keyword",
+      "value": "Diversified Holdings",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-27",
+      "category": "executive_keywords",
+      "subject": "Jeffrey T. Ng",
+      "predicate": "keyword",
+      "value": "Economic Policy Engagement",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-comm-28",
+      "category": "communication_style",
+      "subject": "Jeffrey T. Ng",
+      "predicate": "communication_register",
+      "value": "formal business/civic-leadership (PCCI conference chairmanship, economic-policy engagement)",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "communication_style"
+      }
+    }
+  ],
+  "metadata": {
+    "original_format": "executive_intelligence_object",
+    "version": "1.0",
+    "entry_status": "verified_curated_partial"
+  }
+}

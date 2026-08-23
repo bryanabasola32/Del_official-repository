@@ -1,0 +1,817 @@
+{
+  "executive": {
+    "name": "Ana Maria Aboitiz-Delgado",
+    "title": "President and CEO",
+    "company": "Union Bank of the Philippines (UnionBank)"
+  },
+  "sources": [
+    {
+      "id": "src-1",
+      "url": "https://sunstar.com.ph",
+      "title": "New BAP chief pushes collaborative banking future",
+      "sourceName": "sunstar.com.ph",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2026-03-19",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-2",
+      "url": "https://mb.com.ph",
+      "title": "Philippines' new banking head warns of AI risks as she takes helm",
+      "sourceName": "mb.com.ph",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2026-03-18",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-3",
+      "url": "https://aboitizeyes.aboitiz.com",
+      "title": "Ana Aboitiz-Delgado Elected As BAP President",
+      "sourceName": "aboitizeyes.aboitiz.com",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": "2026-03-18",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-4",
+      "url": "https://gmanetwork.com",
+      "title": "UnionBank CEO elected as bankers group's first female president",
+      "sourceName": "gmanetwork.com",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2026-03-18",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-5",
+      "url": "https://bworldonline.com",
+      "title": "UnionBank CEO 1st female BAP head",
+      "sourceName": "bworldonline.com",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2026-03-19",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-6",
+      "url": "https://en.wikipedia.org",
+      "title": "UnionBank (Philippines)",
+      "sourceName": "en.wikipedia.org",
+      "sourceTier": 2,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": "accessed 2026-08",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-7",
+      "url": "https://insiderph.com",
+      "title": "UnionBank's Aboitiz-Delgado named BAP chief, succeeds BPI's Limcaoco",
+      "sourceName": "insiderph.com",
+      "sourceTier": 2,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    }
+  ],
+  "facts": [
+    {
+      "factId": "fact-identity-0",
+      "category": "biography",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "name",
+      "value": "Ana Maria Aboitiz-Delgado (listed in DEL's spreadsheet as Ana Maria A. Delgado)",
+      "sourceIds": [
+        "src-1",
+        "src-2",
+        "src-3"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "full_name"
+      }
+    },
+    {
+      "factId": "fact-identity-1",
+      "category": "biography",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "title",
+      "value": "President and CEO",
+      "sourceIds": [
+        "src-2",
+        "src-3",
+        "src-6"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "current_position"
+      }
+    },
+    {
+      "factId": "fact-identity-2",
+      "category": "biography",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "company",
+      "value": "Union Bank of the Philippines (UnionBank)",
+      "sourceIds": [
+        "src-2",
+        "src-3",
+        "src-6"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "current_company"
+      }
+    },
+    {
+      "factId": "fact-career-3",
+      "category": "professional_history",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "career_history",
+      "value": "Management Trainee at UnionBank",
+      "sourceIds": [
+        "src-1",
+        "src-2"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-4",
+      "category": "professional_history",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "career_history",
+      "value": "Various roles: retail & institutional finance, customer experience, digital channels at UnionBank",
+      "sourceIds": [
+        "src-2",
+        "src-3"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-5",
+      "category": "professional_history",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "career_history",
+      "value": "President and CEO at UnionBank",
+      "sourceIds": [
+        "src-3",
+        "src-6"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-6",
+      "category": "professional_history",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "career_history",
+      "value": "President at Bankers Association of the Philippines",
+      "sourceIds": [
+        "src-1",
+        "src-2",
+        "src-3",
+        "src-4",
+        "src-5"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-awards-7",
+      "category": "awards",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "award",
+      "value": "First woman President of the Bankers Association of the Philippines (historic distinction, not a formal award)",
+      "sourceIds": [
+        "src-1",
+        "src-2",
+        "src-3",
+        "src-4",
+        "src-5"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "awards"
+      }
+    },
+    {
+      "factId": "fact-strategy-8",
+      "category": "strategic_priorities",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "strategic_priority",
+      "value": "Responsible AI Adoption Industry-Wide",
+      "sourceIds": [
+        "src-1",
+        "src-2",
+        "src-3"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-9",
+      "category": "strategic_priorities",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "strategic_priority",
+      "value": "Cross-Institution Risk Safeguards (Cybersecurity, Fraud)",
+      "sourceIds": [
+        "src-1",
+        "src-2"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-10",
+      "category": "strategic_priorities",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "strategic_priority",
+      "value": "Continuation/Expansion of Digital Transformation & Ecosystem-Based Risk Management (building on Limcaoco's BAP term)",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-11",
+      "category": "strategic_priorities",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "strategic_priority",
+      "value": "Regional/Geopolitical Risk Coordination Across Banks",
+      "sourceIds": [
+        "src-2",
+        "src-4"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-12",
+      "category": "strategic_priorities",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "strategic_priority",
+      "value": "UnionBank Digital Transformation, Consumer Finance, SME & Institutional Banking (company-level, pre-BAP role)",
+      "sourceIds": [
+        "src-2",
+        "src-3",
+        "src-5"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-tech-13",
+      "category": "technology_interests",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "technology_interest",
+      "value": "Artificial Intelligence",
+      "sourceIds": [
+        "src-1",
+        "src-2",
+        "src-3",
+        "src-4"
+      ],
+      "confidence": 0.92,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "direct_quote"
+      }
+    },
+    {
+      "factId": "fact-tech-14",
+      "category": "technology_interests",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "technology_interest",
+      "value": "Digital Banking / Digital Channels",
+      "sourceIds": [
+        "src-2",
+        "src-3",
+        "src-5"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "career_history_and_quote"
+      }
+    },
+    {
+      "factId": "fact-tech-15",
+      "category": "technology_interests",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "technology_interest",
+      "value": "Cybersecurity / Risk Technology",
+      "sourceIds": [
+        "src-1",
+        "src-2"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "direct_quote"
+      }
+    },
+    {
+      "factId": "fact-leadership-16",
+      "category": "leadership_style",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "leadership_trait",
+      "value": "Collaborative",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "collaborative"
+      }
+    },
+    {
+      "factId": "fact-leadership-17",
+      "category": "leadership_style",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "leadership_trait",
+      "value": "Risk Aware Pragmatic",
+      "sourceIds": [
+        "src-2"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "risk_aware_pragmatic"
+      }
+    },
+    {
+      "factId": "fact-leadership-18",
+      "category": "leadership_style",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "leadership_trait",
+      "value": "Digitally Experienced",
+      "sourceIds": [
+        "src-2",
+        "src-3",
+        "src-5"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "digitally_experienced"
+      }
+    },
+    {
+      "factId": "fact-leadership-19",
+      "category": "leadership_style",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "leadership_trait",
+      "value": "Inclusion Minded",
+      "sourceIds": [
+        "src-3"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "inclusion_minded"
+      }
+    },
+    {
+      "factId": "fact-decision-20",
+      "category": "decision_profile",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "decision_dimension",
+      "value": "Innovation Appetite: high",
+      "sourceIds": [
+        "src-2",
+        "src-3",
+        "src-5"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "innovation_appetite"
+      }
+    },
+    {
+      "factId": "fact-decision-21",
+      "category": "decision_profile",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "decision_dimension",
+      "value": "Technology Adoption Posture: high_but_risk_aware",
+      "sourceIds": [
+        "src-1",
+        "src-2"
+      ],
+      "confidence": 0.88,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "technology_adoption_posture"
+      }
+    },
+    {
+      "factId": "fact-decision-22",
+      "category": "decision_profile",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "decision_dimension",
+      "value": "Risk Tolerance: moderate — explicitly risk-conscious on AI/cyber",
+      "sourceIds": [
+        "src-1",
+        "src-2"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "risk_tolerance"
+      }
+    },
+    {
+      "factId": "fact-decision-23",
+      "category": "decision_profile",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "decision_dimension",
+      "value": "Budget Influence: high",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "budget_influence"
+      }
+    },
+    {
+      "factId": "fact-decision-24",
+      "category": "decision_profile",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "decision_dimension",
+      "value": "Strategic Influence: very_high",
+      "sourceIds": [
+        "src-1",
+        "src-2",
+        "src-3",
+        "src-4",
+        "src-5"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "strategic_influence"
+      }
+    },
+    {
+      "factId": "fact-decision-25",
+      "category": "decision_profile",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "decision_dimension",
+      "value": "Operational Focus: unknown",
+      "sourceIds": [],
+      "confidence": 0.0,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "operational_focus"
+      }
+    },
+    {
+      "factId": "fact-decision-26",
+      "category": "decision_profile",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "decision_dimension",
+      "value": "Growth Orientation: high",
+      "sourceIds": [
+        "src-2",
+        "src-3"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "growth_orientation"
+      }
+    },
+    {
+      "factId": "fact-signals-27",
+      "category": "event_signals",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "event_interest",
+      "value": "Interested in Ai",
+      "sourceIds": [
+        "src-1",
+        "src-2",
+        "src-3",
+        "src-4"
+      ],
+      "confidence": 0.92,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_ai"
+      }
+    },
+    {
+      "factId": "fact-signals-28",
+      "category": "event_signals",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "event_interest",
+      "value": "Interested in Cybersecurity",
+      "sourceIds": [
+        "src-1",
+        "src-2"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_cybersecurity"
+      }
+    },
+    {
+      "factId": "fact-signals-29",
+      "category": "event_signals",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "event_interest",
+      "value": "Interested in Digital Transformation",
+      "sourceIds": [
+        "src-2",
+        "src-3",
+        "src-5"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_digital_transformation"
+      }
+    },
+    {
+      "factId": "fact-signals-30",
+      "category": "event_signals",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "event_interest",
+      "value": "Interested in Financial Inclusion",
+      "sourceIds": [
+        "src-3"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_financial_inclusion"
+      }
+    },
+    {
+      "factId": "fact-signals-31",
+      "category": "event_signals",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "event_interest",
+      "value": "Interested in Regional Cooperation",
+      "sourceIds": [
+        "src-2",
+        "src-4"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_regional_cooperation"
+      }
+    },
+    {
+      "factId": "fact-boards-32",
+      "category": "professional_history",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "board_membership",
+      "value": "Chairwoman, City Savings Bank (UnionBank subsidiary)",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-orgs-33",
+      "category": "professional_history",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "industry_organization",
+      "value": "President, Bankers Association of the Philippines (2026-2027)",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-keywords-34",
+      "category": "executive_keywords",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "keyword",
+      "value": "Artificial Intelligence",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-35",
+      "category": "executive_keywords",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "keyword",
+      "value": "AI Risk",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-36",
+      "category": "executive_keywords",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "keyword",
+      "value": "Cybersecurity",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-37",
+      "category": "executive_keywords",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "keyword",
+      "value": "Digital Transformation",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-38",
+      "category": "executive_keywords",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "keyword",
+      "value": "Financial Inclusion",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-39",
+      "category": "executive_keywords",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "keyword",
+      "value": "Regional Cooperation",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-40",
+      "category": "executive_keywords",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "keyword",
+      "value": "Consumer Finance",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-comm-41",
+      "category": "communication_style",
+      "subject": "Ana Maria Aboitiz-Delgado",
+      "predicate": "communication_register",
+      "value": "formal_executive",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "communication_style"
+      }
+    }
+  ],
+  "metadata": {
+    "original_format": "executive_intelligence_object",
+    "version": "1.0",
+    "entry_status": "verified_curated"
+  }
+}

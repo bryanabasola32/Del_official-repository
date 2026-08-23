@@ -1,0 +1,686 @@
+{
+  "executive": {
+    "name": "Enrique V. Rey Jr.",
+    "title": "President and Chief Executive Officer",
+    "company": "LBC Express Holdings, Inc."
+  },
+  "sources": [
+    {
+      "id": "src-1",
+      "url": "https://business.inquirer.net",
+      "title": "LBC Express marks the retirement of CEO Mike Camahort",
+      "sourceName": "business.inquirer.net",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2025-08-29",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-2",
+      "url": "https://manilatimes.net",
+      "title": "LBC Express chairman to step down in October",
+      "sourceName": "manilatimes.net",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2025-08-28",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-3",
+      "url": "https://context.ph",
+      "title": "LBC Express announces major leadership changes",
+      "sourceName": "context.ph",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2025-08-27",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-4",
+      "url": "https://sunstar.com.ph",
+      "title": "LBC Express Appoints Enrique Rey Jr. as CEO",
+      "sourceName": "sunstar.com.ph",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2025-09-04",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-5",
+      "url": "https://theorg.com",
+      "title": "Enrique V. Rey Jr. — CFO & Investor Relations Officer at LBC Express",
+      "sourceName": "theorg.com",
+      "sourceTier": 2,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-6",
+      "url": "https://lbcexpressholdings.com",
+      "title": "LBC Express Inc. Management Team – LBC Holding Annual Report 2020",
+      "sourceName": "lbcexpressholdings.com",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-7",
+      "url": "https://en.wikipedia.org",
+      "title": "LBC Express",
+      "sourceName": "en.wikipedia.org",
+      "sourceTier": 2,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    }
+  ],
+  "facts": [
+    {
+      "factId": "fact-identity-0",
+      "category": "biography",
+      "subject": "Enrique V. Rey Jr.",
+      "predicate": "name",
+      "value": "Enrique V. Rey Jr.",
+      "sourceIds": [
+        "src-1",
+        "src-4"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "full_name"
+      }
+    },
+    {
+      "factId": "fact-identity-1",
+      "category": "biography",
+      "subject": "Enrique V. Rey Jr.",
+      "predicate": "title",
+      "value": "President and Chief Executive Officer",
+      "sourceIds": [
+        "src-1",
+        "src-3",
+        "src-4",
+        "src-7"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "current_position"
+      }
+    },
+    {
+      "factId": "fact-identity-2",
+      "category": "biography",
+      "subject": "Enrique V. Rey Jr.",
+      "predicate": "company",
+      "value": "LBC Express Holdings, Inc.",
+      "sourceIds": [
+        "src-1",
+        "src-4",
+        "src-7"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "current_company"
+      }
+    },
+    {
+      "factId": "fact-education-3",
+      "category": "biography",
+      "subject": "Enrique V. Rey Jr.",
+      "predicate": "education",
+      "value": "Attended, De La Salle University",
+      "sourceIds": [
+        "src-5"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "education"
+      }
+    },
+    {
+      "factId": "fact-education-4",
+      "category": "biography",
+      "subject": "Enrique V. Rey Jr.",
+      "predicate": "education",
+      "value": "Management program, Ateneo Business School",
+      "sourceIds": [
+        "src-5"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "education"
+      }
+    },
+    {
+      "factId": "fact-education-5",
+      "category": "biography",
+      "subject": "Enrique V. Rey Jr.",
+      "predicate": "education",
+      "value": "Executive training in Finance, INSEAD",
+      "sourceIds": [
+        "src-5"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "education"
+      }
+    },
+    {
+      "factId": "fact-career-6",
+      "category": "professional_history",
+      "subject": "Enrique V. Rey Jr.",
+      "predicate": "career_history",
+      "value": "Associate Vice President, Institutional Sales at Coca-Cola Phil ATS",
+      "sourceIds": [
+        "src-5"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-7",
+      "category": "professional_history",
+      "subject": "Enrique V. Rey Jr.",
+      "predicate": "career_history",
+      "value": "Senior Head of Sales at Coca-Cola Phil ATS",
+      "sourceIds": [
+        "src-5"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-8",
+      "category": "professional_history",
+      "subject": "Enrique V. Rey Jr.",
+      "predicate": "career_history",
+      "value": "Director at LBC Mundial Inc.",
+      "sourceIds": [
+        "src-5"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-9",
+      "category": "professional_history",
+      "subject": "Enrique V. Rey Jr.",
+      "predicate": "career_history",
+      "value": "Director at LBC Systems, Inc.",
+      "sourceIds": [
+        "src-5"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-10",
+      "category": "professional_history",
+      "subject": "Enrique V. Rey Jr.",
+      "predicate": "career_history",
+      "value": "Investor Relations Officer at LBC Express Holdings, Inc.",
+      "sourceIds": [
+        "src-5"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-11",
+      "category": "professional_history",
+      "subject": "Enrique V. Rey Jr.",
+      "predicate": "career_history",
+      "value": "Chief Finance Officer, Chief Risk Officer, Compliance & Investor Relations Officer at LBC Express Holdings, Inc.",
+      "sourceIds": [
+        "src-5",
+        "src-6"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-12",
+      "category": "professional_history",
+      "subject": "Enrique V. Rey Jr.",
+      "predicate": "career_history",
+      "value": "President and Chief Executive Officer at LBC Express Holdings, Inc.",
+      "sourceIds": [
+        "src-1",
+        "src-3",
+        "src-4"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-strategy-13",
+      "category": "strategic_priorities",
+      "subject": "Enrique V. Rey Jr.",
+      "predicate": "strategic_priority",
+      "value": "Operational Excellence and Innovation: Publicly stated mandate alongside new CFO and Chairman to 'drive operational excellence and innovation'",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-14",
+      "category": "strategic_priorities",
+      "subject": "Enrique V. Rey Jr.",
+      "predicate": "strategic_priority",
+      "value": "Continuity of Corporate Solutions (B2B) Growth: Inherits LBC Corporate Solutions division, described as a key revenue driver built under predecessor Camahort",
+      "sourceIds": [
+        "src-1",
+        "src-3"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-15",
+      "category": "strategic_priorities",
+      "subject": "Enrique V. Rey Jr.",
+      "predicate": "strategic_priority",
+      "value": "Customer-Centric, Care-Oriented Service Mission: New leadership team publicly reaffirmed mission to 'move lives, businesses, and communities with care'",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.65,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-tech-16",
+      "category": "technology_interests",
+      "subject": "Enrique V. Rey Jr.",
+      "predicate": "technology_interest",
+      "value": "E-commerce Logistics",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.6,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "company_context"
+      }
+    },
+    {
+      "factId": "fact-tech-17",
+      "category": "technology_interests",
+      "subject": "Enrique V. Rey Jr.",
+      "predicate": "technology_interest",
+      "value": "Digital Transformation",
+      "sourceIds": [
+        "src-3"
+      ],
+      "confidence": 0.5,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "company_context"
+      }
+    },
+    {
+      "factId": "fact-tech-18",
+      "category": "technology_interests",
+      "subject": "Enrique V. Rey Jr.",
+      "predicate": "technology_interest",
+      "value": "Artificial Intelligence",
+      "sourceIds": [],
+      "confidence": 0.1,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "inferred"
+      }
+    },
+    {
+      "factId": "fact-leadership-19",
+      "category": "leadership_style",
+      "subject": "Enrique V. Rey Jr.",
+      "predicate": "leadership_trait",
+      "value": "Finance And Governance Grounded",
+      "sourceIds": [
+        "src-5",
+        "src-6"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "finance_and_governance_grounded"
+      }
+    },
+    {
+      "factId": "fact-leadership-20",
+      "category": "leadership_style",
+      "subject": "Enrique V. Rey Jr.",
+      "predicate": "leadership_trait",
+      "value": "Continuity And Transformation Orientation",
+      "sourceIds": [
+        "src-1",
+        "src-4"
+      ],
+      "confidence": 0.6,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "continuity_and_transformation_orientation"
+      }
+    },
+    {
+      "factId": "fact-decision-21",
+      "category": "decision_profile",
+      "subject": "Enrique V. Rey Jr.",
+      "predicate": "decision_dimension",
+      "value": "Operational Focus: high",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "operational_focus"
+      }
+    },
+    {
+      "factId": "fact-decision-22",
+      "category": "decision_profile",
+      "subject": "Enrique V. Rey Jr.",
+      "predicate": "decision_dimension",
+      "value": "Budget Influence: high",
+      "sourceIds": [
+        "src-5",
+        "src-6"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "budget_influence"
+      }
+    },
+    {
+      "factId": "fact-decision-23",
+      "category": "decision_profile",
+      "subject": "Enrique V. Rey Jr.",
+      "predicate": "decision_dimension",
+      "value": "Technology Adoption Posture: unknown",
+      "sourceIds": [],
+      "confidence": 0.15,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "technology_adoption_posture"
+      }
+    },
+    {
+      "factId": "fact-decision-24",
+      "category": "decision_profile",
+      "subject": "Enrique V. Rey Jr.",
+      "predicate": "decision_dimension",
+      "value": "Risk Orientation: governance-grounded",
+      "sourceIds": [
+        "src-5",
+        "src-6"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "risk_orientation"
+      }
+    },
+    {
+      "factId": "fact-signals-25",
+      "category": "event_signals",
+      "subject": "Enrique V. Rey Jr.",
+      "predicate": "event_interest",
+      "value": "Interested in Operational Excellence",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_operational_excellence"
+      }
+    },
+    {
+      "factId": "fact-signals-26",
+      "category": "event_signals",
+      "subject": "Enrique V. Rey Jr.",
+      "predicate": "event_interest",
+      "value": "Interested in Corporate Solutions B2B Growth",
+      "sourceIds": [
+        "src-1",
+        "src-3"
+      ],
+      "confidence": 0.65,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_corporate_solutions_b2b_growth"
+      }
+    },
+    {
+      "factId": "fact-boards-27",
+      "category": "professional_history",
+      "subject": "Enrique V. Rey Jr.",
+      "predicate": "board_membership",
+      "value": "Member, Institute of Internal Auditors Philippines (since 2010)",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-keywords-28",
+      "category": "executive_keywords",
+      "subject": "Enrique V. Rey Jr.",
+      "predicate": "keyword",
+      "value": "Courier",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-29",
+      "category": "executive_keywords",
+      "subject": "Enrique V. Rey Jr.",
+      "predicate": "keyword",
+      "value": "Logistics",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-30",
+      "category": "executive_keywords",
+      "subject": "Enrique V. Rey Jr.",
+      "predicate": "keyword",
+      "value": "Corporate Solutions",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-31",
+      "category": "executive_keywords",
+      "subject": "Enrique V. Rey Jr.",
+      "predicate": "keyword",
+      "value": "Operational Excellence",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-32",
+      "category": "executive_keywords",
+      "subject": "Enrique V. Rey Jr.",
+      "predicate": "keyword",
+      "value": "Finance",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-33",
+      "category": "executive_keywords",
+      "subject": "Enrique V. Rey Jr.",
+      "predicate": "keyword",
+      "value": "Risk Management",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-34",
+      "category": "executive_keywords",
+      "subject": "Enrique V. Rey Jr.",
+      "predicate": "keyword",
+      "value": "Leadership Transition",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-comm-35",
+      "category": "communication_style",
+      "subject": "Enrique V. Rey Jr.",
+      "predicate": "communication_register",
+      "value": "formal_executive",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "communication_style"
+      }
+    }
+  ],
+  "metadata": {
+    "original_format": "executive_intelligence_object",
+    "version": "1.0",
+    "entry_status": "verified_curated"
+  }
+}

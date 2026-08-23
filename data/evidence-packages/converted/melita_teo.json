@@ -1,0 +1,821 @@
+{
+  "executive": {
+    "name": "Melita Teo",
+    "title": "President and Chief Executive Officer",
+    "company": "AIA Philippines"
+  },
+  "sources": [
+    {
+      "id": "src-1",
+      "url": "https://business.inquirer.net",
+      "title": "Melita Teo: Leading with insight in a changing insurance landscape",
+      "sourceName": "business.inquirer.net",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2025-08-19",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-2",
+      "url": "https://asiaasset.com",
+      "title": "AIA Group appoints Melita Teo as CEO of AIA Philippines",
+      "sourceName": "asiaasset.com",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2023-11-24",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-3",
+      "url": "https://itij.com",
+      "title": "AIA Singapore announces three leadership role changes",
+      "sourceName": "itij.com",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2024-11-07",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-4",
+      "url": "https://bpi-aia.com.ph",
+      "title": "About Leadership Team — BPI AIA",
+      "sourceName": "bpi-aia.com.ph",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-5",
+      "url": "https://aia.com.ph",
+      "title": "Leadership Team — AIA Philippines",
+      "sourceName": "aia.com.ph",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-6",
+      "url": "https://theofficialboard.com",
+      "title": "Melita Teo – Biography, AIA Philippines CEO",
+      "sourceName": "theofficialboard.com",
+      "sourceTier": 2,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-7",
+      "url": "https://adobomagazine.com",
+      "title": "AIA Philippines' Melita Teo honored for transformative leadership in Asia",
+      "sourceName": "adobomagazine.com",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2025-10-27",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-8",
+      "url": "https://peopleasia.ph",
+      "title": "AIA Philippines' Melita Teo leaps into leadership and a life adventure",
+      "sourceName": "peopleasia.ph",
+      "sourceTier": 1,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": "2025-09-15",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-9",
+      "url": "https://aia.com.ph",
+      "title": "AIA Philippines Deploys AI Life Planner Training (AI Roleplay press release)",
+      "sourceName": "aia.com.ph",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": "2026-05-12",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-10",
+      "url": "https://insiderph.com",
+      "title": "AIA Philippines rolls out AI training platform for agents",
+      "sourceName": "insiderph.com",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2026-05-13",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-11",
+      "url": "https://gadgetpilipinas.net",
+      "title": "AIA Philippines Unveils AI Roleplay to Boost Agent Skills in Client Conversations",
+      "sourceName": "gadgetpilipinas.net",
+      "sourceTier": 1,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": "2026-05-13",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    }
+  ],
+  "facts": [
+    {
+      "factId": "fact-identity-0",
+      "category": "biography",
+      "subject": "Melita Teo",
+      "predicate": "name",
+      "value": "Melita Teo",
+      "sourceIds": [
+        "src-4",
+        "src-5"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "full_name"
+      }
+    },
+    {
+      "factId": "fact-identity-1",
+      "category": "biography",
+      "subject": "Melita Teo",
+      "predicate": "title",
+      "value": "President and Chief Executive Officer",
+      "sourceIds": [
+        "src-4",
+        "src-5",
+        "src-9"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "current_position"
+      }
+    },
+    {
+      "factId": "fact-identity-2",
+      "category": "biography",
+      "subject": "Melita Teo",
+      "predicate": "company",
+      "value": "AIA Philippines",
+      "sourceIds": [
+        "src-4",
+        "src-5"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "current_company"
+      }
+    },
+    {
+      "factId": "fact-education-3",
+      "category": "biography",
+      "subject": "Melita Teo",
+      "predicate": "education",
+      "value": "Bachelor of Commerce, Economics and Finance, Curtin University of Technology, Western Australia",
+      "sourceIds": [
+        "src-4",
+        "src-5",
+        "src-6"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "education"
+      }
+    },
+    {
+      "factId": "fact-career-4",
+      "category": "professional_history",
+      "subject": "Melita Teo",
+      "predicate": "career_history",
+      "value": "Joined AIA Group",
+      "sourceIds": [
+        "src-2",
+        "src-6"
+      ],
+      "confidence": 0.65,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-5",
+      "category": "professional_history",
+      "subject": "Melita Teo",
+      "predicate": "career_history",
+      "value": "Head of Planning and Strategy, AIA Singapore",
+      "sourceIds": [
+        "src-2"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-6",
+      "category": "professional_history",
+      "subject": "Melita Teo",
+      "predicate": "career_history",
+      "value": "Chief Business Development Officer, AIA Singapore",
+      "sourceIds": [
+        "src-2"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-7",
+      "category": "professional_history",
+      "subject": "Melita Teo",
+      "predicate": "career_history",
+      "value": "Chief Corporate Solutions Officer, AIA Singapore",
+      "sourceIds": [
+        "src-4",
+        "src-5"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-8",
+      "category": "professional_history",
+      "subject": "Melita Teo",
+      "predicate": "career_history",
+      "value": "Chief Operations Officer, AIA Singapore",
+      "sourceIds": [
+        "src-2",
+        "src-4",
+        "src-5"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-9",
+      "category": "professional_history",
+      "subject": "Melita Teo",
+      "predicate": "career_history",
+      "value": "Chief Customer and Digital Officer, AIA Singapore",
+      "sourceIds": [
+        "src-2",
+        "src-3",
+        "src-4",
+        "src-5"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-10",
+      "category": "professional_history",
+      "subject": "Melita Teo",
+      "predicate": "career_history",
+      "value": "President and CEO, AIA Philippines",
+      "sourceIds": [
+        "src-2"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-awards-11",
+      "category": "awards",
+      "subject": "Melita Teo",
+      "predicate": "award",
+      "value": "Executive Champion of the Year — 10th Asia Trusted Life Agents & Advisers Awards — 2025",
+      "sourceIds": [
+        "src-7",
+        "src-5"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "awards"
+      }
+    },
+    {
+      "factId": "fact-strategy-12",
+      "category": "strategic_priorities",
+      "subject": "Melita Teo",
+      "predicate": "strategic_priority",
+      "value": "Distribution Transformation / Bancassurance Growth via BPI AIA",
+      "sourceIds": [
+        "src-7"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-13",
+      "category": "strategic_priorities",
+      "subject": "Melita Teo",
+      "predicate": "strategic_priority",
+      "value": "Integrated Health Strategy and Expanded Distribution Force",
+      "sourceIds": [
+        "src-5"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-14",
+      "category": "strategic_priorities",
+      "subject": "Melita Teo",
+      "predicate": "strategic_priority",
+      "value": "Customer-Focused Innovation Strategy: \"Customers are the cornerstone of our business and innovation strategy\"",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-15",
+      "category": "strategic_priorities",
+      "subject": "Melita Teo",
+      "predicate": "strategic_priority",
+      "value": "ESG and Corporate Social Responsibility Integration",
+      "sourceIds": [
+        "src-5"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-tech-16",
+      "category": "technology_interests",
+      "subject": "Melita Teo",
+      "predicate": "technology_interest",
+      "value": "AI-Assisted Advisor Training (AI Roleplay platform)",
+      "sourceIds": [
+        "src-9",
+        "src-10",
+        "src-11"
+      ],
+      "confidence": 0.92,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "direct_quote"
+      }
+    },
+    {
+      "factId": "fact-tech-17",
+      "category": "technology_interests",
+      "subject": "Melita Teo",
+      "predicate": "technology_interest",
+      "value": "Digital Recruitment Platform (iRecruit) using machine learning/smart workflows",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "verified_program"
+      }
+    },
+    {
+      "factId": "fact-tech-18",
+      "category": "technology_interests",
+      "subject": "Melita Teo",
+      "predicate": "technology_interest",
+      "value": "Next Generation iPoS (digital point-of-sale) platform",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.6,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "verified_program_mentioned_in_profile"
+      }
+    },
+    {
+      "factId": "fact-tech-19",
+      "category": "technology_interests",
+      "subject": "Melita Teo",
+      "predicate": "technology_interest",
+      "value": "AI in Personalized Pricing, Claims, and Customer Service (industry-level)",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.4,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "contextual_framing_not_direct_quote"
+      }
+    },
+    {
+      "factId": "fact-leadership-20",
+      "category": "leadership_style",
+      "subject": "Melita Teo",
+      "predicate": "leadership_trait",
+      "value": "Customer Centric",
+      "sourceIds": [
+        "src-1",
+        "src-8"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "customer_centric"
+      }
+    },
+    {
+      "factId": "fact-leadership-21",
+      "category": "leadership_style",
+      "subject": "Melita Teo",
+      "predicate": "leadership_trait",
+      "value": "Digital Transformation Champion",
+      "sourceIds": [
+        "src-1",
+        "src-4",
+        "src-5"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "digital_transformation_champion"
+      }
+    },
+    {
+      "factId": "fact-leadership-22",
+      "category": "leadership_style",
+      "subject": "Melita Teo",
+      "predicate": "leadership_trait",
+      "value": "Data Driven",
+      "sourceIds": [
+        "src-8"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "data_driven"
+      }
+    },
+    {
+      "factId": "fact-leadership-23",
+      "category": "leadership_style",
+      "subject": "Melita Teo",
+      "predicate": "leadership_trait",
+      "value": "Innovation Oriented",
+      "sourceIds": [
+        "src-9",
+        "src-10",
+        "src-11"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "innovation_oriented"
+      }
+    },
+    {
+      "factId": "fact-decision-24",
+      "category": "decision_profile",
+      "subject": "Melita Teo",
+      "predicate": "decision_dimension",
+      "value": "Innovation Appetite: high",
+      "sourceIds": [
+        "src-1",
+        "src-9"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "innovation_appetite"
+      }
+    },
+    {
+      "factId": "fact-decision-25",
+      "category": "decision_profile",
+      "subject": "Melita Teo",
+      "predicate": "decision_dimension",
+      "value": "Technology Adoption Posture: high, consistently framed around human augmentation rather than replacement",
+      "sourceIds": [
+        "src-9",
+        "src-10",
+        "src-11"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "technology_adoption_posture"
+      }
+    },
+    {
+      "factId": "fact-decision-26",
+      "category": "decision_profile",
+      "subject": "Melita Teo",
+      "predicate": "decision_dimension",
+      "value": "Growth Orientation: high",
+      "sourceIds": [
+        "src-7"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "growth_orientation"
+      }
+    },
+    {
+      "factId": "fact-decision-27",
+      "category": "decision_profile",
+      "subject": "Melita Teo",
+      "predicate": "decision_dimension",
+      "value": "Budget Influence: high",
+      "sourceIds": [
+        "src-4",
+        "src-5"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "budget_influence"
+      }
+    },
+    {
+      "factId": "fact-signals-28",
+      "category": "event_signals",
+      "subject": "Melita Teo",
+      "predicate": "event_interest",
+      "value": "Interested in Ai",
+      "sourceIds": [
+        "src-9",
+        "src-10",
+        "src-11"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_ai"
+      }
+    },
+    {
+      "factId": "fact-signals-29",
+      "category": "event_signals",
+      "subject": "Melita Teo",
+      "predicate": "event_interest",
+      "value": "Interested in Digital Distribution",
+      "sourceIds": [
+        "src-1",
+        "src-7"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_digital_distribution"
+      }
+    },
+    {
+      "factId": "fact-signals-30",
+      "category": "event_signals",
+      "subject": "Melita Teo",
+      "predicate": "event_interest",
+      "value": "Interested in Insurtech",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_insurtech"
+      }
+    },
+    {
+      "factId": "fact-signals-31",
+      "category": "event_signals",
+      "subject": "Melita Teo",
+      "predicate": "event_interest",
+      "value": "Interested in Customer Experience",
+      "sourceIds": [
+        "src-1",
+        "src-9"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_customer_experience"
+      }
+    },
+    {
+      "factId": "fact-boards-32",
+      "category": "professional_history",
+      "subject": "Melita Teo",
+      "predicate": "board_membership",
+      "value": "Director, AIA Philippines",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-keywords-33",
+      "category": "executive_keywords",
+      "subject": "Melita Teo",
+      "predicate": "keyword",
+      "value": "AI-Assisted Training",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-34",
+      "category": "executive_keywords",
+      "subject": "Melita Teo",
+      "predicate": "keyword",
+      "value": "Digital Transformation",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-35",
+      "category": "executive_keywords",
+      "subject": "Melita Teo",
+      "predicate": "keyword",
+      "value": "Bancassurance Growth",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-36",
+      "category": "executive_keywords",
+      "subject": "Melita Teo",
+      "predicate": "keyword",
+      "value": "Customer-Centric Innovation",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-37",
+      "category": "executive_keywords",
+      "subject": "Melita Teo",
+      "predicate": "keyword",
+      "value": "Integrated Health Strategy",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-38",
+      "category": "executive_keywords",
+      "subject": "Melita Teo",
+      "predicate": "keyword",
+      "value": "Executive Champion Award",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-comm-39",
+      "category": "communication_style",
+      "subject": "Melita Teo",
+      "predicate": "communication_register",
+      "value": "formal_executive, warm and people-centered in interviews",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "communication_style"
+      }
+    }
+  ],
+  "metadata": {
+    "original_format": "executive_intelligence_object",
+    "version": "1.0",
+    "entry_status": "verified_curated"
+  }
+}

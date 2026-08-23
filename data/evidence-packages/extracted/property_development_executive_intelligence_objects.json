@@ -1,0 +1,394 @@
+{
+  "batch": "Property Development (Industry 2 of 5)",
+  "note": "5 executives. IMPORTANT IDENTITY CORRECTION: the source spreadsheet (Del_AI_Minimal_Executive_Profiles.xlsx) listed Frederick D. Go as Robinsons Land President & CEO. Live verification found this is stale \u2014 Go resigned from Robinsons Land in January 2024 to join the Marcos administration and has served as (ad interim) Secretary of Finance since November 17, 2025. He was substituted with the verified current Robinsons Land President & CEO, Maria Socorro Isabelle 'Mybelle' V. Aragon-GoBio (in role since February 1, 2025). This substitution follows the handoff instruction to select another executive from the same industry when a listed executive cannot be verified as currently accurate.",
+  "executives": [
+    {
+      "executive_intelligence_object_version": "1.0",
+      "entry_status": "verified_curated",
+      "source_registry": {
+        "1": { "domain": "ir.ayalaland.com.ph", "title": "Board of Directors \u2014 Ayala Land Investor Relations", "type": "official_company_source", "trust_tier": "high", "date": "2026-05-25" },
+        "2": { "domain": "ir.ayalaland.com.ph", "title": "Management Team and Officers \u2014 Ayala Land Investor Relations", "type": "official_company_source", "trust_tier": "high", "date": "2025-08-19" },
+        "3": { "domain": "business.inquirer.net", "title": "Anna 'Meean' Dy named new Ayala Land president and CEO", "type": "third_party_news", "trust_tier": "high", "date": "2023-09-06" },
+        "4": { "domain": "mb.com.ph", "title": "Ayala Land enters next phase with leasing pivot, delivery focus", "type": "third_party_news", "trust_tier": "high", "date": "2026-05-05" },
+        "5": { "domain": "seekingalpha.com", "title": "Ayala Land, Inc. (AYAAY) Q1 2026 Earnings Call Transcript", "type": "third_party_financial_data", "trust_tier": "high", "date": "2026-05-04" },
+        "6": { "domain": "business.inquirer.net", "title": "Ayala Land puts innovation, technology at the center of building sustainable communities", "type": "third_party_news", "trust_tier": "high", "date": "2024-03-11" },
+        "7": { "domain": "en.wikipedia.org", "title": "Ayala Land (company overview / financials)", "type": "encyclopedic_reference", "trust_tier": "medium" },
+        "8": { "domain": "bloomberg.com", "title": "Anna Maria Margarita Bautista Dy \u2014 Bloomberg profile", "type": "third_party_financial_data", "trust_tier": "high" }
+      },
+      "excluded_sources": [
+        { "reason": "vendor_marketing_content", "detail": "appsruntheworld.com IT-spend 'technographics' page excluded \u2014 vendor lead-gen content with unverifiable methodology, not treated as factual evidence of company or executive technology intent." }
+      ],
+      "identity": {
+        "full_name": { "value": "Anna Ma. Margarita B. Dy", "confidence": 0.97, "sources": [1, 2] },
+        "current_position": { "value": "President and CEO", "confidence": 0.97, "sources": [1, 5] },
+        "current_company": { "value": "Ayala Land, Inc.", "confidence": 0.97, "sources": [1] },
+        "company_parent_group": { "value": "Ayala Corporation", "confidence": 0.9, "sources": [7] },
+        "role_start_date": { "value": "October 1, 2023", "confidence": 0.9, "sources": [1, 3] },
+        "education": [
+          { "degree": "BS Economics (Honors Program), magna cum laude", "institution": "Ateneo de Manila University", "year": 1990, "confidence": 0.85, "sources": [3] },
+          { "degree": "MSc Economics", "institution": "London School of Economics and Political Science", "year": 1991, "confidence": 0.85, "sources": [3] },
+          { "degree": "MBA", "institution": "Harvard Graduate School of Business Administration", "year": 1996, "confidence": 0.85, "sources": [3] }
+        ]
+      },
+      "career_history": [
+        { "role": "Member, Management Committee", "org": "Ayala Land, Inc.", "year": 2008, "confidence": 0.85, "sources": [1] },
+        { "role": "Senior Vice President", "org": "Ayala Land, Inc.", "years": "2015-2022", "confidence": 0.85, "sources": [1] },
+        { "role": "Head, Residential Business Group", "org": "Ayala Land, Inc.", "year": 2022, "confidence": 0.85, "sources": [1] },
+        { "role": "Head, Malls, Offices and Hotels & Resorts Group", "org": "Ayala Land, Inc.", "year": 2023, "confidence": 0.85, "sources": [1] },
+        { "role": "Executive Vice President", "org": "Ayala Land, Inc.", "years": "Jan-Sep 2023", "confidence": 0.85, "sources": [1] },
+        { "role": "President and Chief Executive Officer", "org": "Ayala Land, Inc.", "year": 2023, "confidence": 0.95, "sources": [1, 3], "note": "First female CEO in Ayala Land's history" }
+      ],
+      "strategic_priorities": [
+        { "priority": "Pivot to Leasing / Recurring Income Growth", "detail": "2026 strategy accelerates leasing to build a stronger recurring income base; retail leasing showing ~12% growth even with only 2 of 4 major mall redevelopments complete", "confidence": 0.92, "inferred": false, "evidence_type": "direct_quote", "scope": "company", "sources": [4] },
+        { "priority": "Inventory Monetization / Property Development Discipline", "detail": "Monetizing ~19 months' worth of inventory (\u20b1130B), delivering 13,000 residential units in 2026", "confidence": 0.9, "inferred": false, "evidence_type": "official_company_statement", "scope": "company", "sources": [4] },
+        { "priority": "Balance Sheet Discipline / Active Portfolio Management", "detail": "2026 launches cut to \u20b130B from prior \u20b170B pace amid global uncertainty", "confidence": 0.88, "inferred": false, "evidence_type": "official_company_statement", "scope": "company", "sources": [4] }
+      ],
+      "technology_interests": [
+        { "topic": "AI/Drone-Based Construction Quality Inspection", "detail": "Subsidiary Makati Development Corp. uses AI and drones for facade/defect inspection, cutting turnaround from 35 to 5 days", "evidence_strength": "verified_program", "confidence": 0.55, "inferred": true, "scope": "company", "sources": [6], "note": "Company subsidiary initiative; not a statement personally attributed to Dy" },
+        { "topic": "Digital Customer Platforms", "detail": "Company-wide digital platforms for residential owners, buyers, and mall visitors", "evidence_strength": "inferred_from_company_history", "confidence": 0.4, "inferred": true, "scope": "company", "sources": [6] },
+        { "topic": "Artificial Intelligence (personal interest/statement)", "evidence_strength": "inferred", "confidence": 0.2, "inferred": true, "sources": [], "note": "No direct AI quote found attributed to Dy personally; treat as low confidence." }
+      ],
+      "event_signals": {
+        "interested_in_ai": { "value": "unknown", "confidence": 0.3, "note": "No direct personal evidence; company-level AI use exists at subsidiary level only" },
+        "interested_in_smart_buildings_proptech": { "value": true, "confidence": 0.55, "sources": [6], "inferred": true },
+        "interested_in_leasing_crm_analytics": { "value": true, "confidence": 0.8, "sources": [4] }
+      },
+      "communication_style": {
+        "register": "formal_executive",
+        "traits": [
+          { "trait": "pragmatic_execution_focused", "confidence": 0.8, "sources": [4], "note": "Described in coverage as 'pragmatic and quietly confident'" },
+          { "trait": "metrics_and_data_driven", "confidence": 0.75, "sources": [4, 5] }
+        ]
+      },
+      "decision_profile": {
+        "risk_posture": { "value": "disciplined/conservative", "confidence": 0.85, "sources": [4] },
+        "budget_influence": { "value": "high", "confidence": 0.75, "inferred": true, "note": "CEO of a \u20b1918.75B-asset company (FY2024)", "sources": [7] },
+        "strategic_influence": { "value": "high", "confidence": 0.7, "inferred": true, "sources": [1] },
+        "growth_orientation": { "value": "tempered/measured", "confidence": 0.85, "sources": [4] }
+      },
+      "explicit_unknowns": [
+        "Direct personal statements on AI adoption (only subsidiary-level programs found)",
+        "Personal sustainability/ESG stance (only predecessor's carbon-neutrality program documented)",
+        "Board memberships beyond Ayala Land itself",
+        "Compensation details"
+      ],
+      "executive_keywords": ["Leasing Pivot", "Recurring Income", "Portfolio Discipline", "Residential Development", "Mall Redevelopment", "First Female CEO"],
+      "industry_tags": ["Property Development", "Real Estate", "Retail/Mall Development", "Philippines"],
+      "relationships": {
+        "board_memberships": ["Director, Ayala Land, Inc. (Executive)"]
+      },
+      "merge_notes_for_trust_engine": {
+        "primary_confidence_drivers": ["identity", "2026 strategic priorities (direct quotes/earnings call)"],
+        "secondary_lower_weight": ["AI/technology interest \u2014 subsidiary-level only, not personally attributed"],
+        "recommendation": "Strong evidence for leasing strategy, portfolio discipline, and CRM/customer-experience themes; weak/insufficient evidence for AI-specific personal interest \u2014 flag for additional research before an AI-themed invitation decision."
+      }
+    },
+    {
+      "executive_intelligence_object_version": "1.0",
+      "entry_status": "verified_curated",
+      "identity_correction_note": "Spreadsheet listed Frederick D. Go (resigned Robinsons Land Jan 2024; now ad interim Secretary of Finance as of Nov 17, 2025). Substituted with verified current officeholder.",
+      "source_registry": {
+        "1": { "domain": "business.inquirer.net", "title": "Mybelle V. Aragon-GoBio appointed as President and CEO of Robinsons Land Corporation", "type": "third_party_news", "trust_tier": "high", "date": "2025-01-06" },
+        "2": { "domain": "robinsonsland.com", "title": "Mybelle V. Aragon-GoBio Appointed as President and CEO of Robinsons Land Corporation", "type": "official_company_source", "trust_tier": "high", "date": "2025-01-06" },
+        "3": { "domain": "bilyonaryo.com", "title": "Mybelle Aragon-GoBio holds first meeting with securities analysts as Robinsons Land CEO", "type": "third_party_news", "trust_tier": "high", "date": "2025-02-05" },
+        "4": { "domain": "bilyonaryo.com", "title": "Aragon-GoBio unpacks how Robinsons Land institutionalized 'perpetual capital'", "type": "third_party_news_interview", "trust_tier": "high", "date": "2026-06-01" },
+        "5": { "domain": "mb.com.ph", "title": "Robinsons Land's new era: Led by a woman, driven by merit", "type": "third_party_news_interview", "trust_tier": "high", "date": "2025-01-24" },
+        "6": { "domain": "philstar.com", "title": "Doing it the Gokong-way: RLC execs build on the Gokongwei legacy", "type": "third_party_news_interview", "trust_tier": "high", "date": "2026-08-07" },
+        "7": { "domain": "robinsonsland.com", "title": "Creating Unforgettable Customer Journeys: RLC Residences Aims to Enhance Customer Experiences with Salesforce", "type": "official_company_source", "trust_tier": "high" },
+        "8": { "domain": "business.inquirer.net", "title": "Robinsons Land charts next phase of growth with 2026 pipeline", "type": "third_party_news", "trust_tier": "high", "date": "2026-03-30" },
+        "9": { "domain": "en.wikipedia.org", "title": "Frederick Go (used only to establish departure timeline/identity correction)", "type": "encyclopedic_reference", "trust_tier": "medium" }
+      },
+      "excluded_sources": [
+        { "reason": "unreliable_contact_broker", "detail": "ZoomInfo/iTechSolution pages excluded from factual claims \u2014 low-value republished PR content." }
+      ],
+      "identity": {
+        "full_name": { "value": "Maria Socorro Isabelle V. Aragon-GoBio (\"Mybelle\")", "confidence": 0.95, "sources": [1, 2] },
+        "current_position": { "value": "President and CEO", "confidence": 0.95, "sources": [1, 2, 3] },
+        "current_company": { "value": "Robinsons Land Corporation", "confidence": 0.95, "sources": [1] },
+        "company_parent_group": { "value": "JG Summit Holdings / Gokongwei Group", "confidence": 0.9, "sources": [9] },
+        "role_start_date": { "value": "February 1, 2025", "confidence": 0.9, "sources": [1, 2] },
+        "predecessor_note": { "value": "Succeeded Lance Y. Gokongwei (interim President/CEO Jan 2024-Jan 2025, following Frederick Go's departure to government service); Gokongwei remains Executive Chairman", "confidence": 0.85, "sources": [1, 9] },
+        "education": { "value": "unknown", "confidence": 0.0, "note": "Not found in available public sources" }
+      },
+      "career_history": [
+        { "role": "Joined Robinsons Land Corporation", "year": 1993, "confidence": 0.9, "sources": [1] },
+        { "role": "President and CEO, Robinsons Logistix and Industrials, Inc.", "detail": "Established the Logistics Facilities Division", "confidence": 0.85, "sources": [1] },
+        { "role": "Senior Vice President, Robinsons Destination Estates", "detail": "Led development of Bridgetowne and other estate projects", "confidence": 0.8, "sources": [1] },
+        { "role": "President and Chief Executive Officer", "org": "Robinsons Land Corporation", "year": 2025, "confidence": 0.95, "sources": [1, 2], "note": "First female, first non-family-member President/CEO of RLC" }
+      ],
+      "strategic_priorities": [
+        { "priority": "Disciplined Capital Allocation", "detail": "Investment decisions anchored to strict return thresholds (\"hurdle rates\", spread over WACC)", "confidence": 0.92, "inferred": false, "evidence_type": "direct_quote", "scope": "company", "sources": [4] },
+        { "priority": "Growth Target: Nearly Double Profits by 2030", "confidence": 0.8, "inferred": false, "evidence_type": "third_party_news", "scope": "company", "sources": [6] },
+        { "priority": "Purpose-Driven / Nation-Building Framing", "detail": "\"It's really about how our projects contribute to progress, nation-building and how it really improves lives\"", "confidence": 0.85, "inferred": false, "evidence_type": "direct_quote", "scope": "company", "sources": [6] },
+        { "priority": "Portfolio Diversification (malls, offices, hospitality, logistics)", "confidence": 0.8, "inferred": false, "evidence_type": "direct_quote", "scope": "company", "sources": [8] }
+      ],
+      "technology_interests": [
+        { "topic": "CRM / Customer Experience Digitization", "detail": "RLC Residences deployed Salesforce for end-to-end customer personalization \u2014 first PH developer to do so at scale", "evidence_strength": "verified_program", "confidence": 0.85, "inferred": false, "scope": "company", "sources": [7] },
+        { "topic": "AI / Digital Convergence (general)", "evidence_strength": "headline_context_only", "confidence": 0.35, "inferred": true, "scope": "company", "sources": [8], "note": "Referenced adjacent to a 2026 pipeline article but not a direct quote from Aragon-GoBio" }
+      ],
+      "event_signals": {
+        "interested_in_ai": { "value": "unknown", "confidence": 0.35, "note": "No direct personal AI quote found; company-level CRM/digital evidence is stronger" },
+        "interested_in_crm_leasing_platforms": { "value": true, "confidence": 0.85, "sources": [7] },
+        "interested_in_predictive_buyer_analytics": { "value": "unknown", "confidence": 0.3 }
+      },
+      "communication_style": {
+        "register": "formal_executive, personable in interviews",
+        "traits": [
+          { "trait": "collaborative_inclusive_leadership_messaging", "confidence": 0.85, "sources": [5], "note": "Direct quote describing leadership style as 'collaborative and inclusive'" },
+          { "trait": "discipline_and_metrics_focused", "confidence": 0.85, "sources": [4] },
+          { "trait": "purpose_driven_framing", "confidence": 0.8, "sources": [6] }
+        ]
+      },
+      "decision_profile": {
+        "risk_tolerance": { "value": "disciplined/conservative", "confidence": 0.85, "sources": [4] },
+        "budget_influence": { "value": "high", "confidence": 0.7, "inferred": true, "sources": [1] },
+        "innovation_orientation": { "value": "values a 'culture of innovation'", "confidence": 0.75, "sources": [5] }
+      },
+      "explicit_unknowns": [
+        "Educational background (degree/university not found)",
+        "Direct personal statements on AI specifically (only company-level CRM initiative confirmed)",
+        "Full board memberships beyond RLC",
+        "Personal sustainability/ESG statements"
+      ],
+      "executive_keywords": ["Recurring Income", "Capital Discipline", "Customer-Centricity", "Operational Excellence", "First Female Non-Family CEO", "Nation-Building"],
+      "industry_tags": ["Property Development", "Real Estate", "Logistics Real Estate", "Philippines"],
+      "relationships": {
+        "board_memberships": ["Director, Robinsons Land Corporation"],
+        "professional_mentorship_note": "Publicly credited mentorship from Frederick Go, Lance Gokongwei, and James Go in her leadership development (professional context, per direct quote)"
+      },
+      "merge_notes_for_trust_engine": {
+        "primary_confidence_drivers": ["identity", "strategic priorities via direct interview quotes"],
+        "secondary_lower_weight": ["AI-specific interest \u2014 only headline-adjacent evidence, not personally quoted"],
+        "recommendation": "Strong evidence for capital discipline, CRM/customer experience, and portfolio growth themes; insufficient evidence for AI-specific personal interest \u2014 flag for follow-up research."
+      }
+    },
+    {
+      "executive_intelligence_object_version": "1.0",
+      "entry_status": "verified_curated",
+      "source_registry": {
+        "1": { "domain": "bworldonline.com", "title": "Megaworld names Lourdes Gutierrez-Alfonso as new president", "type": "third_party_news", "trust_tier": "high", "date": "2024-06-26" },
+        "2": { "domain": "tatlerasia.com", "title": "Lourdes Gutierrez-Alfonso replaces Andrew Tan as Megaworld's president", "type": "third_party_news", "trust_tier": "high", "date": "2024-07-02" },
+        "3": { "domain": "bilyonaryo.com", "title": "Megaworld's Gutierrez-Alfonso accelerates township buildout with \u20b121B project handovers this year", "type": "third_party_news", "trust_tier": "high", "date": "2026-04-22" },
+        "4": { "domain": "insiderph.com", "title": "Megaworld raises 2026 spending to fuel township growth outside capital", "type": "third_party_news", "trust_tier": "high", "date": "2026-02-04" },
+        "5": { "domain": "mreit.com.ph", "title": "Lourdes T. Gutierrez-Alfonso bio \u2014 MREIT Board/Management", "type": "official_company_source", "trust_tier": "high" },
+        "6": { "domain": "philstar.com / mb.com.ph", "title": "Megaworld ventures into data science, AI lab (TAT Lab)", "type": "third_party_news", "trust_tier": "high", "date": "2023-07-16" },
+        "7": { "domain": "gmanetwork.com", "title": "Megaworld to roll out 'AI-powered' homes in partnership with Samsung", "type": "third_party_news", "trust_tier": "high", "date": "2026-01-26" },
+        "8": { "domain": "en.wikipedia.org", "title": "Megaworld (company overview)", "type": "encyclopedic_reference", "trust_tier": "medium" }
+      },
+      "excluded_sources": [],
+      "identity": {
+        "full_name": { "value": "Lourdes T. Gutierrez-Alfonso", "confidence": 0.95, "sources": [1, 2] },
+        "current_position": { "value": "President and CEO", "confidence": 0.85, "sources": [1, 3, 4], "note": "2024 appointment sources describe her as 'President' only (Andrew Tan remained Chairman); 2026 sources (bilyonaryo, insiderph) refer to her as 'president and CEO.' Titling shows minor inconsistency across time \u2014 flagged for verification." },
+        "current_company": { "value": "Megaworld Corporation", "confidence": 0.95, "sources": [1] },
+        "company_parent_group": { "value": "Alliance Global Group", "confidence": 0.85, "sources": [8] },
+        "role_start_date": { "value": "June 25, 2024 (appointed President, effective immediately)", "confidence": 0.85, "sources": [1, 2] },
+        "education": { "degree": "BS Accounting, cum laude", "institution": "Far Eastern University", "year": 1984, "confidence": 0.9, "sources": [1, 2], "additional_credential": "Certified Public Accountant" }
+      },
+      "career_history": [
+        { "role": "Joined Megaworld Corporation", "year": 1990, "confidence": 0.9, "sources": [2] },
+        { "role": "Senior Executive Vice President, Finance and Administration", "confidence": 0.8, "sources": [5] },
+        { "role": "Chief Operating Officer", "org": "Megaworld Corporation", "confidence": 0.85, "sources": [1] },
+        { "role": "Director; Chairman, Board Executive Committee and Management Executive Committee", "org": "Megaworld Corporation", "confidence": 0.8, "sources": [1] },
+        { "role": "Director", "org": "Global-Estate Resorts, Inc. and MREIT, Inc.", "confidence": 0.8, "sources": [1, 5] },
+        { "role": "President (and CEO per 2026 sources)", "org": "Megaworld Corporation", "year": 2024, "confidence": 0.85, "sources": [1, 3, 4], "note": "Replaced founder Andrew Tan as President; Tan remained Chairman" }
+      ],
+      "strategic_priorities": [
+        { "priority": "Township Delivery Acceleration", "detail": "\u20b121B worth of project handovers targeted in 2026 across residential, commercial, and beachfront developments", "confidence": 0.9, "inferred": false, "evidence_type": "direct_quote", "scope": "company", "sources": [3] },
+        { "priority": "Provincial/Regional Expansion", "detail": "\u20b165B 2026 capex (up 30% YoY) directed toward townships outside Metro Manila (Ilocos, Cagayan de Oro, Batangas)", "confidence": 0.88, "inferred": false, "evidence_type": "official_company_statement", "scope": "company", "sources": [4] },
+        { "priority": "Recurring Income Growth via MREIT Asset Injections", "confidence": 0.75, "inferred": true, "scope": "company", "sources": [4] },
+        { "priority": "AI Integration into New Developments", "detail": "\"We are continuing our expansion program with renewed optimism as we innovate our township offerings...we introduce more pioneering projects that integrate new technologies such as the use of artificial intelligence into our new developments\"", "confidence": 0.9, "inferred": false, "evidence_type": "direct_quote", "scope": "company", "sources": [4] }
+      ],
+      "technology_interests": [
+        { "topic": "Artificial Intelligence in Residential Developments", "detail": "AI-powered homes rolled out via Samsung SmartThings partnership, starting at Park McKinley West", "evidence_strength": "direct_quote_by_executive_plus_verified_program", "confidence": 0.85, "inferred": false, "scope": "company", "sources": [4, 7] },
+        { "topic": "Data Science / Machine Learning for Township Safety (TAT Lab)", "detail": "Company data-science lab launched 2022-2023 for AI-driven safety/security monitoring; predates her presidency (she was COO/SEVP at the time)", "evidence_strength": "verified_program_pre_tenure", "confidence": 0.5, "inferred": true, "scope": "company", "sources": [6] }
+      ],
+      "event_signals": {
+        "interested_in_ai": { "value": true, "confidence": 0.85, "sources": [4], "note": "Directly quoted personally endorsing AI integration into developments" },
+        "interested_in_proptech_smart_homes": { "value": true, "confidence": 0.85, "sources": [4, 7] },
+        "interested_in_predictive_buyer_analytics": { "value": "unknown", "confidence": 0.3 }
+      },
+      "communication_style": {
+        "register": "formal_executive, growth-oriented",
+        "traits": [
+          { "trait": "optimism_framed_around_expansion", "confidence": 0.8, "sources": [4], "note": "Direct quote: 'renewed optimism'" },
+          { "trait": "technology_forward_messaging", "confidence": 0.8, "sources": [4] }
+        ]
+      },
+      "decision_profile": {
+        "growth_orientation": { "value": "high", "confidence": 0.85, "sources": [4] },
+        "technology_adoption_posture": { "value": "high", "confidence": 0.85, "sources": [4] },
+        "operational_focus": { "value": "high", "confidence": 0.8, "sources": [3] },
+        "budget_influence": { "value": "high", "confidence": 0.75, "inferred": true, "sources": [4] }
+      },
+      "explicit_unknowns": [
+        "Exact current title (President vs. President and CEO) \u2014 inconsistent across sources over time",
+        "Personal leadership philosophy statements beyond growth/delivery framing",
+        "Direct sustainability/ESG statements attributed to her personally",
+        "Full board memberships beyond Megaworld, MREIT, and Global-Estate Resorts"
+      ],
+      "executive_keywords": ["Township Expansion", "AI-Powered Homes", "Capital Expenditure Growth", "Recurring Income", "First Employee-Promoted President"],
+      "industry_tags": ["Property Development", "Real Estate", "Township Development", "PropTech", "Philippines"],
+      "relationships": {
+        "board_memberships": ["Director, Megaworld Corporation", "Director, Global-Estate Resorts, Inc.", "Director, MREIT, Inc.", "Chairman, First Oceanic Property Management, Inc."]
+      },
+      "merge_notes_for_trust_engine": {
+        "primary_confidence_drivers": ["identity", "2026 strategic priorities including a direct AI quote"],
+        "secondary_lower_weight": ["TAT Lab AI evidence is company-level and predates her presidency"],
+        "recommendation": "Strong, directly-quoted evidence for AI/PropTech interest \u2014 among the strongest AI-alignment signals in this batch. Good candidate for AI-in-real-estate event themes, pending DEL's own reasoning."
+      }
+    },
+    {
+      "executive_intelligence_object_version": "1.0",
+      "entry_status": "verified_curated",
+      "source_registry": {
+        "1": { "domain": "smprime.com", "title": "Board of Directors > Jeffrey C. Lim", "type": "official_company_source", "trust_tier": "high" },
+        "2": { "domain": "accountinghalloffame.org", "title": "Mr. Jeffrey C. Lim \u2014 Global Management Accounting Hall of Fame", "type": "third_party_professional_org", "trust_tier": "medium-high", "date": "2019" },
+        "3": { "domain": "acesawards.com", "title": "ACES Awards \u2014 Jeffrey C. Lim leadership profile", "type": "third_party_award_org", "trust_tier": "medium" },
+        "4": { "domain": "rappler.com", "title": "SM Prime to bring premier mall experience to Nuvali by October 2026", "type": "third_party_news", "trust_tier": "high", "date": "2026-05-01" },
+        "5": { "domain": "smprime.com", "title": "SM Prime Boosts Malls and Commercial Property Portfolio with \u20b133 Billion Investment", "type": "official_company_source", "trust_tier": "high" },
+        "6": { "domain": "en.wikipedia.org", "title": "SM Prime (company overview)", "type": "encyclopedic_reference", "trust_tier": "medium" },
+        "7": { "domain": "lamudi.com.ph", "title": "Jeffrey Lim: The Man at the Helm of SM Prime", "type": "third_party_publication", "trust_tier": "medium", "date": "2019-03-03" },
+        "8": { "domain": "intel.com", "title": "SM Supermalls Engages Shoppers (vendor case study)", "type": "vendor_case_study", "trust_tier": "medium" },
+        "9": { "domain": "marketscreener.com", "title": "Jeffrey Lim: Positions, Relations and Network", "type": "third_party_financial_data", "trust_tier": "medium" }
+      },
+      "excluded_sources": [
+        { "reason": "identity_ambiguity", "detail": "Excluded an unrelated 'Jeffrey Lim' LinkedIn profile (Amazon Customer Experience Operations Associate) that surfaced in search \u2014 different individual, not the SM Prime executive." }
+      ],
+      "identity": {
+        "full_name": { "value": "Jeffrey C. Lim", "confidence": 0.95, "sources": [1] },
+        "current_position": { "value": "President and Executive Director", "confidence": 0.95, "sources": [1] },
+        "current_company": { "value": "SM Prime Holdings, Inc.", "confidence": 0.95, "sources": [1] },
+        "company_parent_group": { "value": "SM Investments Corporation", "confidence": 0.9, "sources": [6] },
+        "role_start_date": { "value": "October 2016 (President); Board Director since April 2016", "confidence": 0.9, "sources": [1] },
+        "education": { "degree": "BS Accounting", "institution": "University of the East, Manila", "confidence": 0.85, "sources": [1] , "additional_credentials": "Certified Public Accountant; Management Development Program Diploma, Asian Institute of Management"}
+      },
+      "career_history": [
+        { "role": "Vice President for Finance", "org": "SM Prime Holdings", "year": 1994, "confidence": 0.85, "sources": [7] },
+        { "role": "CFO and Executive Vice President (strategic planning, finance, treasury, business development, IR, IT)", "org": "SM Prime Holdings", "confidence": 0.85, "sources": [2] },
+        { "role": "President", "org": "SM Development Corporation (concurrent)", "confidence": 0.8, "sources": [2] },
+        { "role": "President and Executive Director", "org": "SM Prime Holdings, Inc.", "year": 2016, "confidence": 0.95, "sources": [1] },
+        { "role": "Chief Executive Officer", "org": "Bluenest Pte. Ltd. (Singapore)", "confidence": 0.65, "sources": [9] }
+      ],
+      "strategic_priorities": [
+        { "priority": "Continued Mall Expansion", "detail": "Target of ~5 flagship malls opened annually through 2030", "confidence": 0.85, "inferred": false, "evidence_type": "third_party_news_attributed_quote", "scope": "company", "sources": [4] },
+        { "priority": "Regional/Provincial Expansion", "detail": "SM Nuvali (Laguna) as the 91st mall nationally, part of expanding beyond Metro Manila", "confidence": 0.85, "inferred": false, "scope": "company", "sources": [4] },
+        { "priority": "Net-Zero GHG Emissions by 2040", "detail": "Alignment with WWF-Philippines; waste recycling/composting programs", "confidence": 0.8, "inferred": false, "evidence_type": "third_party_award_profile", "scope": "company", "sources": [3] },
+        { "priority": "Office Portfolio Targeting Tech/BPO Tenants", "detail": "Six E-Com Center developed for technology-driven and BPO firms", "confidence": 0.75, "inferred": false, "evidence_type": "official_company_statement", "scope": "company", "sources": [5] }
+      ],
+      "technology_interests": [
+        { "topic": "Robotics / Computer Vision for Mall Customer Engagement", "detail": "SM Supermalls deployed computer-vision robotics (age/gender recognition for personalized marketing) via an Intel-based solution", "evidence_strength": "vendor_case_study", "confidence": 0.4, "inferred": true, "scope": "company", "sources": [8], "note": "Company-level vendor case study; no direct quote from Lim personally on this initiative" },
+        { "topic": "Information Technology Oversight (historical)", "detail": "As former EVP, formally oversaw the company's IT function alongside finance/strategy", "evidence_strength": "documented_role_scope", "confidence": 0.7, "inferred": true, "scope": "company", "sources": [2] }
+      ],
+      "event_signals": {
+        "interested_in_ai": { "value": "unknown", "confidence": 0.3, "note": "Only vendor case study evidence found; no personal statement on AI specifically" },
+        "interested_in_predictive_buyer_analytics": { "value": "unknown", "confidence": 0.3 },
+        "interested_in_smart_buildings": { "value": "unknown", "confidence": 0.35, "note": "Sustainability/net-zero commitments are strong; smart-building technology specifically not directly evidenced" }
+      },
+      "communication_style": {
+        "register": "formal_executive, investor-relations oriented",
+        "traits": [
+          { "trait": "macro_and_outlook_driven_commentary", "confidence": 0.8, "sources": [5], "note": "Direct quote citing inflation, interest rates, and election spending as growth drivers" },
+          { "trait": "growth_narrative_focused", "confidence": 0.75, "sources": [4] }
+        ]
+      },
+      "decision_profile": {
+        "growth_orientation": { "value": "high", "confidence": 0.85, "sources": [4] },
+        "sustainability_commitment": { "value": "high", "confidence": 0.8, "sources": [3] },
+        "financial_discipline": { "value": "high", "confidence": 0.75, "inferred": true, "note": "CPA background; former CFO", "sources": [2] },
+        "budget_influence": { "value": "high", "confidence": 0.75, "inferred": true, "sources": [6] }
+      },
+      "explicit_unknowns": [
+        "Direct personal statements on AI specifically (only a company-level vendor case study found; his hands-on technology background is from an earlier IT-oversight role, not current AI commentary)",
+        "Personal leadership philosophy statements beyond financial/outlook commentary",
+        "Compensation and equity holdings"
+      ],
+      "executive_keywords": ["Mall Expansion", "Net-Zero 2040", "Regional Growth", "Investor Relations Excellence", "Multiple Best CEO Awards"],
+      "industry_tags": ["Property Development", "Real Estate", "Retail/Malls", "Sustainability", "Philippines"],
+      "relationships": {
+        "board_memberships": ["SM Prime Holdings", "SM Development Corp.", "Concrete Aggregates Corp.", "Capitol Commons Corp.", "OCLP Holdings Inc.", "Ortigas Land Corp.", "Pico de Loro Beach & Country Club, Inc."],
+        "industry_organizations": ["Asian Public Real Estate Association Ltd. (Member)"]
+      },
+      "merge_notes_for_trust_engine": {
+        "primary_confidence_drivers": ["identity", "career history", "strategic priorities via direct/attributed quotes"],
+        "secondary_lower_weight": ["AI/technology interest \u2014 only a vendor case study, not personally attributed"],
+        "recommendation": "Strong evidence for expansion strategy and sustainability commitment; weak/insufficient evidence for AI-specific personal interest \u2014 flag for additional research before an AI-themed invitation decision."
+      }
+    },
+    {
+      "executive_intelligence_object_version": "1.0",
+      "entry_status": "verified_curated_partial",
+      "source_registry": {
+        "1": { "domain": "cathaylandinc.com", "title": "About \u2014 Cathay Land Inc.", "type": "official_company_source", "trust_tier": "high" },
+        "2": { "domain": "bworldonline.com", "title": "PCCI names Cathay Land's Jeffrey Ng as 47th PBC&E chairman", "type": "third_party_news", "trust_tier": "high", "date": "2021-10-04" },
+        "3": { "domain": "philstar.com", "title": "PCCI names Cathay Land's Jeffrey Ng as 47th PBC&E chair", "type": "third_party_news", "trust_tier": "high", "date": "2021-10-15" },
+        "4": { "domain": "esquiremag.ph", "title": "5 Business Lessons Everyone Can Learn from Jeffrey Ng, Founder and CEO of Cathay Land, Inc.", "type": "third_party_publication", "trust_tier": "medium-high", "date": "2026-02-24" },
+        "5": { "domain": "fef.org.ph", "title": "Jeffrey Ng \u2014 Foundation for Economic Freedom member bio", "type": "third_party_org_bio", "trust_tier": "medium" },
+        "6": { "domain": "globalpeace.org", "title": "Jeffrey Ng \u2014 Global Peace Foundation speaker bio", "type": "third_party_org_bio", "trust_tier": "medium" }
+      },
+      "excluded_sources": [
+        { "reason": "unreliable_contact_broker_conflicting_claims", "detail": "ZoomInfo profile excluded \u2014 claims Ng was 'CTO at Wave Technologies' and 'President of The Manila Times College,' which are uncorroborated by any other source and may conflate this individual with a different person of the same name." }
+      ],
+      "identity": {
+        "full_name": { "value": "Jeffrey T. Ng", "confidence": 0.9, "sources": [1] },
+        "current_position": { "value": "President and CEO", "confidence": 0.9, "sources": [1] },
+        "current_company": { "value": "Cathay Land, Inc.", "confidence": 0.95, "sources": [1] },
+        "also_leads": { "value": "Cathay Metal Corporation (steel manufacturing); Astoria Hotels and Resorts", "confidence": 0.85, "sources": [2, 5, 6] },
+        "founder_status": { "value": "Described as 'founder and CEO' in a 2026 profile", "confidence": 0.6, "sources": [4], "note": "Earlier 2021-2022 sources describe him only as 'President,' not 'founder' \u2014 possible evolution of public framing or editorial shorthand; not fully reconciled." },
+        "education": [
+          { "degree": "BS Economics, cum laude", "institution": "University of the Philippines Diliman", "confidence": 0.9, "sources": [2, 3] },
+          { "degree": "Master's in Business Economics", "institution": "University of Asia and the Pacific", "confidence": 0.9, "sources": [2, 3] }
+        ]
+      },
+      "career_history": [
+        { "role": "Led early land-banking strategy south of Metro Manila", "org": "Cathay Land, Inc.", "confidence": 0.75, "sources": [4] },
+        { "role": "President", "org": "Cathay Land, Inc. (developer of South Forbes Golf City)", "confidence": 0.9, "sources": [1, 2] },
+        { "role": "President", "org": "Astoria Hotels and Resorts", "confidence": 0.85, "sources": [2] },
+        { "role": "President", "org": "Cathay Metal Corp. (steel manufacturing)", "confidence": 0.85, "sources": [2] },
+        { "role": "Chairman, 47th Philippine Business Conference & Expo", "org": "Philippine Chamber of Commerce and Industry", "year": 2021, "confidence": 0.85, "sources": [2, 3] },
+        { "role": "President, UP School of Economics Alumni Association", "confidence": 0.75, "sources": [2] },
+        { "role": "Board Member", "org": "Philippine Chamber of Commerce and Industry; Foundation for Economic Freedom", "confidence": 0.8, "sources": [2, 5] }
+      ],
+      "strategic_priorities": [
+        { "priority": "Master-Planned Community Development", "detail": "Championed large-scale integrated townships (e.g., South Forbes Golf City, 250-hectare development in Silang, Cavite)", "confidence": 0.85, "inferred": false, "evidence_type": "third_party_publication", "scope": "company", "sources": [4] },
+        { "priority": "Strategic Land-Banking South of Metro Manila", "confidence": 0.85, "inferred": false, "scope": "company", "sources": [4] },
+        { "priority": "Long-Term, Patient Capital Deployment Philosophy", "detail": "Publication characterizes his approach as built on 'patience, long-term conviction'", "confidence": 0.6, "inferred": true, "evidence_type": "third_party_characterization_not_direct_quote", "scope": "company", "sources": [4] }
+      ],
+      "technology_interests": [
+        { "topic": "Artificial Intelligence / Digital Transformation", "value": "unknown", "confidence": 0.0, "inferred": false, "sources": [], "note": "No public evidence found of any AI, automation, or digital-technology statement or initiative attributed to Ng or Cathay Land" }
+      ],
+      "event_signals": {
+        "interested_in_ai": { "value": "unknown", "confidence": 0.0 },
+        "interested_in_predictive_buyer_analytics": { "value": "unknown", "confidence": 0.0 },
+        "interested_in_smart_buildings": { "value": "unknown", "confidence": 0.0 }
+      },
+      "communication_style": {
+        "register": "formal business/civic-leadership (PCCI conference chairmanship, economic-policy engagement)",
+        "traits": [
+          { "trait": "economics_and_policy_oriented_framing", "confidence": 0.7, "sources": [2, 5], "note": "Reflects FEF board membership and economics academic background rather than a directly quoted personal statement" }
+        ]
+      },
+      "decision_profile": {
+        "growth_orientation": { "value": "moderate/patient (land-banking, long-horizon community building)", "confidence": 0.6, "sources": [4] },
+        "diversification": { "value": "cross-industry (real estate, hospitality, steel manufacturing)", "confidence": 0.8, "sources": [2] },
+        "budget_influence": { "value": "high", "confidence": 0.6, "inferred": true, "sources": [2] }
+      },
+      "explicit_unknowns": [
+        "Any public statement on AI, automation, or digital transformation \u2014 none found",
+        "Whether 'founder and CEO' framing reflects an actual title/status change or is editorial shorthand from a single 2026 profile",
+        "Detailed financial/operational metrics (Cathay Land has substantially less public disclosure than its listed peers in this batch)",
+        "Personal leadership philosophy beyond a single secondhand publication's characterization"
+      ],
+      "executive_keywords": ["Master-Planned Communities", "Land-Banking", "South Forbes Golf City", "Diversified Holdings", "Economic Policy Engagement"],
+      "industry_tags": ["Property Development", "Real Estate", "Hospitality", "Steel Manufacturing", "Philippines"],
+      "relationships": {
+        "board_memberships": ["Philippine Chamber of Commerce and Industry (Board Member)", "Foundation for Economic Freedom (Board Member)"],
+        "industry_organizations": ["Philippine Chamber of Commerce and Industry", "UP School of Economics Alumni Association (President)"]
+      },
+      "merge_notes_for_trust_engine": {
+        "primary_confidence_drivers": ["identity and company leadership roles \u2014 well-corroborated across multiple sources"],
+        "secondary_lower_weight": ["technology interests \u2014 entirely unknown; this is a major evidence gap"],
+        "recommendation": "FLAG FOR HUMAN REVIEW: Cathay Land has substantially less public disclosure than the other four Property Development executives in this batch (privately-influenced company vs. listed peers). No technology-related evidence exists at all. Recommend DEL live research supplementation before any technology-themed event targeting, and manual verification of the 'founder' title discrepancy."
+      }
+    }
+  ]
+}

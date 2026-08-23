@@ -1,0 +1,378 @@
+{
+  "batch": "Financial Institutions (Industry 5 of 5)",
+  "note": "All 4 candidates from Del_AI_Minimal_Executive_Profiles.xlsx were validated against current public evidence and confirmed to hold their stated roles as of the research date (2026-08-08). No replacement executives were invented. Three additional 'Financial Institutions'-tagged rows in the source spreadsheet (Edgar A. Cua and Lucio C. Tan III of Philippine National Bank; Jeffrey S. Yao of Philippine Business Bank) were considered but excluded from this batch: all three are bank holding-company chairmen whose primary institutional identity overlaps with the already-completed Banking industry batch (PNB/PBB), and including them here would risk duplicate/near-duplicate executive records across industries rather than a distinct Financial Institutions (insurance/microfinance) identity. This batch therefore contains 4 executives, consistent with the project's stated preference for accuracy over reaching a quota.",
+  "executives": [
+    {
+      "executive_intelligence_object_version": "1.0",
+      "entry_status": "verified_curated",
+      "source_registry": {
+        "1": { "domain": "business.inquirer.net", "title": "Melita Teo: Leading with insight in a changing insurance landscape", "type": "third_party_news", "trust_tier": "high", "date": "2025-08-19" },
+        "2": { "domain": "asiaasset.com", "title": "AIA Group appoints Melita Teo as CEO of AIA Philippines", "type": "third_party_news", "trust_tier": "high", "date": "2023-11-24" },
+        "3": { "domain": "itij.com", "title": "AIA Singapore announces three leadership role changes", "type": "third_party_news", "trust_tier": "high", "date": "2024-11-07" },
+        "4": { "domain": "bpi-aia.com.ph", "title": "About Leadership Team \u2014 BPI AIA", "type": "official_company_source", "trust_tier": "high" },
+        "5": { "domain": "aia.com.ph", "title": "Leadership Team \u2014 AIA Philippines", "type": "official_company_source", "trust_tier": "high" },
+        "6": { "domain": "theofficialboard.com", "title": "Melita Teo \u2013 Biography, AIA Philippines CEO", "type": "third_party_aggregator", "trust_tier": "medium" },
+        "7": { "domain": "adobomagazine.com", "title": "AIA Philippines' Melita Teo honored for transformative leadership in Asia", "type": "third_party_news", "trust_tier": "high", "date": "2025-10-27" },
+        "8": { "domain": "peopleasia.ph", "title": "AIA Philippines' Melita Teo leaps into leadership and a life adventure", "type": "third_party_publication", "trust_tier": "high", "date": "2025-09-15" },
+        "9": { "domain": "aia.com.ph", "title": "AIA Philippines Deploys AI Life Planner Training (AI Roleplay press release)", "type": "official_company_source", "trust_tier": "high", "date": "2026-05-12" },
+        "10": { "domain": "insiderph.com", "title": "AIA Philippines rolls out AI training platform for agents", "type": "third_party_news", "trust_tier": "high", "date": "2026-05-13" },
+        "11": { "domain": "gadgetpilipinas.net", "title": "AIA Philippines Unveils AI Roleplay to Boost Agent Skills in Client Conversations", "type": "third_party_publication", "trust_tier": "high", "date": "2026-05-13" }
+      },
+      "excluded_sources": [
+        { "reason": "unreliable_contact_broker", "detail": "RocketReach contact-data listing excluded from factual claims." }
+      ],
+      "identity": {
+        "full_name": { "value": "Melita Teo", "confidence": 0.95, "sources": [4, 5] },
+        "current_position": { "value": "President and Chief Executive Officer", "confidence": 0.95, "sources": [4, 5, 9] },
+        "current_company": { "value": "AIA Philippines", "confidence": 0.95, "sources": [4, 5] },
+        "company_parent_group": { "value": "AIA Group Ltd. (Hong Kong)", "confidence": 0.9, "sources": [2] },
+        "also_oversees": { "value": "BPI AIA, MediCard, AIA Investment Management", "confidence": 0.85, "sources": [4, 5] },
+        "role_start_date": { "value": "January 1, 2024", "confidence": 0.9, "sources": [2] },
+        "education": [
+          { "degree": "Bachelor of Commerce, Economics and Finance", "institution": "Curtin University of Technology, Western Australia", "confidence": 0.9, "sources": [4, 5, 6] }
+        ]
+      },
+      "career_history": [
+        { "role": "Joined AIA Group", "year": "2001 (per AIA press materials) / 2004 (per third-party aggregator)", "confidence": 0.65, "sources": [2, 6], "note": "Sources conflict on exact join year; not fully reconciled" },
+        { "role": "Head of Planning and Strategy, AIA Singapore", "confidence": 0.8, "sources": [2] },
+        { "role": "Chief Business Development Officer, AIA Singapore", "confidence": 0.75, "sources": [2] },
+        { "role": "Chief Corporate Solutions Officer, AIA Singapore", "confidence": 0.8, "sources": [4, 5] },
+        { "role": "Chief Operations Officer, AIA Singapore", "confidence": 0.85, "sources": [2, 4, 5] },
+        { "role": "Chief Customer and Digital Officer, AIA Singapore", "confidence": 0.9, "sources": [2, 3, 4, 5] },
+        { "role": "President and CEO, AIA Philippines", "year": 2024, "confidence": 0.95, "sources": [2] }
+      ],
+      "awards": [
+        { "award": "Executive Champion of the Year", "org": "10th Asia Trusted Life Agents & Advisers Awards", "year": 2025, "confidence": 0.9, "sources": [7, 5] }
+      ],
+      "leadership_style": {
+        "customer_centric": { "value": true, "confidence": 0.9, "sources": [1, 8] },
+        "digital_transformation_champion": { "value": true, "confidence": 0.85, "sources": [1, 4, 5] },
+        "data_driven": { "value": true, "confidence": 0.8, "sources": [8], "note": "Self-describes AIA Philippines as 'holistic, human-centered and data-driven'" },
+        "innovation_oriented": { "value": true, "confidence": 0.85, "sources": [9, 10, 11] }
+      },
+      "strategic_priorities": [
+        { "priority": "Distribution Transformation / Bancassurance Growth via BPI AIA", "confidence": 0.85, "inferred": false, "evidence_type": "third_party_award_article", "scope": "company", "sources": [7] },
+        { "priority": "Integrated Health Strategy and Expanded Distribution Force", "confidence": 0.85, "inferred": false, "evidence_type": "official_company_statement", "scope": "company", "sources": [5] },
+        { "priority": "Customer-Focused Innovation Strategy", "detail": "\"Customers are the cornerstone of our business and innovation strategy\"", "confidence": 0.9, "inferred": false, "evidence_type": "direct_quote", "scope": "company", "sources": [1] },
+        { "priority": "ESG and Corporate Social Responsibility Integration", "confidence": 0.8, "inferred": false, "evidence_type": "official_company_statement", "scope": "company", "sources": [5] }
+      ],
+      "technology_interests": [
+        { "topic": "AI-Assisted Advisor Training (AI Roleplay platform)", "detail": "Personally quoted on the platform's purpose: \"Technology should help Life Planners become better listeners...\" and \"For AI to make a difference, it has to help people in meaningful ways\"", "evidence_strength": "direct_quote", "confidence": 0.92, "inferred": false, "scope": "company", "sources": [9, 10, 11] },
+        { "topic": "Digital Recruitment Platform (iRecruit) using machine learning/smart workflows", "detail": "Won Insurance Asia's Digital Transformation Initiative of the Year", "evidence_strength": "verified_program", "confidence": 0.85, "inferred": false, "scope": "company", "sources": [1] },
+        { "topic": "Next Generation iPoS (digital point-of-sale) platform", "evidence_strength": "verified_program_mentioned_in_profile", "confidence": 0.6, "inferred": true, "scope": "company", "sources": [1] },
+        { "topic": "AI in Personalized Pricing, Claims, and Customer Service (industry-level)", "evidence_strength": "contextual_framing_not_direct_quote", "confidence": 0.4, "inferred": true, "scope": "industry", "sources": [1] }
+      ],
+      "event_signals": {
+        "interested_in_ai": { "value": true, "confidence": 0.9, "sources": [9, 10, 11], "note": "Multiple direct, dated (2026) personal quotes specifically about AI" },
+        "interested_in_digital_distribution": { "value": true, "confidence": 0.85, "sources": [1, 7] },
+        "interested_in_insurtech": { "value": true, "confidence": 0.75, "inferred": true, "sources": [1] },
+        "interested_in_financial_inclusion": { "value": "unknown", "confidence": 0.3 },
+        "interested_in_customer_experience": { "value": true, "confidence": 0.85, "sources": [1, 9] }
+      },
+      "communication_style": {
+        "register": "formal_executive, warm and people-centered in interviews",
+        "traits": [
+          { "trait": "customer_and_purpose_framed_messaging", "confidence": 0.85, "sources": [1, 8] },
+          { "trait": "technology_framed_around_human_benefit", "confidence": 0.85, "sources": [9, 10, 11], "note": "Consistently frames AI/tech as enhancing rather than replacing human advisors" }
+        ]
+      },
+      "decision_profile": {
+        "innovation_appetite": { "value": "high", "confidence": 0.8, "sources": [1, 9] },
+        "technology_adoption_posture": { "value": "high, consistently framed around human augmentation rather than replacement", "confidence": 0.8, "sources": [9, 10, 11] },
+        "growth_orientation": { "value": "high", "confidence": 0.75, "inferred": true, "sources": [7] },
+        "budget_influence": { "value": "high", "confidence": 0.75, "inferred": true, "note": "CEO overseeing AIA Philippines, BPI AIA, MediCard, and AIA Investment Management", "sources": [4, 5] }
+      },
+      "explicit_unknowns": [
+        "Exact year joined AIA Group (2001 vs. 2004 \u2014 sources conflict)",
+        "Detailed board memberships beyond AIA Philippines-affiliated entities",
+        "Personal statements on cybersecurity, cloud, or data infrastructure specifically",
+        "Compensation and equity details"
+      ],
+      "executive_keywords": ["AI-Assisted Training", "Digital Transformation", "Bancassurance Growth", "Customer-Centric Innovation", "Integrated Health Strategy", "Executive Champion Award"],
+      "industry_tags": ["Financial Institutions", "Insurance", "InsurTech", "Bancassurance", "Philippines"],
+      "relationships": {
+        "board_memberships": ["Director, AIA Philippines"],
+        "industry_organizations": []
+      },
+      "merge_notes_for_trust_engine": {
+        "primary_confidence_drivers": ["identity", "direct 2026 AI quotes (AI Roleplay platform)", "awards"],
+        "secondary_lower_weight": ["broader industry-level AI framing (personalized pricing/claims) is contextual, not a direct quote"],
+        "recommendation": "Among the strongest AI-evidence profiles in this batch \u2014 Teo has multiple direct, dated (2026) personal quotes specifically about AI. Strong candidate for AI/insurtech event themes."
+      }
+    },
+    {
+      "executive_intelligence_object_version": "1.0",
+      "entry_status": "verified_curated",
+      "source_registry": {
+        "1": { "domain": "sunlife.com.ph", "title": "Sun Life announces leadership succession in the Philippines", "type": "official_company_source", "trust_tier": "high", "date": "2026-01-09" },
+        "2": { "domain": "manilatimes.net", "title": "Sun Life names JJ Moreno as next Philippine chief", "type": "third_party_news", "trust_tier": "high", "date": "2026-01-12" },
+        "3": { "domain": "manilastandard.net", "title": "Sun Life Philippines names Moreno as incoming CEO to succeed Sison", "type": "third_party_news", "trust_tier": "high", "date": "2026-01-10" },
+        "4": { "domain": "manilatimes.net", "title": "Sun Life announces leadership succession in PH operations", "type": "third_party_news", "trust_tier": "high", "date": "2026-01-17" },
+        "5": { "domain": "mb.com.ph", "title": "Sun Life names JJ Moreno Philippines chief as Benedict Sison retires", "type": "third_party_news", "trust_tier": "high", "date": "2026-01-09" },
+        "6": { "domain": "bworldonline.com", "title": "Ushering a new leadership at Sun Life Philippines", "type": "third_party_news", "trust_tier": "high", "date": "2026-01-30" },
+        "7": { "domain": "prstation.ph", "title": "Sun Life announces leadership succession in the Philippines", "type": "third_party_press_syndication", "trust_tier": "medium-high", "date": "2026-01-09" },
+        "8": { "domain": "lifestyleasia-onemega.com", "title": "Meet JJ Moreno, The New Sun Life Philippines Country Head And CEO", "type": "third_party_publication", "trust_tier": "high", "date": "2026-04-29" },
+        "9": { "domain": "sunlife.com.ph", "title": "Sun Life PH incoming CEO meets with insurance commissioner", "type": "official_company_source", "trust_tier": "high", "date": "2026-02" },
+        "10": { "domain": "philstar.com", "title": "Incoming Sun Life CEO JJ Moreno eyes digital innovation as client expectations evolve", "type": "third_party_news", "trust_tier": "high", "date": "2026-03-18" },
+        "11": { "domain": "philstar.com", "title": "Sun Life Philippines leadership transition marks continuity, growth and people-first future", "type": "third_party_news", "trust_tier": "high", "date": "2026-04-08" },
+        "12": { "domain": "sunlife.com.ph", "title": "Sun Life Philippines appoints JJ Moreno as President of its insurance business", "type": "official_company_source", "trust_tier": "high", "date": "2025-06-23" },
+        "13": { "domain": "linkedin.com/in/jj-moreno-strategy", "title": "JJ Moreno \u2014 Sun Life Philippines (self-authored LinkedIn posts)", "type": "self_authored_social_media", "trust_tier": "medium" }
+      },
+      "excluded_sources": [],
+      "identity": {
+        "full_name": { "value": "Jonathan Juan \"JJ\" Moreno", "confidence": 0.9, "sources": [1] },
+        "current_position": { "value": "CEO and Country Head, Philippines", "confidence": 0.95, "sources": [1] },
+        "current_company": { "value": "Sun Life of Canada (Philippines), Inc. / Sun Life Philippines", "confidence": 0.95, "sources": [1] },
+        "company_parent_group": { "value": "Sun Life Financial Inc. (Toronto)", "confidence": 0.9, "sources": [5] },
+        "role_start_date": { "value": "April 1, 2026", "confidence": 0.95, "sources": [1] },
+        "predecessor_note": { "value": "Succeeded Benedict Sison (CEO 2018\u20132026, now Chairman of Sun Life Philippines Holding Co. and Sun Life Foundation through Dec 31, 2026)", "confidence": 0.9, "sources": [1] },
+        "education": { "degree": "Graduate", "institution": "Philippine Military Academy", "confidence": 0.85, "sources": [12] }
+      },
+      "career_history": [
+        { "role": "Naval officer / military strategist", "org": "Philippine military", "confidence": 0.8, "sources": [6, 12] },
+        { "role": "Vice President", "org": "Philippine Stock Exchange", "confidence": 0.8, "sources": [8] },
+        { "role": "Principal", "org": "Palladium Group Inc.", "confidence": 0.75, "sources": [8] },
+        { "role": "Chief Strategy Officer", "org": "Metro Retail Stores Group", "confidence": 0.85, "sources": [2, 8] },
+        { "role": "President and CEO", "org": "AF Payments Inc. (fintech company behind the beep\u2122 card)", "confidence": 0.9, "sources": [2, 8, 12] },
+        { "role": "Joined Sun Life", "year": "May 2025", "confidence": 0.9, "sources": [1] },
+        { "role": "President, Sun Life of Canada (Philippines), Inc. (insurance business)", "year": "June 2025", "confidence": 0.9, "sources": [12] },
+        { "role": "CEO and Country Head, Sun Life Philippines", "year": "2026", "confidence": 0.95, "sources": [1] }
+      ],
+      "awards": [],
+      "leadership_style": {
+        "customer_centric": { "value": true, "confidence": 0.75, "sources": [12], "note": "Described in official appointment materials as 'results-driven, values-centered, and Client-focused'" },
+        "digital_transformation_champion": { "value": true, "confidence": 0.75, "sources": [10, 11] },
+        "strategic_visionary": { "value": true, "confidence": 0.7, "sources": [8, 11] },
+        "growth_oriented": { "value": true, "confidence": 0.65, "inferred": true, "sources": [10] }
+      },
+      "strategic_priorities": [
+        { "priority": "Digital Innovation Amid Evolving Client Expectations", "confidence": 0.85, "inferred": false, "evidence_type": "direct_quote_context", "scope": "company", "sources": [10] },
+        { "priority": "New High-Net-Worth Client Product Launch (Q1 2026)", "detail": "\"We're launching one in the first quarter. A new product for our high-net-worth clients, which is very unique in the market\"", "confidence": 0.85, "inferred": false, "evidence_type": "direct_quote", "scope": "company", "sources": [10] },
+        { "priority": "Financial Literacy and Insurance Penetration Expansion", "confidence": 0.85, "inferred": false, "evidence_type": "official_company_statement", "scope": "industry", "sources": [9] },
+        { "priority": "Continuity-Focused Leadership Philosophy", "detail": "\"When I take on a role, my leadership style has always been not to focus on what will change, but to first focus on what will endure\"", "confidence": 0.85, "inferred": false, "evidence_type": "direct_quote", "scope": "company", "sources": [11] },
+        { "priority": "Enterprise Reform, Value-Based and Technology-Enabled Career Thread", "detail": "\"The whole thread that binds my career has always been in enterprise reform\u2014value-based, technology-enabled\"", "confidence": 0.85, "inferred": false, "evidence_type": "direct_quote", "scope": "company", "sources": [11] }
+      ],
+      "technology_interests": [
+        { "topic": "Fintech / Digital Payments", "detail": "Prior President/CEO of AF Payments Inc., the fintech company behind the beep\u2122 card micropayment platform", "evidence_strength": "verified_prior_role", "confidence": 0.9, "inferred": false, "scope": "company_prior_role", "sources": [2, 8, 12] },
+        { "topic": "Digital Platforms for Financial Education/Literacy", "confidence": 0.8, "inferred": false, "evidence_type": "official_company_statement", "scope": "company", "sources": [9] },
+        { "topic": "Artificial Intelligence", "detail": "Own LinkedIn activity shows him listed as a scheduled speaker/panelist at InsureTech Connect Asia 2026 on AI-focused sessions ('AI in Distribution: What's Real, What's Noise', 'Maximising Your Potential in an AI World')", "evidence_strength": "self_authored_social_media", "confidence": 0.65, "inferred": false, "scope": "industry", "sources": [13], "note": "Evidence source is his own LinkedIn activity rather than independently reported press coverage \u2014 treated as moderate rather than high confidence" },
+        { "topic": "Digital Innovation (general, not AI-specific)", "confidence": 0.8, "inferred": false, "evidence_type": "direct_quote", "scope": "company", "sources": [10] }
+      ],
+      "event_signals": {
+        "interested_in_ai": { "value": true, "confidence": 0.65, "sources": [13], "note": "Evidence is from his own LinkedIn activity (moderate-trust source type) rather than a press-verified direct quote" },
+        "interested_in_fintech": { "value": true, "confidence": 0.9, "sources": [2, 8, 12] },
+        "interested_in_digital_transformation": { "value": true, "confidence": 0.85, "sources": [10] },
+        "interested_in_financial_inclusion": { "value": true, "confidence": 0.8, "sources": [9] }
+      },
+      "communication_style": {
+        "register": "formal_executive, strategy and continuity-framed",
+        "traits": [
+          { "trait": "continuity_over_disruption_framing", "confidence": 0.85, "sources": [11] },
+          { "trait": "enterprise_reform_and_technology_framed_narrative", "confidence": 0.8, "sources": [11] }
+        ]
+      },
+      "decision_profile": {
+        "innovation_appetite": { "value": "high", "confidence": 0.75, "inferred": true, "note": "Fintech founder background, though public messaging emphasizes continuity over disruption", "sources": [8, 11] },
+        "technology_adoption_posture": { "value": "high", "confidence": 0.75, "sources": [2, 8, 12, 13] },
+        "growth_orientation": { "value": "moderate-high", "confidence": 0.65, "inferred": true, "sources": [10] },
+        "budget_influence": { "value": "high", "confidence": 0.75, "inferred": true, "note": "CEO/Country Head overseeing all Sun Life business entities in the Philippines", "sources": [1] },
+        "strategic_influence": { "value": "high", "confidence": 0.7, "inferred": true, "sources": [1] }
+      },
+      "explicit_unknowns": [
+        "Formal university degree/field of study beyond the Philippine Military Academy",
+        "Press-verified (as opposed to self-authored) direct AI-specific quotes",
+        "Full board memberships",
+        "Compensation details"
+      ],
+      "executive_keywords": ["Fintech Background", "Digital Innovation", "Enterprise Reform", "Beep Card / AF Payments", "Financial Literacy", "New CEO (April 2026)"],
+      "industry_tags": ["Financial Institutions", "Insurance", "Fintech", "Philippines"],
+      "relationships": {
+        "board_memberships": [],
+        "industry_organizations": ["Speaker/panelist, InsureTech Connect Asia 2026 (per own LinkedIn activity)"]
+      },
+      "merge_notes_for_trust_engine": {
+        "primary_confidence_drivers": ["identity", "career history (verified fintech background)", "strategic priorities (multiple direct 2026 quotes)"],
+        "secondary_lower_weight": ["AI-specific interest is drawn from self-authored LinkedIn content rather than independently reported press quotes"],
+        "recommendation": "Strong fintech/digital-transformation profile given his AF Payments background; plausible AI-event fit given InsureTech Connect Asia panel participation, but that specific evidence source is lower-tier (own social media) than the rest of the profile. Recommend verifying via a press-reported source before high-confidence AI-event matching."
+      }
+    },
+    {
+      "executive_intelligence_object_version": "1.0",
+      "entry_status": "verified_curated",
+      "source_registry": {
+        "1": { "domain": "prulifeuk.com.ph", "title": "Pru Life UK announces new Chief Executive Officer", "type": "official_company_source", "trust_tier": "high", "date": "2024-01" },
+        "2": { "domain": "prulifeuk.com.ph", "title": "Meet Pru Life UK's Board of Directors", "type": "official_company_source", "trust_tier": "high" },
+        "3": { "domain": "prulifeuk.com.ph", "title": "Meet Our Executive Committee", "type": "official_company_source", "trust_tier": "high" },
+        "4": { "domain": "business.inquirer.net", "title": "Pru Life UK picks insurance veteran as new CEO", "type": "third_party_news", "trust_tier": "high", "date": "2024-01-14" },
+        "5": { "domain": "backendnews.net", "title": "Pru Life UK names Sanjay Chakrabarty as new CEO", "type": "third_party_news", "trust_tier": "medium-high", "date": "2024-01-09" },
+        "6": { "domain": "prulifeuk.com.ph", "title": "New Pru Life UK CEO pays courtesy visit to Insurance Commissioner", "type": "official_company_source", "trust_tier": "high" },
+        "7": { "domain": "prulifeuk.com.ph", "title": "Profiles of Corporate Officers 2024 (PDF)", "type": "official_company_source", "trust_tier": "high" },
+        "8": { "domain": "bloggersphilippines.com", "title": "Pru Life UK distills the value of long-term wealth", "type": "third_party_publication", "trust_tier": "medium-high", "date": "2026-07" },
+        "9": { "domain": "prulifeuk.com.ph", "title": "Pru Life UK sees digital adoption as edge in distribution and industry growth", "type": "official_company_source", "trust_tier": "high", "date": "2025-11-13" }
+      },
+      "excluded_sources": [],
+      "identity": {
+        "full_name": { "value": "Sanjay Chakrabarty", "confidence": 0.95, "sources": [1, 2] },
+        "current_position": { "value": "President and Chief Executive Officer", "confidence": 0.95, "sources": [2, 3] },
+        "current_company": { "value": "Pru Life UK (Pru Life Insurance Corporation of U.K.)", "confidence": 0.95, "sources": [1] },
+        "company_parent_group": { "value": "Prudential plc / Prudential Strategic Business Group", "confidence": 0.9, "sources": [1] },
+        "role_start_date": { "value": "February 1, 2024", "confidence": 0.9, "sources": [1] },
+        "education": [
+          { "degree": "Master's degree in Statistics", "institution": "Indian Statistical Institute", "confidence": 0.9, "sources": [2, 3, 7] }
+        ]
+      },
+      "career_history": [
+        { "role": "Started career at Citibank India", "year": 1997, "confidence": 0.85, "sources": [4] },
+        { "role": "Various roles, Citibank Japan and Korea (risk and business functions)", "years": "2004-2014", "confidence": 0.85, "sources": [4, 7] },
+        { "role": "Joined Prudential", "year": 2014, "confidence": 0.85, "sources": [1, 2] },
+        { "role": "Chief Commercial Officer, Prudential Vietnam", "confidence": 0.8, "sources": [4, 7] },
+        { "role": "CEO, Prudential Vietnam Finance Company", "confidence": 0.8, "sources": [7] },
+        { "role": "Deputy CEO and Head of Consumer Banking, Orient Commercial Joint Stock Bank, Vietnam", "confidence": 0.75, "sources": [4] },
+        { "role": "CEO, Prudential Cambodia and Prudential's Cambodia-Laos-Myanmar Hub", "years": "2020-2024", "confidence": 0.85, "sources": [1, 2] },
+        { "role": "President and CEO, Pru Life UK", "year": 2024, "confidence": 0.95, "sources": [1] }
+      ],
+      "awards": [],
+      "leadership_style": {
+        "customer_centric": { "value": true, "confidence": 0.8, "sources": [1, 8] },
+        "governance_oriented": { "value": true, "confidence": 0.75, "sources": [6] },
+        "operationally_focused": { "value": true, "confidence": 0.7, "inferred": true, "note": "Track record of turning around Prudential Cambodia to #1 market position", "sources": [1] }
+      },
+      "strategic_priorities": [
+        { "priority": "Strengthening Strategic Bank/Distribution Partnerships", "confidence": 0.8, "inferred": false, "evidence_type": "official_company_statement", "scope": "company", "sources": [1] },
+        { "priority": "Customer-Centric Approach and Culture of Excellence", "confidence": 0.75, "inferred": false, "evidence_type": "official_company_statement", "scope": "company", "sources": [1, 2] },
+        { "priority": "Remarkable Customer Experiences, Technology-Powered Distribution, Health Insurance Growth", "detail": "\"We will leverage on Prudential's brand and market leadership position with clear priorities to deliver remarkable customer experiences, power our distribution with technology and explore growth opportunities in the health insurance business\"", "confidence": 0.85, "inferred": false, "evidence_type": "direct_quote", "scope": "company", "sources": [1] },
+        { "priority": "Financial Literacy, Governance, and Insurance Penetration", "confidence": 0.85, "inferred": false, "evidence_type": "direct_quote", "scope": "industry", "sources": [6] },
+        { "priority": "Wealth/Protection Product Balance for Affluent Segment", "confidence": 0.8, "inferred": false, "evidence_type": "direct_quote", "scope": "company", "sources": [8] }
+      ],
+      "technology_interests": [
+        { "topic": "Technology-Powered Distribution (general)", "detail": "\"Power our distribution with technology\" \u2014 direct quote at appointment; general framing, not AI-specific", "evidence_strength": "direct_quote_general", "confidence": 0.7, "inferred": false, "scope": "company", "sources": [1] },
+        { "topic": "Artificial Intelligence", "evidence_strength": "no_direct_personal_evidence", "confidence": 0.2, "inferred": true, "sources": [9], "note": "No direct AI-specific statement located from Chakrabarty personally. Strong company-level AI evidence exists at Pru Life UK (AI-driven customer segmentation/targeting, AI recruitment support) but is explicitly and directly attributed to Chief Strategy Officer Julien Fey in company press materials \u2014 NOT to Chakrabarty. This distinction is deliberately preserved rather than collapsed." }
+      ],
+      "event_signals": {
+        "interested_in_ai": { "value": "unknown", "confidence": 0.2, "note": "No personal AI statement found; company AI leadership is visibly held by CSO Julien Fey, not the CEO \u2014 do not conflate" },
+        "interested_in_digital_distribution": { "value": true, "confidence": 0.75, "sources": [1] },
+        "interested_in_insurtech": { "value": "unknown", "confidence": 0.3 },
+        "interested_in_financial_inclusion": { "value": true, "confidence": 0.75, "sources": [6] },
+        "interested_in_customer_experience": { "value": true, "confidence": 0.8, "sources": [1, 8] }
+      },
+      "communication_style": {
+        "register": "formal_executive, relationship and governance-oriented",
+        "traits": [
+          { "trait": "customer_centric_framing", "confidence": 0.8, "sources": [1, 8] },
+          { "trait": "governance_and_partnership_oriented", "confidence": 0.75, "sources": [6] }
+        ]
+      },
+      "decision_profile": {
+        "innovation_appetite": { "value": "moderate", "confidence": 0.5, "inferred": true, "note": "Technology is mentioned only in general appointment-statement terms; no personally-attributed AI or advanced-technology evidence", "sources": [1] },
+        "technology_adoption_posture": { "value": "moderate; AI-specific initiatives appear delegated to the Chief Strategy Officer rather than personally championed by the CEO", "confidence": 0.5, "inferred": true, "sources": [9] },
+        "growth_orientation": { "value": "high", "confidence": 0.75, "sources": [1, 4] },
+        "budget_influence": { "value": "high", "confidence": 0.75, "inferred": true, "sources": [1] }
+      },
+      "explicit_unknowns": [
+        "Any AI-specific personal statement (none found; distinguish carefully from company-level AI evidence attributed to a different named executive, CSO Julien Fey)",
+        "Undergraduate degree/institution (only the master's in statistics is confirmed)",
+        "Detailed board memberships beyond Pru Life UK",
+        "Compensation details"
+      ],
+      "executive_keywords": ["Customer-Centric Distribution", "Bank Partnerships", "Financial Literacy", "Health Insurance Growth", "Cross-Market Insurance Leadership"],
+      "industry_tags": ["Financial Institutions", "Insurance", "Philippines"],
+      "relationships": {
+        "board_memberships": ["Director, Pru Life UK Board of Directors"],
+        "industry_organizations": []
+      },
+      "merge_notes_for_trust_engine": {
+        "primary_confidence_drivers": ["identity", "career history", "strategic priorities (multiple direct quotes)"],
+        "secondary_lower_weight": ["technology interests \u2014 general framing only"],
+        "contradictions_or_caveats": "Pru Life UK has substantial, well-documented company-level AI activity (LinkedIn 'Leading the AI Shift' event, AI-driven customer segmentation, AI recruitment support), but every piece of that evidence is explicitly attributed in company materials to Chief Strategy Officer Julien Fey, not to CEO Chakrabarty. Do NOT merge or attribute this AI evidence to Chakrabarty's profile.",
+        "recommendation": "Do not route AI-specific event invitations to Chakrabarty based on Pru Life UK's company-level AI activity \u2014 that evidence belongs to a different, named executive at the same company. Chakrabarty's own evidenced interests center on distribution partnerships, customer experience, and financial inclusion. If AI-specific engagement at Pru Life UK is desired, Julien Fey (CSO) would be a better-evidenced candidate for future research, subject to his own industry classification and seniority review."
+      }
+    },
+    {
+      "executive_intelligence_object_version": "1.0",
+      "entry_status": "verified_curated_partial",
+      "source_registry": {
+        "1": { "domain": "cardmri.com", "title": "CARD Bank opens 2nd Islamic banking branch in Marawi City", "type": "official_company_source", "trust_tier": "high", "date": "2025-12-15" },
+        "2": { "domain": "cardmri.com/publishinghouse", "title": "News and Events \u2014 CARD MRI Publishing House Inc.", "type": "official_company_source", "trust_tier": "high" },
+        "3": { "domain": "cardmri.com", "title": "CARD-PCPD Medical Center Inc. ribbon-cutting coverage", "type": "official_company_source", "trust_tier": "high", "date": "2025-12-01" },
+        "4": { "domain": "cardmri.com/cardsmebank", "title": "CARD MRI clients win Microentrepreneur Awards for Digital Innovation", "type": "official_company_source", "trust_tier": "high", "date": "2026-01-14" },
+        "5": { "domain": "gmanetwork.com", "title": "ASK THE EXPERTS: How can we grow our money when times are tight?", "type": "third_party_news", "trust_tier": "high", "date": "2026-04-16" },
+        "6": { "domain": "cardmri.com", "title": "CARD MRI governance/leadership page", "type": "official_company_source", "trust_tier": "high" },
+        "7": { "domain": "rmaward.asia", "title": "Center for Agriculture and Rural Development Mutually Reinforcing Institutions (CARD MRI) \u2014 Ramon Magsaysay Award Foundation", "type": "third_party_award_org", "trust_tier": "high" },
+        "8": { "domain": "davaotoday.com", "title": "CARD Microfinance institution expands to Mindanao", "type": "third_party_news", "trust_tier": "medium-high", "date": "2013-12-12" },
+        "9": { "domain": "cardmri.com/rbi", "title": "Our Team \u2014 CARD MRI Rizal Bank, Inc.", "type": "official_company_source", "trust_tier": "high" },
+        "10": { "domain": "cardmri.com/cardinc", "title": "CARD Banking Group pays courtesy call on BSP Governor", "type": "official_company_source", "trust_tier": "high", "date": "2022-08-01" },
+        "11": { "domain": "dailyguardian.com.ph", "title": "konek2CARD gears up for Roadshow", "type": "third_party_news", "trust_tier": "high", "date": "2021-11-12" },
+        "12": { "domain": "boracayislandnews.com", "title": "CMDI celebrates love and accomplishment on its founding anniversary", "type": "third_party_publication", "trust_tier": "medium-high", "date": "2023-03-03" }
+      },
+      "excluded_sources": [],
+      "identity": {
+        "full_name": { "value": "Aristeo A. Dequito", "confidence": 0.9, "sources": [1, 6] },
+        "current_position": { "value": "Managing Director", "confidence": 0.95, "sources": [1, 3, 6, 9] },
+        "current_company": { "value": "CARD MRI (Center for Agriculture and Rural Development Mutually Reinforcing Institutions)", "confidence": 0.95, "sources": [1] },
+        "company_structure_note": { "value": "CARD MRI is a group of 34+ mutually reinforcing institutions (microfinance NGO, rural/thrift banks, insurance, education, health, and other social enterprises) rather than a single company; Dequito also holds a concurrent Chairman role at CARD MRI Rizal Bank, Inc.", "confidence": 0.85, "sources": [1, 9] },
+        "education": { "value": "unknown", "confidence": 0.0, "note": "No degree, institution, or field of study located in available public sources despite multiple targeted searches" }
+      },
+      "career_history": [
+        { "role": "President/CEO, Business Development Services Foundation Inc. (CARD-BDSFI)", "years": "by 2008 \u2013 at least 2013", "confidence": 0.8, "sources": [7, 8] },
+        { "role": "Part of CARD MRI's founding-era institutional buildout", "confidence": 0.7, "inferred": true, "note": "Ramon Magsaysay Award Foundation account describes him as part of CARD's founding journey but does not give an exact join date", "sources": [7] },
+        { "role": "Managing Director, CARD MRI (current)", "confidence": 0.95, "sources": [1, 3, 6, 9] },
+        { "role": "Chairman, CARD MRI Rizal Bank, Inc. (concurrent board role)", "confidence": 0.85, "sources": [9] }
+      ],
+      "awards": [],
+      "leadership_style": {
+        "mission_driven": { "value": true, "confidence": 0.85, "sources": [12] },
+        "community_oriented": { "value": true, "confidence": 0.8, "sources": [4, 12] },
+        "financial_inclusion_focused": { "value": true, "confidence": 0.85, "sources": [1, 11] }
+      },
+      "strategic_priorities": [
+        { "priority": "Digital Transformation of Banking Access for Marginalized/Rural Communities", "detail": "\"Our digital initiatives not only address our need for a digital transformation but also the need of our clients to access our primary banking products and services\"", "confidence": 0.88, "inferred": false, "evidence_type": "direct_quote", "scope": "company", "sources": [11] },
+        { "priority": "Financial Inclusion Expansion (e.g., Islamic banking branch in Marawi City serving Muslim communities)", "confidence": 0.85, "inferred": false, "evidence_type": "official_company_statement", "scope": "company", "sources": [1] },
+        { "priority": "Support for Microentrepreneur / Digital-Commerce Clients", "detail": "Quoted celebrating clients who use digital tools (Facebook, Messenger, mobile cash services) to grow their businesses", "confidence": 0.8, "inferred": false, "evidence_type": "direct_quote", "scope": "company", "sources": [4] },
+        { "priority": "Poverty Eradication Mission (core institutional mandate)", "confidence": 0.85, "inferred": false, "evidence_type": "direct_quote", "scope": "company", "sources": [12] }
+      ],
+      "technology_interests": [
+        { "topic": "Digital/Mobile Banking (konek2CARD app)", "detail": "Personally quoted framing the app rollout as \"digital transformation\"", "evidence_strength": "direct_quote", "confidence": 0.8, "inferred": false, "scope": "company", "sources": [11] },
+        { "topic": "Artificial Intelligence", "evidence_strength": "no_evidence_located", "confidence": 0.0, "inferred": true, "sources": [], "note": "No direct AI-specific statement or company AI initiative located for Dequito or CARD MRI. CARD MRI's public technology narrative centers on basic mobile/digital banking access for underserved communities rather than AI or advanced analytics. Per project rule, this is NOT inferred from general digital-transformation activity." },
+        { "topic": "Data & Analytics", "evidence_strength": "no_evidence_located", "confidence": 0.0, "inferred": false, "sources": [] }
+      ],
+      "event_signals": {
+        "interested_in_ai": { "value": "unknown", "confidence": 0.0, "note": "No evidence located; deliberately not inferred from general digital-transformation activity" },
+        "interested_in_digital_transformation": { "value": true, "confidence": 0.8, "sources": [11] },
+        "interested_in_financial_inclusion": { "value": true, "confidence": 0.9, "sources": [1, 4, 11] },
+        "interested_in_fintech": { "value": "unknown", "confidence": 0.35, "inferred": true, "note": "konek2CARD is a basic in-house mobile banking app; no evidence of interest in fintech beyond this specific tool" }
+      },
+      "communication_style": {
+        "register": "formal_executive, mission and community-oriented",
+        "traits": [
+          { "trait": "mission_driven_framing", "confidence": 0.85, "sources": [12] },
+          { "trait": "community_and_gratitude_oriented_messaging", "confidence": 0.8, "sources": [4, 12] }
+        ]
+      },
+      "decision_profile": {
+        "innovation_appetite": { "value": "moderate", "confidence": 0.5, "inferred": true, "note": "Digital transformation efforts are evidenced but framed around basic access/inclusion tools, not advanced technology", "sources": [11] },
+        "technology_adoption_posture": { "value": "moderate; access-and-inclusion focused rather than cutting-edge", "confidence": 0.55, "inferred": true, "sources": [11] },
+        "growth_orientation": { "value": "high", "confidence": 0.7, "inferred": true, "note": "CARD MRI reports serving 9.7 million+ Filipinos with continuing institutional expansion (new banking branches, healthcare facilities)", "sources": [1] },
+        "budget_influence": { "value": "high", "confidence": 0.7, "inferred": true, "note": "Managing Director of a 34-institution group serving millions of clients", "sources": [1] }
+      },
+      "explicit_unknowns": [
+        "Educational background (degree, institution) \u2014 not found in any available source",
+        "Exact date Dequito joined CARD MRI or became Managing Director",
+        "Any AI, cloud, cybersecurity, or advanced-analytics evidence",
+        "Detailed board memberships beyond CARD MRI Rizal Bank, Inc.",
+        "Personal (as opposed to institutional) leadership philosophy statements"
+      ],
+      "executive_keywords": ["Financial Inclusion", "Microfinance", "Digital Banking Access (konek2CARD)", "Islamic Banking Expansion", "Poverty Eradication Mission", "Rural/Underserved Communities"],
+      "industry_tags": ["Financial Institutions", "Microfinance", "Financial Inclusion", "Social Enterprise", "Philippines"],
+      "relationships": {
+        "board_memberships": ["Chairman, CARD MRI Rizal Bank, Inc."],
+        "industry_organizations": []
+      },
+      "merge_notes_for_trust_engine": {
+        "primary_confidence_drivers": ["identity", "current role", "financial-inclusion strategic priorities (direct quotes)"],
+        "secondary_lower_weight": ["technology interests \u2014 limited to basic mobile banking access; no AI, analytics, or advanced-technology evidence found at all"],
+        "recommendation": "Dequito's evidence base is strong on financial inclusion and microfinance themes but essentially empty on AI/advanced technology. Do NOT route AI-themed event invitations to this profile without additional research \u2014 this is a case where the project's 'no fabricated AI assumption' rule applies most clearly. Good candidate for financial-inclusion, digital-access, or social-impact event themes instead. Recommend DEL live research supplementation if AI-specific engagement is being considered.",
+        "additional_research_recommended": true
+      }
+    }
+  ]
+}

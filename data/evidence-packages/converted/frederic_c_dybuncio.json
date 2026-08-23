@@ -1,0 +1,752 @@
+{
+  "executive": {
+    "name": "Frederic C. DyBuncio",
+    "title": "President, Chief Executive Officer, and Chairman of the Board",
+    "company": "2GO Group, Inc."
+  },
+  "sources": [
+    {
+      "id": "src-1",
+      "url": "https://craft.co",
+      "title": "2GO CEO and Key Executive Team",
+      "sourceName": "craft.co",
+      "sourceTier": 2,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-2",
+      "url": "https://manilatimes.net",
+      "title": "DyBuncio is 2GO's president and CEO",
+      "sourceName": "manilatimes.net",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2020-12-04",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-3",
+      "url": "https://bilyonaryo.com",
+      "title": "DyBuncio's growth plans for 2Go: Connecting more regions and building a sustainable logistics network",
+      "sourceName": "bilyonaryo.com",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2025-01-07",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-4",
+      "url": "https://insiderph.com",
+      "title": "INSIDER INSIGHT: How DyBuncio made money-losing 2GO a world-class logistics firm",
+      "sourceName": "insiderph.com",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-5",
+      "url": "https://feature-asia.com",
+      "title": "Frederic DyBuncio: Champion of Sustainable Business",
+      "sourceName": "feature-asia.com",
+      "sourceTier": 2,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": "2025-06-15",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-6",
+      "url": "https://en.wikipedia.org",
+      "title": "2GO Group",
+      "sourceName": "en.wikipedia.org",
+      "sourceTier": 2,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-7",
+      "url": "https://theofficialboard.com",
+      "title": "Frederic DyBuncio Bio – 2GO Group CEO & Chairman",
+      "sourceName": "theofficialboard.com",
+      "sourceTier": 2,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    }
+  ],
+  "facts": [
+    {
+      "factId": "fact-identity-0",
+      "category": "biography",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "name",
+      "value": "Frederic C. DyBuncio",
+      "sourceIds": [
+        "src-2",
+        "src-6"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "full_name"
+      }
+    },
+    {
+      "factId": "fact-identity-1",
+      "category": "biography",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "title",
+      "value": "President, Chief Executive Officer, and Chairman of the Board",
+      "sourceIds": [
+        "src-1",
+        "src-6"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "current_position"
+      }
+    },
+    {
+      "factId": "fact-identity-2",
+      "category": "biography",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "company",
+      "value": "2GO Group, Inc.",
+      "sourceIds": [
+        "src-2",
+        "src-3",
+        "src-6"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "current_company"
+      }
+    },
+    {
+      "factId": "fact-education-3",
+      "category": "biography",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "education",
+      "value": "BS Business Management, Ateneo de Manila University",
+      "sourceIds": [
+        "src-5"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "education"
+      }
+    },
+    {
+      "factId": "fact-education-4",
+      "category": "biography",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "education",
+      "value": "MBA, Asian Institute of Management",
+      "sourceIds": [
+        "src-5",
+        "src-7"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "education"
+      }
+    },
+    {
+      "factId": "fact-career-5",
+      "category": "professional_history",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "career_history",
+      "value": "Various executive roles at JPMorgan Chase and predecessor institutions",
+      "sourceIds": [
+        "src-5"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-6",
+      "category": "professional_history",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "career_history",
+      "value": "President and Chief Executive Officer at Belle Corporation; Premium Leisure",
+      "sourceIds": [
+        "src-7"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-7",
+      "category": "professional_history",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "career_history",
+      "value": "President and Chief Executive Officer at SM Investments Corporation",
+      "sourceIds": [
+        "src-5",
+        "src-7"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-8",
+      "category": "professional_history",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "career_history",
+      "value": "President and CEO (joined 2GO) at 2GO Group, Inc.",
+      "sourceIds": [
+        "src-7"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-9",
+      "category": "professional_history",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "career_history",
+      "value": "Chairman of the Board (in addition to President/CEO) at 2GO Group, Inc.",
+      "sourceIds": [
+        "src-1",
+        "src-6"
+      ],
+      "confidence": 0.6,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-strategy-10",
+      "category": "strategic_priorities",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "strategic_priority",
+      "value": "Regional Network Expansion: Extended shipping routes to Davao and General Santos City (2024); 2025 goals to further improve interregional connectivity",
+      "sourceIds": [
+        "src-3"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-11",
+      "category": "strategic_priorities",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "strategic_priority",
+      "value": "Cold Chain Logistics Investment: Investing in refrigerated transport and ISO tank services for perishable-goods demand",
+      "sourceIds": [
+        "src-3"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-12",
+      "category": "strategic_priorities",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "strategic_priority",
+      "value": "Technology-Driven Supply Chain Efficiency: Direct quote framing technology as essential to scaling package-handling volume with speed and accuracy",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-13",
+      "category": "strategic_priorities",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "strategic_priority",
+      "value": "Passenger-Cargo Hybrid Model Growth: Positions 2GO's combined passenger/cargo sea-travel model as a differentiator versus competitors exiting warehousing/logistics",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-14",
+      "category": "strategic_priorities",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "strategic_priority",
+      "value": "Sustainable Business Practices: Championed renewable energy investment (e.g., geothermal) at SMIC and framed as part of broader sustainability commitment",
+      "sourceIds": [
+        "src-5"
+      ],
+      "confidence": 0.65,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-tech-15",
+      "category": "technology_interests",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "technology_interest",
+      "value": "Supply Chain Technology / Process Automation",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "direct_quote"
+      }
+    },
+    {
+      "factId": "fact-tech-16",
+      "category": "technology_interests",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "technology_interest",
+      "value": "E-commerce and Logistics Digital Transformation",
+      "sourceIds": [
+        "src-5"
+      ],
+      "confidence": 0.65,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "editorial_summary"
+      }
+    },
+    {
+      "factId": "fact-tech-17",
+      "category": "technology_interests",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "technology_interest",
+      "value": "Cold Chain / Refrigerated Transport Technology",
+      "sourceIds": [
+        "src-3"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "company_initiative"
+      }
+    },
+    {
+      "factId": "fact-tech-18",
+      "category": "technology_interests",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "technology_interest",
+      "value": "Artificial Intelligence",
+      "sourceIds": [],
+      "confidence": 0.25,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "inferred"
+      }
+    },
+    {
+      "factId": "fact-leadership-19",
+      "category": "leadership_style",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "leadership_trait",
+      "value": "Operational Efficiency Focus",
+      "sourceIds": [
+        "src-3",
+        "src-4"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "operational_efficiency_focus"
+      }
+    },
+    {
+      "factId": "fact-leadership-20",
+      "category": "leadership_style",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "leadership_trait",
+      "value": "Growth And Network Expansion Oriented",
+      "sourceIds": [
+        "src-3"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "growth_and_network_expansion_oriented"
+      }
+    },
+    {
+      "factId": "fact-leadership-21",
+      "category": "leadership_style",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "leadership_trait",
+      "value": "Sustainability Oriented",
+      "sourceIds": [
+        "src-5"
+      ],
+      "confidence": 0.65,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "sustainability_oriented"
+      }
+    },
+    {
+      "factId": "fact-leadership-22",
+      "category": "leadership_style",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "leadership_trait",
+      "value": "Financially Disciplined",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "financially_disciplined"
+      }
+    },
+    {
+      "factId": "fact-decision-23",
+      "category": "decision_profile",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "decision_dimension",
+      "value": "Innovation Appetite: high",
+      "sourceIds": [
+        "src-3",
+        "src-4"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "innovation_appetite"
+      }
+    },
+    {
+      "factId": "fact-decision-24",
+      "category": "decision_profile",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "decision_dimension",
+      "value": "Technology Adoption Posture: high",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "technology_adoption_posture"
+      }
+    },
+    {
+      "factId": "fact-decision-25",
+      "category": "decision_profile",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "decision_dimension",
+      "value": "Growth Orientation: high",
+      "sourceIds": [
+        "src-3"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "growth_orientation"
+      }
+    },
+    {
+      "factId": "fact-decision-26",
+      "category": "decision_profile",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "decision_dimension",
+      "value": "Budget Influence: high",
+      "sourceIds": [
+        "src-7"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "budget_influence"
+      }
+    },
+    {
+      "factId": "fact-decision-27",
+      "category": "decision_profile",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "decision_dimension",
+      "value": "Financial Discipline: high",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "financial_discipline"
+      }
+    },
+    {
+      "factId": "fact-signals-28",
+      "category": "event_signals",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "event_interest",
+      "value": "Interested in Digital Transformation",
+      "sourceIds": [
+        "src-4",
+        "src-5"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_digital_transformation"
+      }
+    },
+    {
+      "factId": "fact-signals-29",
+      "category": "event_signals",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "event_interest",
+      "value": "Interested in Supply Chain Technology",
+      "sourceIds": [
+        "src-3",
+        "src-4"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_supply_chain_technology"
+      }
+    },
+    {
+      "factId": "fact-signals-30",
+      "category": "event_signals",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "event_interest",
+      "value": "Interested in Sustainability",
+      "sourceIds": [
+        "src-5"
+      ],
+      "confidence": 0.65,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_sustainability"
+      }
+    },
+    {
+      "factId": "fact-boards-31",
+      "category": "professional_history",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "board_membership",
+      "value": "President and CEO, SM Investments Corporation (as of most recent available sources)",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-keywords-32",
+      "category": "executive_keywords",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "keyword",
+      "value": "Logistics",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-33",
+      "category": "executive_keywords",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "keyword",
+      "value": "Sea Freight",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-34",
+      "category": "executive_keywords",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "keyword",
+      "value": "Supply Chain Technology",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-35",
+      "category": "executive_keywords",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "keyword",
+      "value": "Network Expansion",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-36",
+      "category": "executive_keywords",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "keyword",
+      "value": "Cold Chain",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-37",
+      "category": "executive_keywords",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "keyword",
+      "value": "Sustainability",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-38",
+      "category": "executive_keywords",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "keyword",
+      "value": "E-commerce Logistics",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-comm-39",
+      "category": "communication_style",
+      "subject": "Frederic C. DyBuncio",
+      "predicate": "communication_register",
+      "value": "formal_executive",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "communication_style"
+      }
+    }
+  ],
+  "metadata": {
+    "original_format": "executive_intelligence_object",
+    "version": "1.0",
+    "entry_status": "verified_curated"
+  }
+}

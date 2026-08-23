@@ -1,0 +1,2336 @@
+{
+  "batch": "Manufacturing (Industry 4 of 5)",
+  "note": "4 confirmed Manufacturing executives. No fifth executive was invented to fill a quota. Excluded candidates (Clark Development Corporation officials and a Philippine Business Bank executive) are documented in the validation summary, not researched as replacements.",
+  "executives": [
+    {
+      "executive_intelligence_object_version": "1.0",
+      "entry_status": "verified_curated",
+      "source_registry": {
+        "1": {
+          "domain": "theorg.com",
+          "title": "Irwin C. Lee - President/CEO/Director at Universal Robina Corp",
+          "type": "third_party_business_data",
+          "trust_tier": "medium"
+        },
+        "2": {
+          "domain": "jgsummit.com.ph",
+          "title": "URC President and CEO Irwin Lee Reflects on His First Year on the Job",
+          "type": "official_company_source",
+          "trust_tier": "high"
+        },
+        "3": {
+          "domain": "urc.com.ph",
+          "title": "URC clinches awards affirming its place as among Asia's best workplaces",
+          "type": "official_company_source",
+          "trust_tier": "high",
+          "date": "2025-10-08"
+        },
+        "4": {
+          "domain": "manilastandard.net",
+          "title": "Irwin Lee steers URC to sustainable growth",
+          "type": "third_party_news",
+          "trust_tier": "high",
+          "date": "2025-05-11"
+        },
+        "5": {
+          "domain": "jgsummit.com.ph",
+          "title": "Universal Robina Corporation – JG Summit Annual Report 2019 (Where to Play: URC)",
+          "type": "annual_report",
+          "trust_tier": "high"
+        },
+        "6": {
+          "domain": "urc.com.ph",
+          "title": "The Business Manual celebrates URC CEO Irwin Lee's innovative contributions in its second CEO Awards",
+          "type": "official_company_source",
+          "trust_tier": "high",
+          "date": "2025-01-31"
+        },
+        "7": {
+          "domain": "urc.com.ph",
+          "title": "URC breaks ground for new, leading edge production plant in Malvar",
+          "type": "official_company_source",
+          "trust_tier": "high"
+        },
+        "8": {
+          "domain": "jgsummit.com.ph",
+          "title": "URC Breaks Ground on New State-of-the-Art Production Plant in Malvar, Batangas",
+          "type": "official_company_source",
+          "trust_tier": "high",
+          "date": "2024-02-21"
+        },
+        "9": {
+          "domain": "urc.com.ph",
+          "title": "Message From The CEO — URC 2018 Annual Report",
+          "type": "annual_report",
+          "trust_tier": "high"
+        },
+        "10": {
+          "domain": "en.wikipedia.org",
+          "title": "Universal Robina",
+          "type": "encyclopedic_reference",
+          "trust_tier": "medium"
+        },
+        "11": {
+          "domain": "globaldata.com",
+          "title": "Universal Robina Corp Executive & Employee Information",
+          "type": "third_party_business_data",
+          "trust_tier": "medium"
+        },
+        "12": {
+          "domain": "simplywall.st",
+          "title": "Universal Robina Corporation (URC) Leadership & Management Team Analysis",
+          "type": "third_party_financial_data",
+          "trust_tier": "medium"
+        },
+        "13": {
+          "domain": "philstar.com",
+          "title": "URC half earnings up 42% to P8.5 billion",
+          "type": "third_party_news",
+          "trust_tier": "high",
+          "date": "2021-08-02"
+        },
+        "14": {
+          "domain": "thebusinessmanual-onemega.com",
+          "title": "Irwin Lee Leads URC Toward Global Business Growth (CEO Awards honoree profile)",
+          "type": "third_party_news",
+          "trust_tier": "medium",
+          "date": "2025-01-29"
+        }
+      },
+      "excluded_sources": [
+        {
+          "reason": "unreliable_contact_broker",
+          "detail": "RocketReach and ZoomInfo contact-detail pages excluded from factual claims — used only to cross-check spelling and career sequence, not as primary evidence."
+        },
+        {
+          "reason": "unrelated_person",
+          "detail": "LinkedIn profile of an unrelated 'Irwin Lim' / digital-transformation consultant surfaced in search results under a similar name; excluded as not the same individual as Irwin C. Lee of URC."
+        },
+        {
+          "reason": "unrelated_person",
+          "detail": "PRWeb release about 'Chang K. Park, Founder and CEO of URC' (a US home-automation company, unrelated 'URC' acronym) excluded — different company, not Universal Robina Corporation."
+        }
+      ],
+      "identity": {
+        "full_name": {
+          "value": "Irwin C. Lee",
+          "confidence": 0.95,
+          "sources": [
+            1,
+            2,
+            10
+          ]
+        },
+        "current_position": {
+          "value": "President, Chief Executive Officer & Director",
+          "confidence": 0.95,
+          "sources": [
+            1,
+            10,
+            11
+          ]
+        },
+        "current_company": {
+          "value": "Universal Robina Corporation (URC)",
+          "confidence": 0.95,
+          "sources": [
+            1,
+            10
+          ]
+        },
+        "company_parent_group": {
+          "value": "JG Summit Holdings, Inc. / Gokongwei family",
+          "confidence": 0.9,
+          "sources": [
+            2,
+            5,
+            10
+          ]
+        },
+        "role_start_date": {
+          "value": "May 14, 2018 (first non-family CEO of URC)",
+          "confidence": 0.85,
+          "sources": [
+            12,
+            14
+          ]
+        },
+        "education": [
+          {
+            "degree": "B.S.C. in Accounting (summa cum laude); placed 3rd in CPA board exams",
+            "institution": "De La Salle University",
+            "confidence": 0.85,
+            "sources": [
+              1,
+              14
+            ]
+          }
+        ]
+      },
+      "career_history": [
+        {
+          "role": "Head of Finance, Laundry and Personal Cleansing",
+          "org": "Procter & Gamble China",
+          "confidence": 0.7,
+          "sources": [
+            1
+          ]
+        },
+        {
+          "role": "Comptroller",
+          "org": "Procter & Gamble Asia",
+          "confidence": 0.7,
+          "sources": [
+            1
+          ]
+        },
+        {
+          "role": "General Manager, Fabric and Home Care",
+          "org": "Procter & Gamble Greater China",
+          "confidence": 0.75,
+          "sources": [
+            1,
+            11
+          ]
+        },
+        {
+          "role": "Regional Vice President / Managing Director, P&G UK & Ireland, then Northern Europe",
+          "org": "Procter & Gamble",
+          "confidence": 0.8,
+          "sources": [
+            1,
+            4,
+            14
+          ]
+        },
+        {
+          "role": "Senior Advisor / Global Strategic Advisor",
+          "org": "McKinsey & Company",
+          "confidence": 0.75,
+          "sources": [
+            1,
+            11
+          ]
+        },
+        {
+          "role": "Chief Executive Officer",
+          "org": "Rustan's Supercenters, Inc.",
+          "confidence": 0.85,
+          "sources": [
+            1,
+            4,
+            14
+          ]
+        },
+        {
+          "role": "Board Director",
+          "org": "Rose Pharmacy Inc. / Wm Morrison Supermarkets Ltd.",
+          "confidence": 0.75,
+          "sources": [
+            1,
+            4
+          ]
+        },
+        {
+          "role": "President, CEO & Director",
+          "org": "Universal Robina Corporation",
+          "year": 2018,
+          "confidence": 0.95,
+          "sources": [
+            1,
+            10,
+            12
+          ]
+        }
+      ],
+      "awards": [
+        {
+          "award": "CEO Awards honoree (2nd edition)",
+          "org": "The Business Manual",
+          "year": 2025,
+          "confidence": 0.85,
+          "sources": [
+            6,
+            14
+          ]
+        },
+        {
+          "award": "Asia's Best Companies to Work For (3rd consecutive year)",
+          "org": "HR Asia",
+          "year": 2025,
+          "confidence": 0.85,
+          "sources": [
+            3
+          ]
+        },
+        {
+          "award": "HR Excellence Awards Philippines 2025 — technology and AI use in HR management (company-level award, accepted/commented on by Lee as CEO)",
+          "org": "HR Excellence Awards Philippines",
+          "year": 2025,
+          "confidence": 0.8,
+          "sources": [
+            3
+          ]
+        },
+        {
+          "award": "Top consumer staples firm in the Philippines (3 consecutive years)",
+          "org": "AsiaMoney",
+          "confidence": 0.75,
+          "sources": [
+            6
+          ]
+        }
+      ],
+      "leadership_style": {
+        "operational_excellence_focus": {
+          "value": true,
+          "confidence": 0.9,
+          "sources": [
+            2,
+            5,
+            9
+          ],
+          "note": "Directly described his own OGSM (Objectives, Goals, Strategies, Measures) rollout and repeated personal framing of supply-chain/manufacturing transformation as his top priority."
+        },
+        "growth_orientation": {
+          "value": true,
+          "confidence": 0.85,
+          "sources": [
+            4,
+            13
+          ],
+          "note": "Personally quoted on market-share gains, topline growth, and ASEAN expansion."
+        },
+        "sustainability_orientation": {
+          "value": true,
+          "confidence": 0.85,
+          "sources": [
+            5,
+            6,
+            8
+          ],
+          "note": "Personally frames URC's ambition as becoming 'the leading food & beverage sustainable enterprise' and is quoted on eco-efficient plant design."
+        },
+        "supply_chain_manufacturing_focus": {
+          "value": true,
+          "confidence": 0.9,
+          "sources": [
+            2,
+            5,
+            9
+          ],
+          "note": "Direct, repeated, first-person statements identifying product supply chain / manufacturing as the area most in need of transformation."
+        },
+        "people_culture_orientation": {
+          "value": true,
+          "confidence": 0.8,
+          "sources": [
+            2,
+            3
+          ],
+          "note": "Direct quotes on employee empowerment, digital employee enablement, and workplace culture."
+        },
+        "digital_transformation_champion": {
+          "value": "company_context",
+          "confidence": 0.55,
+          "sources": [
+            2,
+            3
+          ],
+          "note": "Lee personally discusses 'digital employee/consumer/operations' enablement in a 2019 interview (direct), but more recent AI-specific claims (HR AI award) are company-level; treat overall digital-transformation intensity as moderate-confidence, mixed direct/company evidence."
+        }
+      },
+      "strategic_priorities": [
+        {
+          "priority": "Product supply chain / manufacturing transformation",
+          "detail": "Lee has repeatedly and personally identified end-to-end supply chain — procurement, manufacturing, logistics — as URC's biggest historical weakness and top transformation priority, including SKU rationalization, integrated supply chain organizations, S&OP process redesign, and lean manufacturing.",
+          "confidence": 0.9,
+          "sources": [
+            2,
+            4,
+            9
+          ]
+        },
+        {
+          "priority": "New mega manufacturing capacity (Malvar, Batangas plant)",
+          "detail": "Personally announced and quoted on a new 30.7-hectare, state-of-the-art production plant in Malvar, Batangas, featuring 'cutting-edge manufacturing process and sustainability drive,' with construction/expansion spanning 10–15 years.",
+          "confidence": 0.9,
+          "sources": [
+            7,
+            8
+          ]
+        },
+        {
+          "priority": "ASEAN / regional expansion",
+          "detail": "Directly quoted on strong high-single to double-digit growth across Malaysia, Thailand, Vietnam, Indonesia, positioning ASEAN as a core growth engine alongside the Philippines.",
+          "confidence": 0.85,
+          "sources": [
+            4
+          ]
+        },
+        {
+          "priority": "Sustainable enterprise positioning",
+          "detail": "Personally frames URC's 5-year OGSM ambition as becoming 'the leading food & beverage sustainable enterprise from the Philippines,' including carbon footprint reduction and eco-friendly packaging.",
+          "confidence": 0.85,
+          "sources": [
+            5,
+            6,
+            14
+          ]
+        },
+        {
+          "priority": "People-friendly, empowerment-driven culture",
+          "detail": "Directly identified excessive manual processes and low delegation of authority as an internal weakness to fix; ties workplace-tech awards to talent strategy.",
+          "confidence": 0.8,
+          "sources": [
+            2,
+            3
+          ]
+        }
+      ],
+      "technology_interests": [
+        {
+          "topic": "Digital Transformation",
+          "evidence_strength": "direct_quote",
+          "confidence": 0.75,
+          "sources": [
+            2
+          ],
+          "note": "In a 2019 first-year interview, Lee personally described enabling 'digital customer, digital consumer, digital operations, and a digital employee' as one of four strategic thrusts."
+        },
+        {
+          "topic": "Manufacturing Technology / Smart Manufacturing",
+          "evidence_strength": "direct_executive_action",
+          "confidence": 0.8,
+          "sources": [
+            7,
+            8
+          ],
+          "note": "Lee personally announced the Malvar plant as featuring 'state-of-the-art manufacturing technology' with design improvements to reduce material inputs, waste, labor, energy, and water consumption."
+        },
+        {
+          "topic": "Artificial Intelligence",
+          "evidence_strength": "company_context",
+          "confidence": 0.35,
+          "sources": [
+            3
+          ],
+          "note": "URC won HR Excellence Awards Philippines 2025 recognition for use of AI in HR management, and Lee commented on the broader award package, but no direct personal statement from Lee specifically about AI strategy or adoption was located."
+        },
+        {
+          "topic": "Automation / Lean Manufacturing",
+          "evidence_strength": "direct_quote",
+          "confidence": 0.75,
+          "sources": [
+            2,
+            9
+          ],
+          "note": "Personally discussed lean manufacturing practices and supply network re-design as immediate priorities in CEO messages."
+        },
+        {
+          "topic": "Supply Chain Technology",
+          "evidence_strength": "direct_quote",
+          "confidence": 0.8,
+          "sources": [
+            2,
+            4,
+            9
+          ],
+          "note": "Repeated first-person commentary on supply chain systems, order fulfillment technology gaps, and sales & operations planning process redesign."
+        },
+        {
+          "topic": "Sustainability Technology",
+          "evidence_strength": "direct_executive_action",
+          "confidence": 0.7,
+          "sources": [
+            8
+          ],
+          "note": "Personally tied Malvar plant construction/operation methods to resource, waste, and energy reduction design choices."
+        },
+        {
+          "topic": "E-commerce / Digital Consumer",
+          "evidence_strength": "direct_quote",
+          "confidence": 0.55,
+          "sources": [
+            2
+          ],
+          "note": "Referenced 'digital consumer' enablement as a strategic thrust in 2019 interview; no more recent direct quote located specifically on e-commerce channel strategy."
+        }
+      ],
+      "event_signals": {
+        "interested_in_ai": {
+          "value": "unknown",
+          "confidence": 0.35,
+          "note": "Only company-level AI evidence (HR Excellence Award) located; no direct personal statement on AI specifically. Do not treat as confirmed."
+        },
+        "interested_in_digital_transformation": {
+          "value": true,
+          "confidence": 0.75,
+          "sources": [
+            2,
+            3
+          ]
+        },
+        "interested_in_manufacturing_technology": {
+          "value": true,
+          "confidence": 0.85,
+          "sources": [
+            7,
+            8,
+            9
+          ]
+        },
+        "interested_in_supply_chain_technology": {
+          "value": true,
+          "confidence": 0.85,
+          "sources": [
+            2,
+            4,
+            9
+          ]
+        },
+        "interested_in_sustainability": {
+          "value": true,
+          "confidence": 0.85,
+          "sources": [
+            5,
+            6,
+            8
+          ]
+        }
+      },
+      "communication_style": {
+        "register": "formal_executive",
+        "traits": [
+          {
+            "trait": "operations_and_metrics_focused",
+            "confidence": 0.8,
+            "sources": [
+              2,
+              9
+            ],
+            "note": "Frequently cites specific operational figures (fill rates, revenue growth, plant hectares/jobs) rather than abstract vision statements."
+          },
+          {
+            "trait": "reflective_self_critical",
+            "confidence": 0.7,
+            "sources": [
+              2
+            ],
+            "note": "Openly named specific internal weaknesses (supply chain inefficiency, manual processes, complacency) in a public interview rather than only promoting strengths."
+          },
+          {
+            "trait": "sustainability_and_purpose_oriented",
+            "confidence": 0.75,
+            "sources": [
+              5,
+              6
+            ]
+          }
+        ]
+      },
+      "decision_profile": {
+        "innovation_appetite": {
+          "value": "moderate-high",
+          "confidence": 0.65,
+          "sources": [
+            2,
+            8
+          ],
+          "inferred": true,
+          "note": "Inferred from consistent transformation and modernization initiatives; no direct 'innovation appetite' self-description found."
+        },
+        "technology_adoption_posture": {
+          "value": "moderate",
+          "confidence": 0.55,
+          "sources": [
+            3,
+            7,
+            8
+          ],
+          "note": "Strong on manufacturing/plant technology; AI-specific posture unconfirmed at the personal level."
+        },
+        "growth_orientation": {
+          "value": "high",
+          "confidence": 0.85,
+          "sources": [
+            4,
+            7,
+            8,
+            13
+          ]
+        },
+        "operational_focus": {
+          "value": "high",
+          "confidence": 0.9,
+          "sources": [
+            2,
+            9
+          ]
+        },
+        "risk_orientation": {
+          "value": "moderate",
+          "confidence": 0.5,
+          "sources": [
+            4
+          ],
+          "inferred": true,
+          "note": "Inferred from cautious, phased language around plant expansion (10-15 year build-out) and market conditions commentary."
+        },
+        "sustainability_orientation": {
+          "value": "high",
+          "confidence": 0.8,
+          "sources": [
+            5,
+            6,
+            8
+          ]
+        },
+        "budget_influence": {
+          "value": "high",
+          "confidence": 0.7,
+          "inferred": true,
+          "note": "Inferred from President/CEO role over a multi-billion-peso listed manufacturer; not from a direct statement."
+        }
+      },
+      "explicit_unknowns": [
+        "No direct, personal, on-the-record statement from Lee specifically about artificial intelligence strategy or adoption (only company-level AI/HR award evidence located)",
+        "Exact current board memberships outside URC/JG Summit not fully verified in available sources",
+        "Specific technology vendors or ERP/AI platforms used at URC not attributable to Lee personally",
+        "No direct quote located on cybersecurity or cloud strategy",
+        "Detailed sustainability targets (e.g., specific carbon reduction percentages/timelines) not located in sources reviewed"
+      ],
+      "executive_keywords": [
+        "Manufacturing Transformation",
+        "Supply Chain Excellence",
+        "Lean Manufacturing",
+        "Sustainable Enterprise",
+        "ASEAN Expansion",
+        "Food & Beverage",
+        "Operational Excellence",
+        "Capacity Expansion",
+        "People Culture"
+      ],
+      "industry_tags": [
+        "Manufacturing",
+        "Food Manufacturing",
+        "Consumer Goods",
+        "Supply Chain",
+        "Philippines"
+      ],
+      "relationships": {
+        "board_memberships": [
+          "Director, Universal Robina Corporation"
+        ],
+        "industry_organizations": []
+      },
+      "merge_notes_for_trust_engine": {
+        "primary_confidence_drivers": [
+          "identity (multiple high-trust official sources)",
+          "strategic_priorities — supply chain/manufacturing transformation (repeated direct quotes across multiple years)",
+          "Malvar mega-plant announcement (direct executive action, official company sources)"
+        ],
+        "secondary_lower_weight": [
+          "AI interest — company-level only (HR Excellence Award); do not treat as a confirmed personal AI interest driver",
+          "Digital transformation — direct but dated (2019 interview); more recent corroboration is company-level"
+        ],
+        "recommendation": "Strong match for Manufacturing Technology, Supply Chain Technology, and Sustainability event themes given repeated direct executive statements and named capital projects. Weak/insufficient evidence for AI-specific event themes — flag for additional research (e.g., recent conference appearances) before using as a strong AI-interest signal."
+      }
+    },
+    {
+      "executive_intelligence_object_version": "1.0",
+      "entry_status": "verified_curated",
+      "source_registry": {
+        "1": {
+          "domain": "weforum.org",
+          "title": "Ramon S. Ang | World Economic Forum profile",
+          "type": "third_party_business_data",
+          "trust_tier": "high"
+        },
+        "2": {
+          "domain": "en.wikipedia.org",
+          "title": "Ramon Ang",
+          "type": "encyclopedic_reference",
+          "trust_tier": "medium"
+        },
+        "3": {
+          "domain": "mpic.com.ph",
+          "title": "Ramon S. Ang - Metro Pacific Investments Corporation board bio",
+          "type": "official_company_source",
+          "trust_tier": "high",
+          "date": "2025-06-03"
+        },
+        "4": {
+          "domain": "forbes.com",
+          "title": "Ramon Ang — Forbes profile",
+          "type": "third_party_business_data",
+          "trust_tier": "high"
+        },
+        "5": {
+          "domain": "insiderph.com",
+          "title": "INSIDER INSIGHT: Ramon Ang outlines sweeping NAIA changes for 1st year under SMC",
+          "type": "third_party_news",
+          "trust_tier": "high"
+        },
+        "6": {
+          "domain": "rappler.com",
+          "title": "Ramon Ang wants an even bigger NAIA terminal than promised. Can he deliver?",
+          "type": "third_party_news",
+          "trust_tier": "high",
+          "date": "2024-07-16"
+        },
+        "7": {
+          "domain": "monocle.com",
+          "title": "The Philippines' infrastructure revolution has an unlikely architect",
+          "type": "third_party_news",
+          "trust_tier": "high",
+          "date": "2025-12-24"
+        },
+        "8": {
+          "domain": "mb.com.ph",
+          "title": "RSA: First runway of ₱735-billion airport could open early",
+          "type": "third_party_news",
+          "trust_tier": "high",
+          "date": "2026-06-09"
+        },
+        "9": {
+          "domain": "bilyonaryo.com",
+          "title": "Ramon Ang pushes innovation in toll collection: SMC installs 522 AI-powered cameras",
+          "type": "third_party_news",
+          "trust_tier": "medium",
+          "date": "2024-11-29"
+        },
+        "10": {
+          "domain": "sanmiguel.com.ph",
+          "title": "Digital Transformation - SMC Sustainability Report",
+          "type": "official_company_source",
+          "trust_tier": "high"
+        },
+        "11": {
+          "domain": "peopleasia.ph",
+          "title": "How Ramon S. Ang has turned his businesses into a force for good (People of the Year 2026)",
+          "type": "third_party_news",
+          "trust_tier": "medium",
+          "date": "2026-02-10"
+        },
+        "12": {
+          "domain": "businessmirror.com.ph",
+          "title": "Ramon Ang, first Filipino in elite Bloomberg 50 global innovators",
+          "type": "third_party_news",
+          "trust_tier": "high",
+          "date": "2019-12-18"
+        },
+        "13": {
+          "domain": "insiderph.com",
+          "title": "How tycoon Ramon Ang's two-decade overhaul redefined San Miguel's 135-year legacy",
+          "type": "third_party_news",
+          "trust_tier": "high"
+        },
+        "14": {
+          "domain": "en.wikipedia.org",
+          "title": "San Miguel Corporation",
+          "type": "encyclopedic_reference",
+          "trust_tier": "medium"
+        },
+        "15": {
+          "domain": "smfb.com.ph",
+          "title": "San Miguel Food and Beverage, Inc. — Ramon S. Ang board bio",
+          "type": "official_company_source",
+          "trust_tier": "high"
+        },
+        "16": {
+          "domain": "goodreturns.in",
+          "title": "Ramon Ang Net Worth, Biography, Age, Spouse, Children & More",
+          "type": "third_party_business_data",
+          "trust_tier": "low"
+        }
+      },
+      "excluded_sources": [
+        {
+          "reason": "ai_generated_content",
+          "detail": "hutman.net 'Ramon Ang, President Of San Miguel Corporation' article excluded — generic/templated AI-style content with no verifiable sourcing; used only for cross-checking already-established facts, no unique claims accepted."
+        },
+        {
+          "reason": "unreliable_contact_broker",
+          "detail": "Net-worth aggregator sites (Goodreturns, similar) used only for award-list cross-checking, not for identity or role claims where stronger sources exist."
+        }
+      ],
+      "identity": {
+        "full_name": {
+          "value": "Ramon S. Ang (Ramon See Ang, 'RSA')",
+          "confidence": 0.95,
+          "sources": [
+            1,
+            2,
+            3
+          ]
+        },
+        "current_position": {
+          "value": "Chairman and Chief Executive Officer",
+          "confidence": 0.95,
+          "sources": [
+            1,
+            2,
+            3
+          ]
+        },
+        "current_company": {
+          "value": "San Miguel Corporation (SMC)",
+          "confidence": 0.95,
+          "sources": [
+            1,
+            2,
+            14
+          ]
+        },
+        "company_parent_group": {
+          "value": "Top Frontier Investment Holdings, Inc. (Ang is President & CEO of Top Frontier, SMC's largest shareholder)",
+          "confidence": 0.9,
+          "sources": [
+            1,
+            2
+          ]
+        },
+        "role_start_date": {
+          "value": "June 10/11, 2024 (Chairman & CEO of SMC, unifying the roles); gained control of SMC in 2012; President/COO since 2002",
+          "confidence": 0.85,
+          "sources": [
+            2,
+            3,
+            16
+          ]
+        },
+        "education": [
+          {
+            "degree": "Bachelor of Science in Mechanical Engineering",
+            "institution": "Far Eastern University",
+            "confidence": 0.85,
+            "sources": [
+              2,
+              16
+            ]
+          }
+        ]
+      },
+      "career_history": [
+        {
+          "role": "Entrepreneur (car/truck engine reconditioning, aluminum wheel sales)",
+          "org": "Self-employed, early career",
+          "confidence": 0.7,
+          "sources": [
+            4
+          ]
+        },
+        {
+          "role": "President, North Cement Corporation",
+          "org": "Under mentorship of Eduardo Cojuangco Jr.",
+          "confidence": 0.65,
+          "sources": [
+            4
+          ]
+        },
+        {
+          "role": "Vice Chairman",
+          "org": "San Miguel Corporation",
+          "year": 1999,
+          "confidence": 0.75,
+          "sources": [
+            16
+          ]
+        },
+        {
+          "role": "President & Chief Operating Officer",
+          "org": "San Miguel Corporation",
+          "year": 2002,
+          "confidence": 0.8,
+          "sources": [
+            16
+          ]
+        },
+        {
+          "role": "President & Chief Operating Officer",
+          "org": "Philippine Airlines",
+          "confidence": 0.75,
+          "sources": [
+            2
+          ],
+          "note": "April 2012 – October 2014"
+        },
+        {
+          "role": "Gained controlling stake / Chairman",
+          "org": "San Miguel Corporation",
+          "year": 2012,
+          "confidence": 0.85,
+          "sources": [
+            2,
+            4,
+            16
+          ]
+        },
+        {
+          "role": "President and Chief Executive Officer",
+          "org": "Top Frontier Investment Holdings, Inc.",
+          "year": 2012,
+          "confidence": 0.85,
+          "sources": [
+            1,
+            2
+          ]
+        },
+        {
+          "role": "Chairman and Chief Executive Officer (roles unified)",
+          "org": "San Miguel Corporation",
+          "year": 2024,
+          "confidence": 0.85,
+          "sources": [
+            2,
+            3
+          ]
+        }
+      ],
+      "awards": [
+        {
+          "award": "First Filipino named to Bloomberg 50 (global innovators list)",
+          "org": "Bloomberg",
+          "year": 2019,
+          "confidence": 0.85,
+          "sources": [
+            12
+          ]
+        },
+        {
+          "award": "People of the Year 2026",
+          "org": "PeopleAsia",
+          "year": 2026,
+          "confidence": 0.8,
+          "sources": [
+            11
+          ]
+        },
+        {
+          "award": "Ernst & Young Entrepreneur of the Year Philippines",
+          "org": "Ernst & Young",
+          "year": 2004,
+          "confidence": 0.6,
+          "sources": [
+            16
+          ],
+          "note": "single lower-tier source"
+        },
+        {
+          "award": "The Outstanding Filipino (TOFIL) Award in Business",
+          "year": 2007,
+          "confidence": 0.6,
+          "sources": [
+            16
+          ]
+        },
+        {
+          "award": "Asia's Best CEO",
+          "org": "Institutional Investor magazine",
+          "year": 2012,
+          "confidence": 0.6,
+          "sources": [
+            16
+          ]
+        },
+        {
+          "award": "Order of Sikatuna, rank of Grand Commander",
+          "org": "Republic of the Philippines",
+          "year": 2009,
+          "confidence": 0.7,
+          "sources": [
+            16
+          ]
+        }
+      ],
+      "leadership_style": {
+        "infrastructure_and_nation_building_focus": {
+          "value": true,
+          "confidence": 0.9,
+          "sources": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "note": "Extensive, repeated direct quotes on airport, toll road, and rail megaprojects framed explicitly around national economic development."
+        },
+        "operational_hands_on_execution": {
+          "value": true,
+          "confidence": 0.85,
+          "sources": [
+            5,
+            6,
+            8
+          ],
+          "note": "Personally details specific operational targets (runway timelines, parking capacity, off-ramp construction) rather than only high-level vision."
+        },
+        "growth_and_diversification_orientation": {
+          "value": true,
+          "confidence": 0.9,
+          "sources": [
+            4,
+            13
+          ],
+          "note": "Direct, decades-long track record of diversifying SMC from food/beverage into fuel, power, infrastructure, cement — personally credited as chief architect."
+        },
+        "risk_tolerant_dealmaker": {
+          "value": true,
+          "confidence": 0.75,
+          "sources": [
+            6,
+            13
+          ],
+          "note": "Willingly committed to a bigger NAIA terminal than contractually required 'without additional cost to the government,' per direct account."
+        },
+        "resilience_disaster_response_orientation": {
+          "value": true,
+          "confidence": 0.7,
+          "sources": [
+            7
+          ],
+          "note": "Direct commentary on flood mitigation, dredging, and disaster resilience investments."
+        },
+        "patriotic_public_facing_framing": {
+          "value": true,
+          "confidence": 0.75,
+          "sources": [
+            6,
+            7
+          ],
+          "note": "Repeatedly frames projects in terms of national pride and public benefit in direct quotes."
+        }
+      },
+      "strategic_priorities": [
+        {
+          "priority": "NAIA rehabilitation and modernization",
+          "detail": "P170-billion privatization contract; direct quotes on decongestion, new expressway off-ramp, terminal reassignments, and passenger capacity growth from 43M to 62M annually.",
+          "confidence": 0.9,
+          "sources": [
+            5,
+            6
+          ]
+        },
+        {
+          "priority": "New Manila International Airport (Bulacan) megaproject",
+          "detail": "P735-billion, four-runway airport; personally assured shareholders the first runway could complete ahead of the 2028 timeline.",
+          "confidence": 0.9,
+          "sources": [
+            8
+          ]
+        },
+        {
+          "priority": "Diversified infrastructure expansion (toll roads, rail, power, LNG)",
+          "detail": "Direct/company statements describing SMC's investments as addressing 'bottlenecks in mobility, productivity, and energy and food security.'",
+          "confidence": 0.85,
+          "sources": [
+            13
+          ]
+        },
+        {
+          "priority": "Food & Beverage manufacturing capacity expansion",
+          "detail": "Company-context evidence of the largest capacity expansion program in SMC's 129-year history at the time (breweries, feed mills, flour mills, poultry, ready-to-eat plant) and a P30-billion animal feed capacity expansion under San Miguel Foods & Beverage.",
+          "confidence": 0.7,
+          "sources": [
+            4,
+            12
+          ]
+        },
+        {
+          "priority": "Toll collection automation / AI-enabled infrastructure operations",
+          "detail": "Directly quoted announcing 522 AI-enabled ALPR cameras across SMC's 220km expressway network to enable barrier-less tolling.",
+          "confidence": 0.85,
+          "sources": [
+            9
+          ]
+        }
+      ],
+      "technology_interests": [
+        {
+          "topic": "Artificial Intelligence",
+          "evidence_strength": "direct_quote",
+          "confidence": 0.8,
+          "sources": [
+            9
+          ],
+          "note": "Ang personally explained how 'artificial intelligence (AI) and automation' cross-match motorist data in SMC's ALPR toll camera system — a specific, attributable statement, though scoped to tolling rather than manufacturing."
+        },
+        {
+          "topic": "Automation",
+          "evidence_strength": "direct_quote",
+          "confidence": 0.8,
+          "sources": [
+            9
+          ],
+          "note": "Same toll-camera announcement; direct personal quote on automation use."
+        },
+        {
+          "topic": "Data Analytics / Digital Transformation",
+          "evidence_strength": "company_context",
+          "confidence": 0.5,
+          "sources": [
+            10
+          ],
+          "note": "SMC's sustainability report describes an AI/analytics-driven digital transformation strategy (Thought Leadership Talks, predictive insights, process automation), but this is a company-level disclosure, not a direct Ang quote."
+        },
+        {
+          "topic": "Manufacturing Technology",
+          "evidence_strength": "company_context",
+          "confidence": 0.5,
+          "sources": [
+            4,
+            12
+          ],
+          "note": "Company-level evidence of new, modern manufacturing facilities (breweries, feed mills, food-processing plants); no direct Ang quote specifically on manufacturing technology found in sources reviewed."
+        },
+        {
+          "topic": "Infrastructure Technology (airport/toll systems engineering)",
+          "evidence_strength": "direct_executive_action",
+          "confidence": 0.85,
+          "sources": [
+            5,
+            6,
+            8
+          ],
+          "note": "Extensive direct, first-person operational detail on airport and expressway engineering projects."
+        },
+        {
+          "topic": "Sustainability Technology (renewable energy)",
+          "evidence_strength": "company_context",
+          "confidence": 0.55,
+          "sources": [
+            4
+          ],
+          "note": "Forbes reports SMC ramping up solar/renewables investment and dropping coal projects; attributed to the company/Ang as controlling shareholder rather than a direct personal quote."
+        },
+        {
+          "topic": "Cybersecurity",
+          "evidence_strength": "company_context",
+          "confidence": 0.4,
+          "sources": [
+            10
+          ],
+          "note": "SMC sustainability report cites cyber resilience as a digital transformation pillar; company-level, not a direct Ang statement."
+        }
+      ],
+      "event_signals": {
+        "interested_in_ai": {
+          "value": true,
+          "confidence": 0.7,
+          "sources": [
+            9
+          ],
+          "note": "Direct quote on AI-enabled toll cameras supports genuine personal engagement with AI in an operational/infrastructure context; broader manufacturing-AI interest remains company-context only."
+        },
+        "interested_in_digital_transformation": {
+          "value": "true",
+          "confidence": 0.55,
+          "sources": [
+            9,
+            10
+          ]
+        },
+        "interested_in_manufacturing_technology": {
+          "value": "unknown",
+          "confidence": 0.4,
+          "sources": [
+            4,
+            12
+          ],
+          "note": "Strong company-level manufacturing expansion evidence; no direct personal quote on manufacturing technology specifically."
+        },
+        "interested_in_infrastructure_technology": {
+          "value": true,
+          "confidence": 0.85,
+          "sources": [
+            5,
+            6,
+            8,
+            9
+          ]
+        },
+        "interested_in_supply_chain_technology": {
+          "value": "unknown",
+          "confidence": 0.3,
+          "note": "No direct or company evidence located specifically on supply-chain technology for SMC's food/beverage manufacturing arm attributable to Ang."
+        },
+        "interested_in_sustainability": {
+          "value": true,
+          "confidence": 0.6,
+          "sources": [
+            4,
+            7,
+            10
+          ]
+        }
+      },
+      "communication_style": {
+        "register": "formal_executive_with_populist_public_framing",
+        "traits": [
+          {
+            "trait": "operationally_specific",
+            "confidence": 0.85,
+            "sources": [
+              5,
+              6,
+              8
+            ],
+            "note": "Consistently cites concrete figures — timelines, capacity numbers, peso amounts — rather than only broad vision statements."
+          },
+          {
+            "trait": "confident_deadline_committing",
+            "confidence": 0.8,
+            "sources": [
+              7,
+              8
+            ],
+            "note": "Publicly commits to specific delivery dates ('two runways by December 2026') and expresses high confidence ('100 per cent, I have no doubt')."
+          },
+          {
+            "trait": "nation_building_framing",
+            "confidence": 0.75,
+            "sources": [
+              6,
+              7
+            ],
+            "note": "Frequently frames business decisions in terms of national pride and public benefit."
+          }
+        ]
+      },
+      "decision_profile": {
+        "innovation_appetite": {
+          "value": "high",
+          "confidence": 0.7,
+          "sources": [
+            9,
+            12
+          ]
+        },
+        "technology_adoption_posture": {
+          "value": "moderate-high",
+          "confidence": 0.6,
+          "sources": [
+            9,
+            10
+          ],
+          "note": "Direct evidence strongest in infrastructure/tolling AI; manufacturing-specific technology adoption is inferred/company-context."
+        },
+        "growth_orientation": {
+          "value": "very high",
+          "confidence": 0.9,
+          "sources": [
+            4,
+            13
+          ]
+        },
+        "risk_tolerance": {
+          "value": "high",
+          "confidence": 0.75,
+          "sources": [
+            6,
+            13
+          ],
+          "note": "Track record of large, capital-intensive bets (NAIA, NMIA, LNG, cement) and public over-delivery commitments."
+        },
+        "budget_influence": {
+          "value": "very high",
+          "confidence": 0.85,
+          "sources": [
+            1,
+            2
+          ],
+          "note": "Chairman/CEO and largest shareholder-aligned executive across a P1.5-trillion-revenue conglomerate."
+        },
+        "operational_focus": {
+          "value": "high",
+          "confidence": 0.85,
+          "sources": [
+            5,
+            6,
+            8
+          ]
+        },
+        "sustainability_orientation": {
+          "value": "moderate",
+          "confidence": 0.55,
+          "sources": [
+            4,
+            7,
+            10
+          ]
+        }
+      },
+      "explicit_unknowns": [
+        "No direct personal quote located specifically connecting Ang to AI or automation within SMC's food/beverage manufacturing operations (AI evidence found is scoped to toll/infrastructure operations)",
+        "Exact current full list of board memberships across the sprawling SMC group not independently re-verified beyond the sources reviewed",
+        "Specific manufacturing technology vendors or Industry 4.0 initiatives not attributable to Ang personally",
+        "Detailed sustainability/ESG targets and timelines not located in sources reviewed",
+        "Personal (as opposed to company-level) stance on generative AI, predictive maintenance, or IoT in manufacturing plants not established"
+      ],
+      "executive_keywords": [
+        "Infrastructure",
+        "Airports",
+        "Toll Roads",
+        "Diversified Conglomerate",
+        "Food & Beverage Manufacturing",
+        "Capacity Expansion",
+        "AI-Enabled Operations",
+        "Nation Building",
+        "Power & Energy",
+        "Megaprojects"
+      ],
+      "industry_tags": [
+        "Manufacturing",
+        "Food & Beverage",
+        "Infrastructure",
+        "Conglomerate",
+        "Energy",
+        "Philippines"
+      ],
+      "relationships": {
+        "board_memberships": [
+          "Chairman & CEO, San Miguel Corporation",
+          "President & CEO, Top Frontier Investment Holdings, Inc.",
+          "President & CEO, Petron Corporation",
+          "Chairman, Eagle Cement Corporation",
+          "Chairman, San Miguel Brewery Inc. / San Miguel Yamamura Packaging Corporation",
+          "Chairman & CEO, SMC Global Power Holdings Corp.",
+          "Director, Metro Pacific Investments Corporation",
+          "Chairman & CEO, New NAIA Infrastructure Corporation"
+        ],
+        "industry_organizations": []
+      },
+      "merge_notes_for_trust_engine": {
+        "primary_confidence_drivers": [
+          "identity (multiple high-trust sources, consistent across WEF, MPIC board bio, Wikipedia)",
+          "infrastructure strategic priorities (extensive direct quotes, high-trust news sources)",
+          "AI/automation in toll operations (direct, attributable, specific quote)"
+        ],
+        "secondary_lower_weight": [
+          "Manufacturing-specific technology interest — mostly company-context (capacity expansion investments), not direct personal statements",
+          "Sustainability orientation — mixed direct/company evidence, moderate confidence only"
+        ],
+        "recommendation": "Strong match for Infrastructure Technology and AI/Automation event themes (direct evidence from toll operations). Reasonable but not confirmed match for Manufacturing Technology and Supply Chain Technology themes for the Food & Beverage side of SMC — treat as company-context strength, not confirmed personal interest, unless further direct evidence (e.g., a Food & Beverage-specific interview) is found."
+      }
+    },
+    {
+      "executive_intelligence_object_version": "1.0",
+      "entry_status": "verified_curated",
+      "source_registry": {
+        "1": {
+          "domain": "centurypacific.com.ph",
+          "title": "Board of Directors - Century Pacific Food Inc.",
+          "type": "official_company_source",
+          "trust_tier": "high",
+          "date": "2025-06-09"
+        },
+        "2": {
+          "domain": "sec.gov / centurypacific.com.ph",
+          "title": "SEC Form 17-A Century Pacific Food, Inc. Annual Report (FY2022)",
+          "type": "regulatory_source",
+          "trust_tier": "high",
+          "date": "2023-04-14"
+        },
+        "3": {
+          "domain": "mb.com.ph",
+          "title": "Century Pacific confident of double-digit sales, profit growth despite global challenges",
+          "type": "third_party_news",
+          "trust_tier": "high",
+          "date": "2026-07-01"
+        },
+        "4": {
+          "domain": "centurypacific.com.ph",
+          "title": "CNPF Corporate Presentation, January 2021",
+          "type": "official_company_source",
+          "trust_tier": "high"
+        },
+        "5": {
+          "domain": "centurypacific.com.ph",
+          "title": "Sustainability - Century Pacific Food Inc. (CEO/Chairman joint statement)",
+          "type": "official_company_source",
+          "trust_tier": "high",
+          "date": "2024-06-30"
+        },
+        "6": {
+          "domain": "centurypacific.com.ph",
+          "title": "CPFI 2025 Annual & Sustainability Report",
+          "type": "annual_report",
+          "trust_tier": "high",
+          "date": "2026-06-30"
+        },
+        "7": {
+          "domain": "en.wikipedia.org",
+          "title": "Century Pacific Food",
+          "type": "encyclopedic_reference",
+          "trust_tier": "medium"
+        },
+        "8": {
+          "domain": "forbes.com",
+          "title": "Philippine Billionaire Ricardo Po, Founder Of Century Pacific Food, Dies At Age 90",
+          "type": "third_party_news",
+          "trust_tier": "high",
+          "date": "2024-10-16"
+        },
+        "9": {
+          "domain": "philstar.com",
+          "title": "Chris Po steps down as chairman, president and CEO of Century Pacific",
+          "type": "third_party_news",
+          "trust_tier": "high",
+          "date": "2018-03-14"
+        },
+        "10": {
+          "domain": "inclusivecapitalism.com",
+          "title": "Century Pacific Food, Inc. — Council for Inclusive Capitalism member profile",
+          "type": "industry_organization",
+          "trust_tier": "medium",
+          "date": "2023-03-30"
+        },
+        "11": {
+          "domain": "sec.gov",
+          "title": "Endeavor Acquisition Corp. Form S-1 (Christopher Po biography, cross-reference)",
+          "type": "regulatory_source",
+          "trust_tier": "high"
+        }
+      },
+      "excluded_sources": [
+        {
+          "reason": "identity_role_conflict",
+          "detail": "Wikipedia's infobox lists Teodoro Alexander T. Po as 'Chairman, President & CEO,' but higher-trust official sources (Board of Directors page, SEC 17-A filing) consistently show Christopher T. Po as Executive Chairman and Teodoro Alexander T. Po as Vice Chairman, President & CEO. The official/regulatory sources are treated as authoritative; the Wikipedia chairman title is flagged as a probable error and not used for the identity.chairman claim."
+        },
+        {
+          "reason": "unreliable_contact_broker",
+          "detail": "ZoomInfo profile listing 'Teodoro T. Po' as 'Co-Vice Chairman and EVP/COO at Century Pacific Agricultural Ventures Inc' excluded from the core identity claim — appears to conflate a related-entity title; not used where it conflicts with official CNPF board/SEC sources."
+        }
+      ],
+      "identity": {
+        "full_name": {
+          "value": "Teodoro Alexander T. Po",
+          "confidence": 0.95,
+          "sources": [
+            1,
+            2
+          ]
+        },
+        "current_position": {
+          "value": "Vice Chairman, President & Chief Executive Officer",
+          "confidence": 0.9,
+          "sources": [
+            1,
+            2
+          ],
+          "note": "Official board and SEC filing sources both title him Vice Chairman/President/CEO, not Executive Chairman; Christopher T. Po holds the Executive Chairman title. This differs from a Wikipedia infobox entry — see excluded_sources."
+        },
+        "current_company": {
+          "value": "Century Pacific Food, Inc. (CNPF)",
+          "confidence": 0.95,
+          "sources": [
+            1,
+            7
+          ]
+        },
+        "company_parent_group": {
+          "value": "Century Pacific Group, Inc. / Po family",
+          "confidence": 0.85,
+          "sources": [
+            7,
+            8
+          ]
+        },
+        "role_start_date": {
+          "value": "First elected to current role October 28, 2013; re-elected as Vice Chairman, President & CEO on July 6, 2023 (also re-elected June 30, 2022); became President and CEO in 2018 succeeding brother Christopher Po",
+          "confidence": 0.85,
+          "sources": [
+            1,
+            2,
+            9
+          ]
+        },
+        "education": [
+          {
+            "degree": "B.S. in Manufacturing Engineering (summa cum laude)",
+            "institution": "Boston University",
+            "year": 1990,
+            "confidence": 0.9,
+            "sources": [
+              1,
+              2
+            ]
+          },
+          {
+            "degree": "Owner-President Management Program (Executive Education)",
+            "institution": "Harvard Business School",
+            "confidence": 0.85,
+            "sources": [
+              1,
+              2
+            ]
+          }
+        ]
+      },
+      "career_history": [
+        {
+          "role": "Various operating positions within CNPF (since joining the family business)",
+          "org": "Century Pacific Food / Century Canning Corporation",
+          "year": 1990,
+          "confidence": 0.75,
+          "sources": [
+            1,
+            2
+          ]
+        },
+        {
+          "role": "President and Chief Executive Officer",
+          "org": "Century Pacific Food, Inc.",
+          "year": 2018,
+          "confidence": 0.85,
+          "sources": [
+            9
+          ],
+          "note": "Succeeded brother Christopher T. Po, who moved to Executive Chairman, as part of the company's expansion/succession plans."
+        },
+        {
+          "role": "Vice Chairman, Shakey's Pizza Asia Ventures, Inc. (PSE: PIZZA)",
+          "confidence": 0.85,
+          "sources": [
+            1
+          ]
+        }
+      ],
+      "awards": [
+        {
+          "award": "Golden Arrow Award (ASEAN Corporate Governance Scorecard)",
+          "org": "Institute of Corporate Directors (ICD)",
+          "confidence": 0.75,
+          "sources": [
+            5
+          ],
+          "note": "Company-level governance award; recognized under Po/family leadership."
+        }
+      ],
+      "leadership_style": {
+        "capacity_expansion_focus": {
+          "value": true,
+          "confidence": 0.85,
+          "sources": [
+            3
+          ],
+          "note": "Directly and personally quoted committing to maintaining P8–9 billion in capex — nearly double the typical annual budget — to expand production capacity across most product lines."
+        },
+        "structural_growth_conviction": {
+          "value": true,
+          "confidence": 0.85,
+          "sources": [
+            3
+          ],
+          "note": "Direct quote framing Philippine demand for affordable nutrition as 'not a cyclical story, it's a structural one,' tied to population growth and rising incomes."
+        },
+        "sustainability_orientation": {
+          "value": true,
+          "confidence": 0.75,
+          "sources": [
+            5,
+            6
+          ],
+          "note": "Co-signed (with Christopher Po) sustainability strategy statements framing sustainability as core to business longevity."
+        },
+        "family_business_operator": {
+          "value": true,
+          "confidence": 0.85,
+          "sources": [
+            1,
+            8,
+            9
+          ],
+          "note": "Career entirely within the family conglomerate since 1990; succession into CEO role in 2018 was a family/board decision."
+        },
+        "manufacturing_engineering_background": {
+          "value": true,
+          "confidence": 0.9,
+          "sources": [
+            1,
+            2
+          ],
+          "note": "Formally trained in Manufacturing Engineering (Boston University), distinguishing his technical grounding among the four executives in this cohort."
+        }
+      },
+      "strategic_priorities": [
+        {
+          "priority": "Production capacity expansion across product lines",
+          "detail": "Personally committed to P8–9 billion capex in 2026 (nearly double typical annual spend) to expand capacity across most product lines nearing full utilization, on both branded and OEM (original equipment manufacturer) sides.",
+          "confidence": 0.85,
+          "sources": [
+            3
+          ]
+        },
+        {
+          "priority": "Structural (non-cyclical) domestic demand growth",
+          "detail": "Direct quote framing growth as driven by population growth and rising incomes rather than short-term cyclicality.",
+          "confidence": 0.85,
+          "sources": [
+            3
+          ]
+        },
+        {
+          "priority": "OEM (contract manufacturing) and export growth",
+          "detail": "Directly referenced double-digit growth on both branded and OEM sides despite a Mindanao earthquake disrupting General Santos City canning operations.",
+          "confidence": 0.75,
+          "sources": [
+            3
+          ]
+        },
+        {
+          "priority": "Sustainable and responsible manufacturing / supply chain",
+          "detail": "Company sustainability reporting (co-signed statements) ties resilient supply chains and 'more responsible manufacturing' to business results, including smallholder fisherfolk engagement reducing fish rejection rates from 13% to 3%.",
+          "confidence": 0.65,
+          "sources": [
+            5,
+            6
+          ],
+          "note": "Statements are jointly signed by Executive Chairman Christopher Po and Po; attribution to Teodoro Po individually is moderate confidence."
+        },
+        {
+          "priority": "Coconut water / dairy / diversified categories growth",
+          "detail": "Company entered a multiyear contract to supply Vita Coco with 90 million liters of coconut water through 2029, requiring a $40 million capex and creating 1,500 manufacturing jobs.",
+          "confidence": 0.6,
+          "sources": [
+            7
+          ],
+          "note": "Company-level disclosure; not a direct Po quote."
+        }
+      ],
+      "technology_interests": [
+        {
+          "topic": "Manufacturing Capacity / Production Technology",
+          "evidence_strength": "direct_quote",
+          "confidence": 0.75,
+          "sources": [
+            3
+          ],
+          "note": "Direct, personal, and recent (2026) quote committing significant capex specifically to expand production capacity."
+        },
+        {
+          "topic": "Artificial Intelligence",
+          "evidence_strength": "unknown",
+          "confidence": 0.15,
+          "sources": [],
+          "note": "No direct personal statement on AI located. Company's 2025 Annual & Sustainability Report references 'increasing adoption of AI' only as a macro/industry trend observation in the CEO/Chairman letter, not as a company-specific initiative attributable to Po."
+        },
+        {
+          "topic": "Digital Transformation",
+          "evidence_strength": "unknown",
+          "confidence": 0.15,
+          "sources": [],
+          "note": "No direct quote or company-specific initiative located attributable to Po."
+        },
+        {
+          "topic": "Sustainability Technology / Responsible Manufacturing",
+          "evidence_strength": "company_initiative",
+          "confidence": 0.55,
+          "sources": [
+            5,
+            6
+          ],
+          "note": "Company-level sustainability reporting co-signed by Po describes supply chain and manufacturing responsibility initiatives (e.g., fish rejection rate reduction), but these are joint statements with the Executive Chairman, not individually attributable direct quotes."
+        },
+        {
+          "topic": "Supply Chain Technology",
+          "evidence_strength": "company_context",
+          "confidence": 0.45,
+          "sources": [
+            5,
+            6
+          ],
+          "note": "Company sustainability materials describe resilient supply chain initiatives; not individually attributed to Po with a direct quote."
+        },
+        {
+          "topic": "Export / OEM Manufacturing Systems",
+          "evidence_strength": "direct_quote",
+          "confidence": 0.6,
+          "sources": [
+            3
+          ],
+          "note": "Direct personal reference to OEM-side growth and capacity, though not a specific technology claim."
+        }
+      ],
+      "event_signals": {
+        "interested_in_ai": {
+          "value": "unknown",
+          "confidence": 0.15,
+          "note": "No direct or company-specific evidence found; company report references AI only as a macro trend, not a Po-attributed initiative."
+        },
+        "interested_in_digital_transformation": {
+          "value": "unknown",
+          "confidence": 0.15,
+          "note": "No evidence located."
+        },
+        "interested_in_manufacturing_technology": {
+          "value": true,
+          "confidence": 0.7,
+          "sources": [
+            3
+          ],
+          "note": "Direct evidence via capex commitment specifically for production capacity expansion; formal Manufacturing Engineering degree adds background plausibility (inferred, not evidence of current personal interest in specific technologies)."
+        },
+        "interested_in_supply_chain_technology": {
+          "value": "unknown",
+          "confidence": 0.35,
+          "sources": [
+            5,
+            6
+          ],
+          "note": "Company-context only."
+        },
+        "interested_in_sustainability": {
+          "value": true,
+          "confidence": 0.65,
+          "sources": [
+            5,
+            6
+          ]
+        }
+      },
+      "communication_style": {
+        "register": "formal_executive_investor_focused",
+        "traits": [
+          {
+            "trait": "financial_metrics_oriented",
+            "confidence": 0.75,
+            "sources": [
+              3
+            ],
+            "note": "Direct quotes emphasize specific capex figures, growth percentages, and quarter-over-quarter comparisons."
+          },
+          {
+            "trait": "structural_long_term_framing",
+            "confidence": 0.7,
+            "sources": [
+              3
+            ],
+            "note": "Frames business drivers in terms of long-term demographic/structural trends rather than short-term cyclicality."
+          }
+        ]
+      },
+      "decision_profile": {
+        "innovation_appetite": {
+          "value": "unknown",
+          "confidence": 0.2,
+          "note": "Insufficient direct evidence to assess."
+        },
+        "technology_adoption_posture": {
+          "value": "unknown",
+          "confidence": 0.25,
+          "note": "Only capacity-expansion capex evidence found; no direct statement on specific technology adoption posture."
+        },
+        "growth_orientation": {
+          "value": "high",
+          "confidence": 0.8,
+          "sources": [
+            3
+          ]
+        },
+        "budget_influence": {
+          "value": "high",
+          "confidence": 0.75,
+          "inferred": true,
+          "note": "Inferred from role as President/CEO overseeing a multi-billion-peso capex program he personally announced."
+        },
+        "operational_focus": {
+          "value": "high",
+          "confidence": 0.7,
+          "sources": [
+            3
+          ],
+          "note": "Direct commentary on production capacity utilization and operational disruptions (earthquake impact on canning operations)."
+        },
+        "sustainability_orientation": {
+          "value": "moderate",
+          "confidence": 0.55,
+          "sources": [
+            5,
+            6
+          ]
+        },
+        "risk_orientation": {
+          "value": "moderate",
+          "confidence": 0.45,
+          "sources": [
+            3
+          ],
+          "inferred": true,
+          "note": "Inferred from maintaining an aggressive capex plan despite acknowledging a 'challenging operating environment.'"
+        }
+      },
+      "explicit_unknowns": [
+        "No direct personal statement on artificial intelligence found; company report references AI only as a general industry trend, not a Po-led initiative",
+        "No direct personal statement on digital transformation strategy found",
+        "Conflicting public records on exact title: Wikipedia lists him as 'Chairman,' while official board/SEC sources consistently list him as 'Vice Chairman, President & CEO' with Christopher T. Po as Executive Chairman — treated as an identity/title conflict per research rules",
+        "Specific technology vendors, ERP systems, or automation platforms used at CNPF manufacturing plants not attributable to Po",
+        "Detailed sustainability targets and timelines beyond the cited fish-rejection-rate metric not located",
+        "Personal (vs. company/joint) views on innovation and R&D investment not established"
+      ],
+      "executive_keywords": [
+        "Manufacturing Engineering",
+        "Capacity Expansion",
+        "Food Processing",
+        "OEM Manufacturing",
+        "Canned Foods",
+        "Structural Growth",
+        "Sustainable Supply Chain",
+        "Family Business",
+        "Export Growth"
+      ],
+      "industry_tags": [
+        "Manufacturing",
+        "Food Manufacturing",
+        "Food Processing",
+        "Consumer Goods",
+        "Philippines"
+      ],
+      "relationships": {
+        "board_memberships": [
+          "Vice Chairman, President & CEO, Century Pacific Food, Inc.",
+          "Vice Chairman, Shakey's Pizza Asia Ventures, Inc. (PSE: PIZZA)"
+        ],
+        "industry_organizations": [
+          "Council for Inclusive Capitalism (company member)"
+        ]
+      },
+      "merge_notes_for_trust_engine": {
+        "primary_confidence_drivers": [
+          "identity (official board of directors page and SEC 17-A filing — both high-trust, mutually consistent)",
+          "capacity expansion strategic priority (direct, recent — 2026 — personal quote)",
+          "Manufacturing Engineering educational background (official source, directly relevant to Manufacturing persona fit)"
+        ],
+        "secondary_lower_weight": [
+          "AI and digital transformation interest — essentially unevidenced; do not use as a technology-fit driver",
+          "Sustainability priorities — largely joint statements with Executive Chairman Christopher Po, not individually distinguishable"
+        ],
+        "recommendation": "Strong match for Manufacturing Technology / Capacity Expansion event themes given direct, recent, quantified capex commitments and a formal manufacturing engineering background. Do NOT claim AI or digital-transformation interest for this executive — evidence is currently absent. Also flag the Chairman-vs-Vice-Chairman title conflict for downstream verification before external-facing use."
+      }
+    },
+    {
+      "executive_intelligence_object_version": "1.0",
+      "entry_status": "verified_curated",
+      "source_registry": {
+        "1": {
+          "domain": "theorg.com",
+          "title": "Henry Soesanto - Director, EVP & CEO at Monde Nissin Corporation",
+          "type": "third_party_business_data",
+          "trust_tier": "medium"
+        },
+        "2": {
+          "domain": "esquiremag.ph",
+          "title": "Henry Soesanto, CEO of Monde Nissin: Business Profile",
+          "type": "third_party_news",
+          "trust_tier": "medium",
+          "date": "2024-06-26"
+        },
+        "3": {
+          "domain": "forbes.com",
+          "title": "Henry Soesanto — Forbes profile",
+          "type": "third_party_business_data",
+          "trust_tier": "high"
+        },
+        "4": {
+          "domain": "business.inquirer.net",
+          "title": "Monde Nissin CEO builds game-changing brands",
+          "type": "third_party_news",
+          "trust_tier": "high",
+          "date": "2021-06-11"
+        },
+        "5": {
+          "domain": "en.wikipedia.org",
+          "title": "Monde Nissin",
+          "type": "encyclopedic_reference",
+          "trust_tier": "medium"
+        },
+        "6": {
+          "domain": "manilastandard.net",
+          "title": "Monde Nissin spending P7.53 billion for expansion, new biscuit plant",
+          "type": "third_party_news",
+          "trust_tier": "high",
+          "date": "2026-04-05"
+        },
+        "7": {
+          "domain": "bilyonaryo.com",
+          "title": "Betty Ang's Monde Nissin hikes capex 60% to P7.5B, mostly for new biscuit plant",
+          "type": "third_party_news",
+          "trust_tier": "medium",
+          "date": "2026-04-06"
+        },
+        "8": {
+          "domain": "bilyonaryo.com",
+          "title": "Betty Ang's Monde Nissin eyes P5 billion sales boost from new Luzon biscuit hub",
+          "type": "third_party_news",
+          "trust_tier": "medium",
+          "date": "2026-05-07"
+        },
+        "9": {
+          "domain": "philstar.com",
+          "title": "Monde Nissin to build new biscuit plant, sets P7.5 billion capex",
+          "type": "third_party_news",
+          "trust_tier": "high",
+          "date": "2025-03-31"
+        },
+        "10": {
+          "domain": "pna.gov.ph",
+          "title": "Monde Nissin aims to open new Luzon biscuit plant in next 2 years",
+          "type": "third_party_news",
+          "trust_tier": "high",
+          "date": "2025-05-15"
+        },
+        "11": {
+          "domain": "mondenissin.com",
+          "title": "Monde Nissin Corporation (MONDE) 9M 2025 Earnings Call Transcript",
+          "type": "official_company_source",
+          "trust_tier": "high",
+          "date": "2025-11-05"
+        },
+        "12": {
+          "domain": "grokipedia.com",
+          "title": "Monde Nissin — Grokipedia",
+          "type": "third_party_business_data",
+          "trust_tier": "low"
+        },
+        "13": {
+          "domain": "marketscreener.com",
+          "title": "Henry Soesanto: Positions, Relations and Network",
+          "type": "third_party_financial_data",
+          "trust_tier": "medium"
+        }
+      },
+      "excluded_sources": [
+        {
+          "reason": "ai_generated_content",
+          "detail": "Grokipedia article used with caution (low trust tier) — only used for a manufacturing-facility location list that is independently plausible and non-controversial; not used for any quote, financial figure, or identity claim."
+        },
+        {
+          "reason": "unreliable_contact_broker",
+          "detail": "PitchBook and Crunchbase investor-profile pages excluded from factual claims beyond basic role confirmation."
+        }
+      ],
+      "identity": {
+        "full_name": {
+          "value": "Henry Soesanto (Henry Kahayu Soesanto)",
+          "confidence": 0.9,
+          "sources": [
+            1,
+            13
+          ]
+        },
+        "current_position": {
+          "value": "Chief Executive Officer, Executive Vice President & Director",
+          "confidence": 0.9,
+          "sources": [
+            1,
+            5,
+            11
+          ]
+        },
+        "current_company": {
+          "value": "Monde Nissin Corporation",
+          "confidence": 0.95,
+          "sources": [
+            1,
+            5
+          ]
+        },
+        "company_parent_group": {
+          "value": "Monde M.Y. San Corporation (holding company); Darmono/Kweefanus family controlling shareholders",
+          "confidence": 0.75,
+          "sources": [
+            1,
+            5
+          ]
+        },
+        "role_start_date": {
+          "value": "Not precisely established; has led Monde Nissin's business development since joining the Darmono family business decades ago and built the noodle business in the late 1980s",
+          "confidence": 0.5,
+          "sources": [
+            4
+          ],
+          "note": "No single official source gives an exact CEO appointment date."
+        },
+        "education": [
+          {
+            "degree": "B.S. in Chemical Engineering",
+            "institution": "Institute of Technology, Surabaya (Institut Teknologi Sepuluh Nopember), Indonesia",
+            "confidence": 0.85,
+            "sources": [
+              1,
+              13
+            ]
+          },
+          {
+            "degree": "Plant-Based Nutrition Certificate Program",
+            "institution": "eCornell (Cornell University)",
+            "confidence": 0.8,
+            "sources": [
+              1
+            ]
+          }
+        ]
+      },
+      "career_history": [
+        {
+          "role": "Ran biscuit factory; convinced father-in-law Hidajat Darmono to enter instant-noodle production",
+          "org": "Monde Nissin (predecessor: Monde Denmark Nissin Biscuit Corporation)",
+          "confidence": 0.8,
+          "sources": [
+            4
+          ]
+        },
+        {
+          "role": "Built and led the Lucky Me! instant noodle business from launch (1989) against Nestlé's Maggi and URC's Nissin Ramen",
+          "org": "Monde Nissin",
+          "confidence": 0.85,
+          "sources": [
+            4
+          ]
+        },
+        {
+          "role": "President",
+          "org": "Monde M.Y. San Corporation",
+          "confidence": 0.8,
+          "sources": [
+            1,
+            13
+          ]
+        },
+        {
+          "role": "Chief Executive Officer, Executive Vice President & Director",
+          "org": "Monde Nissin Corporation",
+          "confidence": 0.9,
+          "sources": [
+            1,
+            5,
+            11
+          ]
+        }
+      ],
+      "awards": [],
+      "leadership_style": {
+        "founder_practitioner_mindset": {
+          "value": true,
+          "confidence": 0.85,
+          "sources": [
+            4
+          ],
+          "note": "Personally identified and championed the noodle-production-line opportunity that created Monde Nissin's flagship Lucky Me! brand; hands-on operator of the biscuit factory earlier in career."
+        },
+        "capacity_expansion_focus": {
+          "value": true,
+          "confidence": 0.8,
+          "sources": [
+            6,
+            7,
+            9
+          ],
+          "note": "Personally commented on domestic revenue growth expectations tied to major capex/new plant investment cycle."
+        },
+        "plant_based_health_conviction": {
+          "value": true,
+          "confidence": 0.85,
+          "sources": [
+            4
+          ],
+          "note": "Personally adopted a vegan lifestyle for health reasons (hypertension/heart issues in his 40s) and pursued formal plant-based nutrition education, directly preceding Monde Nissin's 2015 acquisition of Quorn."
+        },
+        "cautious_margin_management": {
+          "value": true,
+          "confidence": 0.75,
+          "sources": [
+            8
+          ],
+          "note": "Direct quote: considering price increases 'very, very cautiously' to protect margins without over-burdening price-sensitive consumers."
+        },
+        "family_business_operator": {
+          "value": true,
+          "confidence": 0.8,
+          "sources": [
+            4
+          ],
+          "note": "Married into the founding Darmono family; built career within the family enterprise over more than four decades."
+        }
+      },
+      "strategic_priorities": [
+        {
+          "priority": "New biscuit manufacturing plant (northern Luzon)",
+          "detail": "Directly tied to Soesanto's CEO commentary on 2026 capex of P7.53 billion (later revised toward ~P6.48B), with the bulk allocated to a new automated biscuit plant expected to begin partial operations in 2026/2027.",
+          "confidence": 0.8,
+          "sources": [
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "priority": "Domestic branded food & beverage growth",
+          "detail": "Personally projected mid to high-single-digit domestic revenue growth for Q1 2026 and commented on agile management of macro/geopolitical volatility.",
+          "confidence": 0.8,
+          "sources": [
+            6
+          ]
+        },
+        {
+          "priority": "Margin protection amid commodity cost volatility",
+          "detail": "Direct quote on cautious pricing strategy and securing near-term supply of wheat, palm oil, and coconut oil.",
+          "confidence": 0.8,
+          "sources": [
+            8
+          ]
+        },
+        {
+          "priority": "Meat-alternative (Quorn) business turnaround",
+          "detail": "Personally pledged part of his and his family's fortune to support Quorn amid mounting losses and a UK write-down; company data shows continued Quorn transformation/cost-saving investment.",
+          "confidence": 0.75,
+          "sources": [
+            3,
+            7
+          ]
+        },
+        {
+          "priority": "Plant-based / healthier product portfolio",
+          "detail": "Personal, long-standing conviction (own vegan lifestyle, formal plant-based nutrition study) underlying the strategic rationale for the 2015 Quorn acquisition.",
+          "confidence": 0.75,
+          "sources": [
+            4
+          ]
+        }
+      ],
+      "technology_interests": [
+        {
+          "topic": "Manufacturing Automation",
+          "evidence_strength": "company_initiative",
+          "confidence": 0.5,
+          "sources": [
+            12
+          ],
+          "note": "A new automated biscuit factory in northern Luzon is described in company/secondary sources; not a direct Soesanto quote specifically about automation technology."
+        },
+        {
+          "topic": "Manufacturing Capacity / Production Technology",
+          "evidence_strength": "direct_quote",
+          "confidence": 0.65,
+          "sources": [
+            6,
+            8
+          ],
+          "note": "Direct, recent (2026) personal commentary tied to the capex-funded plant expansion, though the quotes focus on financial/commercial framing rather than the technology itself."
+        },
+        {
+          "topic": "Artificial Intelligence",
+          "evidence_strength": "unknown",
+          "confidence": 0.1,
+          "sources": [],
+          "note": "No direct or company-level evidence located attributing AI interest or initiatives to Soesanto or Monde Nissin."
+        },
+        {
+          "topic": "Digital Transformation",
+          "evidence_strength": "unknown",
+          "confidence": 0.1,
+          "sources": [],
+          "note": "No evidence located."
+        },
+        {
+          "topic": "Food Science / Plant-Based Technology",
+          "evidence_strength": "direct_executive_action",
+          "confidence": 0.7,
+          "sources": [
+            4
+          ],
+          "note": "Directly and personally pursued formal plant-based nutrition education and championed the Quorn (mycoprotein) acquisition, reflecting genuine personal engagement with food technology in the alternative-protein space."
+        },
+        {
+          "topic": "Supply Chain / Commodity Risk Management",
+          "evidence_strength": "direct_quote",
+          "confidence": 0.6,
+          "sources": [
+            8
+          ],
+          "note": "Direct quote on securing commodity supply positions (wheat, palm oil, coconut oil) via contracts and hedges."
+        }
+      ],
+      "event_signals": {
+        "interested_in_ai": {
+          "value": "unknown",
+          "confidence": 0.1,
+          "note": "No evidence located; do not infer from general manufacturing-sector AI trends."
+        },
+        "interested_in_digital_transformation": {
+          "value": "unknown",
+          "confidence": 0.1,
+          "note": "No evidence located."
+        },
+        "interested_in_manufacturing_technology": {
+          "value": true,
+          "confidence": 0.6,
+          "sources": [
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "note": "Strong, recent, repeated evidence of personal engagement with a major new automated plant investment, though quotes are commercially framed rather than technology-detail framed."
+        },
+        "interested_in_supply_chain_technology": {
+          "value": "unknown",
+          "confidence": 0.35,
+          "sources": [
+            8
+          ],
+          "note": "Direct evidence of supply/commodity risk management, but not specifically of supply-chain technology systems."
+        },
+        "interested_in_food_technology_plant_based": {
+          "value": true,
+          "confidence": 0.75,
+          "sources": [
+            4
+          ],
+          "note": "Strong personal, direct evidence via lifestyle choice, formal education, and the Quorn acquisition rationale."
+        },
+        "interested_in_sustainability": {
+          "value": "unknown",
+          "confidence": 0.3,
+          "sources": [
+            4
+          ],
+          "note": "Plant-based/health motivation is well evidenced; broader corporate ESG/sustainability engagement by Soesanto personally is not clearly evidenced beyond the Quorn connection."
+        }
+      },
+      "communication_style": {
+        "register": "founder_practitioner_investor_facing",
+        "traits": [
+          {
+            "trait": "financially_cautious_and_measured",
+            "confidence": 0.75,
+            "sources": [
+              8
+            ],
+            "note": "Direct quotes emphasize caution ('very, very cautiously') around pricing and consumer impact."
+          },
+          {
+            "trait": "personal_conviction_driven",
+            "confidence": 0.75,
+            "sources": [
+              4
+            ],
+            "note": "Willing to speak personally and specifically about health/lifestyle motivations behind major business decisions (Quorn acquisition rationale)."
+          },
+          {
+            "trait": "investor_call_participant",
+            "confidence": 0.6,
+            "sources": [
+              11
+            ],
+            "note": "Directly participates in quarterly earnings calls alongside CFO and Quorn leadership."
+          }
+        ]
+      },
+      "decision_profile": {
+        "innovation_appetite": {
+          "value": "moderate",
+          "confidence": 0.55,
+          "sources": [
+            4
+          ],
+          "inferred": true,
+          "note": "Inferred from historical willingness to enter new categories (noodles, then plant-based/Quorn) though current evidence is stronger on legacy category expansion (biscuits) than on new technology adoption."
+        },
+        "technology_adoption_posture": {
+          "value": "unknown",
+          "confidence": 0.25,
+          "note": "Insufficient direct evidence on general technology adoption; food-technology (plant-based) posture is the one well-evidenced exception."
+        },
+        "growth_orientation": {
+          "value": "moderate-high",
+          "confidence": 0.65,
+          "sources": [
+            6,
+            8
+          ]
+        },
+        "budget_influence": {
+          "value": "high",
+          "confidence": 0.7,
+          "inferred": true,
+          "note": "Inferred from CEO role commenting directly on multi-billion-peso capex allocation."
+        },
+        "operational_focus": {
+          "value": "high",
+          "confidence": 0.65,
+          "sources": [
+            6,
+            8
+          ]
+        },
+        "risk_orientation": {
+          "value": "cautious/moderate",
+          "confidence": 0.6,
+          "sources": [
+            8
+          ],
+          "note": "Direct quote reflects caution on pricing decisions and margin protection amid volatility."
+        },
+        "personal_conviction_orientation": {
+          "value": "high",
+          "confidence": 0.7,
+          "sources": [
+            4
+          ],
+          "note": "Distinctive among this cohort — a personal health/lifestyle conviction is directly and traceably linked to a major strategic acquisition (Quorn)."
+        }
+      },
+      "explicit_unknowns": [
+        "No direct or company-level evidence located on artificial intelligence interest or initiatives",
+        "No direct evidence located on digital transformation strategy",
+        "Exact date Soesanto assumed the CEO title is not established in sources reviewed",
+        "Specific automation technology/vendors used in the new northern Luzon biscuit plant not attributable to Soesanto personally",
+        "Current board memberships beyond the Monde group subsidiaries listed in profile sources not independently verified",
+        "Personal stance on cybersecurity, cloud, or data analytics not established"
+      ],
+      "executive_keywords": [
+        "Food Manufacturing",
+        "Biscuit Manufacturing",
+        "Instant Noodles",
+        "Plant-Based Food",
+        "Capacity Expansion",
+        "Quorn",
+        "Commodity Risk Management",
+        "Family Business",
+        "Consumer Packaged Goods"
+      ],
+      "industry_tags": [
+        "Manufacturing",
+        "Food Manufacturing",
+        "Consumer Goods",
+        "Plant-Based Food",
+        "Philippines"
+      ],
+      "relationships": {
+        "board_memberships": [
+          "CEO, EVP & Director, Monde Nissin Corporation",
+          "President, Monde M.Y. San Corporation",
+          "Director, multiple Monde Nissin international subsidiaries (Singapore, UK, New Zealand, Thailand, etc.)"
+        ],
+        "industry_organizations": []
+      },
+      "merge_notes_for_trust_engine": {
+        "primary_confidence_drivers": [
+          "identity (consistent across org chart, Bloomberg, MarketScreener, and Wikipedia)",
+          "plant-based/food technology interest (strong, direct, personal, multi-source evidence tied to the Quorn acquisition)",
+          "capacity expansion strategic priority (recent, repeated, direct commentary across five independent 2025-2026 news sources)"
+        ],
+        "secondary_lower_weight": [
+          "AI and digital transformation — no evidence found; do not use as a technology-fit driver",
+          "Manufacturing automation specifically — evidence is mostly company-level (new automated plant) rather than a direct Soesanto quote about the technology itself"
+        ],
+        "recommendation": "Strong match for Food Technology / Plant-Based Innovation event themes given rare, well-evidenced personal conviction. Reasonable match for Manufacturing Technology / Capacity Expansion themes given recent direct commentary, though quotes are commercially rather than technically framed. Do NOT claim AI interest for this executive."
+      }
+    }
+  ]
+}

@@ -1,0 +1,937 @@
+{
+  "executive": {
+    "name": "Henry Soesanto",
+    "title": "Chief Executive Officer, Executive Vice President & Director",
+    "company": "Monde Nissin Corporation"
+  },
+  "sources": [
+    {
+      "id": "src-1",
+      "url": "https://theorg.com",
+      "title": "Henry Soesanto - Director, EVP & CEO at Monde Nissin Corporation",
+      "sourceName": "theorg.com",
+      "sourceTier": 2,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-2",
+      "url": "https://esquiremag.ph",
+      "title": "Henry Soesanto, CEO of Monde Nissin: Business Profile",
+      "sourceName": "esquiremag.ph",
+      "sourceTier": 2,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2024-06-26",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-3",
+      "url": "https://forbes.com",
+      "title": "Henry Soesanto — Forbes profile",
+      "sourceName": "forbes.com",
+      "sourceTier": 1,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-4",
+      "url": "https://business.inquirer.net",
+      "title": "Monde Nissin CEO builds game-changing brands",
+      "sourceName": "business.inquirer.net",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2021-06-11",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-5",
+      "url": "https://en.wikipedia.org",
+      "title": "Monde Nissin",
+      "sourceName": "en.wikipedia.org",
+      "sourceTier": 2,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-6",
+      "url": "https://manilastandard.net",
+      "title": "Monde Nissin spending P7.53 billion for expansion, new biscuit plant",
+      "sourceName": "manilastandard.net",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2026-04-05",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-7",
+      "url": "https://bilyonaryo.com",
+      "title": "Betty Ang's Monde Nissin hikes capex 60% to P7.5B, mostly for new biscuit plant",
+      "sourceName": "bilyonaryo.com",
+      "sourceTier": 2,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2026-04-06",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-8",
+      "url": "https://bilyonaryo.com",
+      "title": "Betty Ang's Monde Nissin eyes P5 billion sales boost from new Luzon biscuit hub",
+      "sourceName": "bilyonaryo.com",
+      "sourceTier": 2,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2026-05-07",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-9",
+      "url": "https://philstar.com",
+      "title": "Monde Nissin to build new biscuit plant, sets P7.5 billion capex",
+      "sourceName": "philstar.com",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2025-03-31",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-10",
+      "url": "https://pna.gov.ph",
+      "title": "Monde Nissin aims to open new Luzon biscuit plant in next 2 years",
+      "sourceName": "pna.gov.ph",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2025-05-15",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-11",
+      "url": "https://mondenissin.com",
+      "title": "Monde Nissin Corporation (MONDE) 9M 2025 Earnings Call Transcript",
+      "sourceName": "mondenissin.com",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": "2025-11-05",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-12",
+      "url": "https://grokipedia.com",
+      "title": "Monde Nissin — Grokipedia",
+      "sourceName": "grokipedia.com",
+      "sourceTier": 3,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-13",
+      "url": "https://marketscreener.com",
+      "title": "Henry Soesanto: Positions, Relations and Network",
+      "sourceName": "marketscreener.com",
+      "sourceTier": 2,
+      "sourceType": "industry_report",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    }
+  ],
+  "facts": [
+    {
+      "factId": "fact-identity-0",
+      "category": "biography",
+      "subject": "Henry Soesanto",
+      "predicate": "name",
+      "value": "Henry Soesanto (Henry Kahayu Soesanto)",
+      "sourceIds": [
+        "src-1",
+        "src-13"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "full_name"
+      }
+    },
+    {
+      "factId": "fact-identity-1",
+      "category": "biography",
+      "subject": "Henry Soesanto",
+      "predicate": "title",
+      "value": "Chief Executive Officer, Executive Vice President & Director",
+      "sourceIds": [
+        "src-1",
+        "src-5",
+        "src-11"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "current_position"
+      }
+    },
+    {
+      "factId": "fact-identity-2",
+      "category": "biography",
+      "subject": "Henry Soesanto",
+      "predicate": "company",
+      "value": "Monde Nissin Corporation",
+      "sourceIds": [
+        "src-1",
+        "src-5"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "current_company"
+      }
+    },
+    {
+      "factId": "fact-education-3",
+      "category": "biography",
+      "subject": "Henry Soesanto",
+      "predicate": "education",
+      "value": "B.S. in Chemical Engineering, Institute of Technology, Surabaya (Institut Teknologi Sepuluh Nopember), Indonesia",
+      "sourceIds": [
+        "src-1",
+        "src-13"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "education"
+      }
+    },
+    {
+      "factId": "fact-education-4",
+      "category": "biography",
+      "subject": "Henry Soesanto",
+      "predicate": "education",
+      "value": "Plant-Based Nutrition Certificate Program, eCornell (Cornell University)",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "education"
+      }
+    },
+    {
+      "factId": "fact-career-5",
+      "category": "professional_history",
+      "subject": "Henry Soesanto",
+      "predicate": "career_history",
+      "value": "Ran biscuit factory; convinced father-in-law Hidajat Darmono to enter instant-noodle production at Monde Nissin (predecessor: Monde Denmark Nissin Biscuit Corporation)",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-6",
+      "category": "professional_history",
+      "subject": "Henry Soesanto",
+      "predicate": "career_history",
+      "value": "Built and led the Lucky Me! instant noodle business from launch (1989) against Nestlé's Maggi and URC's Nissin Ramen at Monde Nissin",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-7",
+      "category": "professional_history",
+      "subject": "Henry Soesanto",
+      "predicate": "career_history",
+      "value": "President at Monde M.Y. San Corporation",
+      "sourceIds": [
+        "src-1",
+        "src-13"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-8",
+      "category": "professional_history",
+      "subject": "Henry Soesanto",
+      "predicate": "career_history",
+      "value": "Chief Executive Officer, Executive Vice President & Director at Monde Nissin Corporation",
+      "sourceIds": [
+        "src-1",
+        "src-5",
+        "src-11"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-strategy-9",
+      "category": "strategic_priorities",
+      "subject": "Henry Soesanto",
+      "predicate": "strategic_priority",
+      "value": "New biscuit manufacturing plant (northern Luzon): Directly tied to Soesanto's CEO commentary on 2026 capex of P7.53 billion (later revised toward ~P6.48B), with the bulk allocated to a new automated biscuit plant expected to begin partial operations in 2026/2027.",
+      "sourceIds": [
+        "src-6",
+        "src-7",
+        "src-8",
+        "src-9",
+        "src-10"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-10",
+      "category": "strategic_priorities",
+      "subject": "Henry Soesanto",
+      "predicate": "strategic_priority",
+      "value": "Domestic branded food & beverage growth: Personally projected mid to high-single-digit domestic revenue growth for Q1 2026 and commented on agile management of macro/geopolitical volatility.",
+      "sourceIds": [
+        "src-6"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-11",
+      "category": "strategic_priorities",
+      "subject": "Henry Soesanto",
+      "predicate": "strategic_priority",
+      "value": "Margin protection amid commodity cost volatility: Direct quote on cautious pricing strategy and securing near-term supply of wheat, palm oil, and coconut oil.",
+      "sourceIds": [
+        "src-8"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-12",
+      "category": "strategic_priorities",
+      "subject": "Henry Soesanto",
+      "predicate": "strategic_priority",
+      "value": "Meat-alternative (Quorn) business turnaround: Personally pledged part of his and his family's fortune to support Quorn amid mounting losses and a UK write-down; company data shows continued Quorn transformation/cost-saving investment.",
+      "sourceIds": [
+        "src-3",
+        "src-7"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-13",
+      "category": "strategic_priorities",
+      "subject": "Henry Soesanto",
+      "predicate": "strategic_priority",
+      "value": "Plant-based / healthier product portfolio: Personal, long-standing conviction (own vegan lifestyle, formal plant-based nutrition study) underlying the strategic rationale for the 2015 Quorn acquisition.",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-tech-14",
+      "category": "technology_interests",
+      "subject": "Henry Soesanto",
+      "predicate": "technology_interest",
+      "value": "Manufacturing Automation",
+      "sourceIds": [
+        "src-12"
+      ],
+      "confidence": 0.5,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "company_initiative"
+      }
+    },
+    {
+      "factId": "fact-tech-15",
+      "category": "technology_interests",
+      "subject": "Henry Soesanto",
+      "predicate": "technology_interest",
+      "value": "Manufacturing Capacity / Production Technology",
+      "sourceIds": [
+        "src-6",
+        "src-8"
+      ],
+      "confidence": 0.65,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "direct_quote"
+      }
+    },
+    {
+      "factId": "fact-tech-16",
+      "category": "technology_interests",
+      "subject": "Henry Soesanto",
+      "predicate": "technology_interest",
+      "value": "Artificial Intelligence",
+      "sourceIds": [],
+      "confidence": 0.1,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "unknown"
+      }
+    },
+    {
+      "factId": "fact-tech-17",
+      "category": "technology_interests",
+      "subject": "Henry Soesanto",
+      "predicate": "technology_interest",
+      "value": "Digital Transformation",
+      "sourceIds": [],
+      "confidence": 0.1,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "unknown"
+      }
+    },
+    {
+      "factId": "fact-tech-18",
+      "category": "technology_interests",
+      "subject": "Henry Soesanto",
+      "predicate": "technology_interest",
+      "value": "Food Science / Plant-Based Technology",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "direct_executive_action"
+      }
+    },
+    {
+      "factId": "fact-tech-19",
+      "category": "technology_interests",
+      "subject": "Henry Soesanto",
+      "predicate": "technology_interest",
+      "value": "Supply Chain / Commodity Risk Management",
+      "sourceIds": [
+        "src-8"
+      ],
+      "confidence": 0.6,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "direct_quote"
+      }
+    },
+    {
+      "factId": "fact-leadership-20",
+      "category": "leadership_style",
+      "subject": "Henry Soesanto",
+      "predicate": "leadership_trait",
+      "value": "Founder Practitioner Mindset",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "founder_practitioner_mindset"
+      }
+    },
+    {
+      "factId": "fact-leadership-21",
+      "category": "leadership_style",
+      "subject": "Henry Soesanto",
+      "predicate": "leadership_trait",
+      "value": "Capacity Expansion Focus",
+      "sourceIds": [
+        "src-6",
+        "src-7",
+        "src-9"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "capacity_expansion_focus"
+      }
+    },
+    {
+      "factId": "fact-leadership-22",
+      "category": "leadership_style",
+      "subject": "Henry Soesanto",
+      "predicate": "leadership_trait",
+      "value": "Plant Based Health Conviction",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "plant_based_health_conviction"
+      }
+    },
+    {
+      "factId": "fact-leadership-23",
+      "category": "leadership_style",
+      "subject": "Henry Soesanto",
+      "predicate": "leadership_trait",
+      "value": "Cautious Margin Management",
+      "sourceIds": [
+        "src-8"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "cautious_margin_management"
+      }
+    },
+    {
+      "factId": "fact-leadership-24",
+      "category": "leadership_style",
+      "subject": "Henry Soesanto",
+      "predicate": "leadership_trait",
+      "value": "Family Business Operator",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "family_business_operator"
+      }
+    },
+    {
+      "factId": "fact-decision-25",
+      "category": "decision_profile",
+      "subject": "Henry Soesanto",
+      "predicate": "decision_dimension",
+      "value": "Innovation Appetite: moderate",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.55,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "innovation_appetite"
+      }
+    },
+    {
+      "factId": "fact-decision-26",
+      "category": "decision_profile",
+      "subject": "Henry Soesanto",
+      "predicate": "decision_dimension",
+      "value": "Technology Adoption Posture: unknown",
+      "sourceIds": [],
+      "confidence": 0.25,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "technology_adoption_posture"
+      }
+    },
+    {
+      "factId": "fact-decision-27",
+      "category": "decision_profile",
+      "subject": "Henry Soesanto",
+      "predicate": "decision_dimension",
+      "value": "Growth Orientation: moderate-high",
+      "sourceIds": [
+        "src-6",
+        "src-8"
+      ],
+      "confidence": 0.65,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "growth_orientation"
+      }
+    },
+    {
+      "factId": "fact-decision-28",
+      "category": "decision_profile",
+      "subject": "Henry Soesanto",
+      "predicate": "decision_dimension",
+      "value": "Budget Influence: high",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "budget_influence"
+      }
+    },
+    {
+      "factId": "fact-decision-29",
+      "category": "decision_profile",
+      "subject": "Henry Soesanto",
+      "predicate": "decision_dimension",
+      "value": "Operational Focus: high",
+      "sourceIds": [
+        "src-6",
+        "src-8"
+      ],
+      "confidence": 0.65,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "operational_focus"
+      }
+    },
+    {
+      "factId": "fact-decision-30",
+      "category": "decision_profile",
+      "subject": "Henry Soesanto",
+      "predicate": "decision_dimension",
+      "value": "Risk Orientation: cautious/moderate",
+      "sourceIds": [
+        "src-8"
+      ],
+      "confidence": 0.6,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "risk_orientation"
+      }
+    },
+    {
+      "factId": "fact-decision-31",
+      "category": "decision_profile",
+      "subject": "Henry Soesanto",
+      "predicate": "decision_dimension",
+      "value": "Personal Conviction Orientation: high",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "personal_conviction_orientation"
+      }
+    },
+    {
+      "factId": "fact-signals-32",
+      "category": "event_signals",
+      "subject": "Henry Soesanto",
+      "predicate": "event_interest",
+      "value": "Interested in Manufacturing Technology",
+      "sourceIds": [
+        "src-6",
+        "src-7",
+        "src-8",
+        "src-9",
+        "src-10"
+      ],
+      "confidence": 0.6,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_manufacturing_technology"
+      }
+    },
+    {
+      "factId": "fact-signals-33",
+      "category": "event_signals",
+      "subject": "Henry Soesanto",
+      "predicate": "event_interest",
+      "value": "Interested in Food Technology Plant Based",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_food_technology_plant_based"
+      }
+    },
+    {
+      "factId": "fact-boards-34",
+      "category": "professional_history",
+      "subject": "Henry Soesanto",
+      "predicate": "board_membership",
+      "value": "CEO, EVP & Director, Monde Nissin Corporation",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-boards-35",
+      "category": "professional_history",
+      "subject": "Henry Soesanto",
+      "predicate": "board_membership",
+      "value": "President, Monde M.Y. San Corporation",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-boards-36",
+      "category": "professional_history",
+      "subject": "Henry Soesanto",
+      "predicate": "board_membership",
+      "value": "Director, multiple Monde Nissin international subsidiaries (Singapore, UK, New Zealand, Thailand, etc.)",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-keywords-37",
+      "category": "executive_keywords",
+      "subject": "Henry Soesanto",
+      "predicate": "keyword",
+      "value": "Food Manufacturing",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-38",
+      "category": "executive_keywords",
+      "subject": "Henry Soesanto",
+      "predicate": "keyword",
+      "value": "Biscuit Manufacturing",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-39",
+      "category": "executive_keywords",
+      "subject": "Henry Soesanto",
+      "predicate": "keyword",
+      "value": "Instant Noodles",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-40",
+      "category": "executive_keywords",
+      "subject": "Henry Soesanto",
+      "predicate": "keyword",
+      "value": "Plant-Based Food",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-41",
+      "category": "executive_keywords",
+      "subject": "Henry Soesanto",
+      "predicate": "keyword",
+      "value": "Capacity Expansion",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-42",
+      "category": "executive_keywords",
+      "subject": "Henry Soesanto",
+      "predicate": "keyword",
+      "value": "Quorn",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-43",
+      "category": "executive_keywords",
+      "subject": "Henry Soesanto",
+      "predicate": "keyword",
+      "value": "Commodity Risk Management",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-44",
+      "category": "executive_keywords",
+      "subject": "Henry Soesanto",
+      "predicate": "keyword",
+      "value": "Family Business",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-45",
+      "category": "executive_keywords",
+      "subject": "Henry Soesanto",
+      "predicate": "keyword",
+      "value": "Consumer Packaged Goods",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-comm-46",
+      "category": "communication_style",
+      "subject": "Henry Soesanto",
+      "predicate": "communication_register",
+      "value": "founder_practitioner_investor_facing",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "communication_style"
+      }
+    }
+  ],
+  "metadata": {
+    "original_format": "executive_intelligence_object",
+    "version": "1.0",
+    "entry_status": "verified_curated"
+  }
+}

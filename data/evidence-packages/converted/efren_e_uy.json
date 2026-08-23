@@ -1,0 +1,592 @@
+{
+  "executive": {
+    "name": "Efren E. Uy",
+    "title": "President and Chief Executive Officer",
+    "company": "F2 Logistics Philippines, Inc."
+  },
+  "sources": [
+    {
+      "id": "src-1",
+      "url": "https://en.wikipedia.org",
+      "title": "F2 Logistics",
+      "sourceName": "en.wikipedia.org",
+      "sourceTier": 2,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-2",
+      "url": "https://chelsealogistics.ph",
+      "title": "Efren E. Uy — Director bio, Chelsea Logistics and Infrastructure Holdings Corp.",
+      "sourceName": "chelsealogistics.ph",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-3",
+      "url": "https://chelsealogistics.ph",
+      "title": "The Governance and Management Team - Chelsea Logistics",
+      "sourceName": "chelsealogistics.ph",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": "2025-10-23",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-4",
+      "url": "https://portcalls.com",
+      "title": "COMELEC scrutinizes ownership of F2 Logistics",
+      "sourceName": "portcalls.com",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2021-08-24",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-5",
+      "url": "https://philstar.com",
+      "title": "F2 in every Pinoy's Lives: Efren Uy at the forefront of the country's logistics",
+      "sourceName": "philstar.com",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2019-07-08",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-6",
+      "url": "https://businessmirror.com.ph",
+      "title": "F2 Logistics President Efren Uy: Moving business to the next level",
+      "sourceName": "businessmirror.com.ph",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2018-06-11",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    }
+  ],
+  "facts": [
+    {
+      "factId": "fact-identity-0",
+      "category": "biography",
+      "subject": "Efren E. Uy",
+      "predicate": "name",
+      "value": "Efren E. Uy",
+      "sourceIds": [
+        "src-2",
+        "src-5"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "full_name"
+      }
+    },
+    {
+      "factId": "fact-identity-1",
+      "category": "biography",
+      "subject": "Efren E. Uy",
+      "predicate": "title",
+      "value": "President and Chief Executive Officer",
+      "sourceIds": [
+        "src-2",
+        "src-3",
+        "src-6"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "current_position"
+      }
+    },
+    {
+      "factId": "fact-identity-2",
+      "category": "biography",
+      "subject": "Efren E. Uy",
+      "predicate": "company",
+      "value": "F2 Logistics Philippines, Inc.",
+      "sourceIds": [
+        "src-1",
+        "src-2",
+        "src-3"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "current_company"
+      }
+    },
+    {
+      "factId": "fact-education-3",
+      "category": "biography",
+      "subject": "Efren E. Uy",
+      "predicate": "education",
+      "value": "BS Mechanical Engineering, University of San Carlos",
+      "sourceIds": [
+        "src-2"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "education"
+      }
+    },
+    {
+      "factId": "fact-education-4",
+      "category": "biography",
+      "subject": "Efren E. Uy",
+      "predicate": "education",
+      "value": "MBA, De La Salle University and Stanford University (executive program)",
+      "sourceIds": [
+        "src-5"
+      ],
+      "confidence": 0.6,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "education"
+      }
+    },
+    {
+      "factId": "fact-career-5",
+      "category": "professional_history",
+      "subject": "Efren E. Uy",
+      "predicate": "career_history",
+      "value": "Founder, President and CEO at F2 Logistics Philippines, Inc.",
+      "sourceIds": [
+        "src-1",
+        "src-5"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-6",
+      "category": "professional_history",
+      "subject": "Efren E. Uy",
+      "predicate": "career_history",
+      "value": "President and CEO at F2 Global Logistics Inc., Agri Farmers Inc., F8 Prime Transport Services Inc., Ultimate Yellow Transport Services Inc., FMoves Transport Corp.",
+      "sourceIds": [
+        "src-2",
+        "src-3"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-7",
+      "category": "professional_history",
+      "subject": "Efren E. Uy",
+      "predicate": "career_history",
+      "value": "President and CEO at Miren Holdings Inc.",
+      "sourceIds": [
+        "src-2"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-8",
+      "category": "professional_history",
+      "subject": "Efren E. Uy",
+      "predicate": "career_history",
+      "value": "Director at Chelsea Logistics and Infrastructure Holdings Corp.",
+      "sourceIds": [
+        "src-3"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-strategy-9",
+      "category": "strategic_priorities",
+      "subject": "Efren E. Uy",
+      "predicate": "strategic_priority",
+      "value": "Nationwide Distribution Network Reliability: Public commendation for 100% delivery performance on nationwide COMELEC election-materials contracts",
+      "sourceIds": [
+        "src-6"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-10",
+      "category": "strategic_priorities",
+      "subject": "Efren E. Uy",
+      "predicate": "strategic_priority",
+      "value": "Diversified Logistics Portfolio: Growth from a single trucking operation into a group of 20+ companies spanning warehousing, cold chain, freight forwarding, customs brokerage",
+      "sourceIds": [
+        "src-1",
+        "src-5"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-11",
+      "category": "strategic_priorities",
+      "subject": "Efren E. Uy",
+      "predicate": "strategic_priority",
+      "value": "Cost-Efficient Supply Chain for Consumer Goods: Publicly stated mission of bringing down the cost of goods for Filipino consumers through efficient logistics",
+      "sourceIds": [
+        "src-5"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-tech-12",
+      "category": "technology_interests",
+      "subject": "Efren E. Uy",
+      "predicate": "technology_interest",
+      "value": "Cold Chain Distribution",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "company_service_line"
+      }
+    },
+    {
+      "factId": "fact-tech-13",
+      "category": "technology_interests",
+      "subject": "Efren E. Uy",
+      "predicate": "technology_interest",
+      "value": "ISO Tank Solutions / Specialized Freight Handling",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.65,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "company_service_line"
+      }
+    },
+    {
+      "factId": "fact-tech-14",
+      "category": "technology_interests",
+      "subject": "Efren E. Uy",
+      "predicate": "technology_interest",
+      "value": "Artificial Intelligence / Digital Transformation",
+      "sourceIds": [],
+      "confidence": 0.15,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "inferred"
+      }
+    },
+    {
+      "factId": "fact-leadership-15",
+      "category": "leadership_style",
+      "subject": "Efren E. Uy",
+      "predicate": "leadership_trait",
+      "value": "Operational Execution Focus",
+      "sourceIds": [
+        "src-5",
+        "src-6"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "operational_execution_focus"
+      }
+    },
+    {
+      "factId": "fact-leadership-16",
+      "category": "leadership_style",
+      "subject": "Efren E. Uy",
+      "predicate": "leadership_trait",
+      "value": "Government And Institutional Client Orientation",
+      "sourceIds": [
+        "src-4",
+        "src-6"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "government_and_institutional_client_orientation"
+      }
+    },
+    {
+      "factId": "fact-decision-17",
+      "category": "decision_profile",
+      "subject": "Efren E. Uy",
+      "predicate": "decision_dimension",
+      "value": "Growth Orientation: high",
+      "sourceIds": [
+        "src-1",
+        "src-5"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "growth_orientation"
+      }
+    },
+    {
+      "factId": "fact-decision-18",
+      "category": "decision_profile",
+      "subject": "Efren E. Uy",
+      "predicate": "decision_dimension",
+      "value": "Operational Focus: high",
+      "sourceIds": [
+        "src-5",
+        "src-6"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "operational_focus"
+      }
+    },
+    {
+      "factId": "fact-decision-19",
+      "category": "decision_profile",
+      "subject": "Efren E. Uy",
+      "predicate": "decision_dimension",
+      "value": "Technology Adoption Posture: unknown",
+      "sourceIds": [],
+      "confidence": 0.2,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "technology_adoption_posture"
+      }
+    },
+    {
+      "factId": "fact-decision-20",
+      "category": "decision_profile",
+      "subject": "Efren E. Uy",
+      "predicate": "decision_dimension",
+      "value": "Budget Influence: high",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "budget_influence"
+      }
+    },
+    {
+      "factId": "fact-signals-21",
+      "category": "event_signals",
+      "subject": "Efren E. Uy",
+      "predicate": "event_interest",
+      "value": "Interested in Operational Efficiency",
+      "sourceIds": [
+        "src-5",
+        "src-6"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_operational_efficiency"
+      }
+    },
+    {
+      "factId": "fact-signals-22",
+      "category": "event_signals",
+      "subject": "Efren E. Uy",
+      "predicate": "event_interest",
+      "value": "Interested in Government And Institutional Logistics",
+      "sourceIds": [
+        "src-4",
+        "src-6"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_government_and_institutional_logistics"
+      }
+    },
+    {
+      "factId": "fact-boards-23",
+      "category": "professional_history",
+      "subject": "Efren E. Uy",
+      "predicate": "board_membership",
+      "value": "Director, Chelsea Logistics and Infrastructure Holdings Corp. (since 2017)",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-keywords-24",
+      "category": "executive_keywords",
+      "subject": "Efren E. Uy",
+      "predicate": "keyword",
+      "value": "Logistics",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-25",
+      "category": "executive_keywords",
+      "subject": "Efren E. Uy",
+      "predicate": "keyword",
+      "value": "Selling Distribution",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-26",
+      "category": "executive_keywords",
+      "subject": "Efren E. Uy",
+      "predicate": "keyword",
+      "value": "Cold Chain",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-27",
+      "category": "executive_keywords",
+      "subject": "Efren E. Uy",
+      "predicate": "keyword",
+      "value": "Freight Forwarding",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-28",
+      "category": "executive_keywords",
+      "subject": "Efren E. Uy",
+      "predicate": "keyword",
+      "value": "Government Contracts",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-29",
+      "category": "executive_keywords",
+      "subject": "Efren E. Uy",
+      "predicate": "keyword",
+      "value": "Nationwide Trucking",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-comm-30",
+      "category": "communication_style",
+      "subject": "Efren E. Uy",
+      "predicate": "communication_register",
+      "value": "founder_practitioner",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "communication_style"
+      }
+    }
+  ],
+  "metadata": {
+    "original_format": "executive_intelligence_object",
+    "version": "1.0",
+    "entry_status": "verified_curated"
+  }
+}

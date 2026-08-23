@@ -1,0 +1,1293 @@
+{
+  "executive": {
+    "name": "Ramon S. Ang",
+    "title": "Chairman and Chief Executive Officer",
+    "company": "San Miguel Corporation (SMC)"
+  },
+  "sources": [
+    {
+      "id": "src-1",
+      "url": "https://weforum.org",
+      "title": "Ramon S. Ang | World Economic Forum profile",
+      "sourceName": "weforum.org",
+      "sourceTier": 1,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-2",
+      "url": "https://en.wikipedia.org",
+      "title": "Ramon Ang",
+      "sourceName": "en.wikipedia.org",
+      "sourceTier": 2,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-3",
+      "url": "https://mpic.com.ph",
+      "title": "Ramon S. Ang - Metro Pacific Investments Corporation board bio",
+      "sourceName": "mpic.com.ph",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": "2025-06-03",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-4",
+      "url": "https://forbes.com",
+      "title": "Ramon Ang — Forbes profile",
+      "sourceName": "forbes.com",
+      "sourceTier": 1,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-5",
+      "url": "https://insiderph.com",
+      "title": "INSIDER INSIGHT: Ramon Ang outlines sweeping NAIA changes for 1st year under SMC",
+      "sourceName": "insiderph.com",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-6",
+      "url": "https://rappler.com",
+      "title": "Ramon Ang wants an even bigger NAIA terminal than promised. Can he deliver?",
+      "sourceName": "rappler.com",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2024-07-16",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-7",
+      "url": "https://monocle.com",
+      "title": "The Philippines' infrastructure revolution has an unlikely architect",
+      "sourceName": "monocle.com",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2025-12-24",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-8",
+      "url": "https://mb.com.ph",
+      "title": "RSA: First runway of ₱735-billion airport could open early",
+      "sourceName": "mb.com.ph",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2026-06-09",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-9",
+      "url": "https://bilyonaryo.com",
+      "title": "Ramon Ang pushes innovation in toll collection: SMC installs 522 AI-powered cameras",
+      "sourceName": "bilyonaryo.com",
+      "sourceTier": 2,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2024-11-29",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-10",
+      "url": "https://sanmiguel.com.ph",
+      "title": "Digital Transformation - SMC Sustainability Report",
+      "sourceName": "sanmiguel.com.ph",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-11",
+      "url": "https://peopleasia.ph",
+      "title": "How Ramon S. Ang has turned his businesses into a force for good (People of the Year 2026)",
+      "sourceName": "peopleasia.ph",
+      "sourceTier": 2,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2026-02-10",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-12",
+      "url": "https://businessmirror.com.ph",
+      "title": "Ramon Ang, first Filipino in elite Bloomberg 50 global innovators",
+      "sourceName": "businessmirror.com.ph",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2019-12-18",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-13",
+      "url": "https://insiderph.com",
+      "title": "How tycoon Ramon Ang's two-decade overhaul redefined San Miguel's 135-year legacy",
+      "sourceName": "insiderph.com",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-14",
+      "url": "https://en.wikipedia.org",
+      "title": "San Miguel Corporation",
+      "sourceName": "en.wikipedia.org",
+      "sourceTier": 2,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-15",
+      "url": "https://smfb.com.ph",
+      "title": "San Miguel Food and Beverage, Inc. — Ramon S. Ang board bio",
+      "sourceName": "smfb.com.ph",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-16",
+      "url": "https://goodreturns.in",
+      "title": "Ramon Ang Net Worth, Biography, Age, Spouse, Children & More",
+      "sourceName": "goodreturns.in",
+      "sourceTier": 3,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    }
+  ],
+  "facts": [
+    {
+      "factId": "fact-identity-0",
+      "category": "biography",
+      "subject": "Ramon S. Ang",
+      "predicate": "name",
+      "value": "Ramon S. Ang (Ramon See Ang, 'RSA')",
+      "sourceIds": [
+        "src-1",
+        "src-2",
+        "src-3"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "full_name"
+      }
+    },
+    {
+      "factId": "fact-identity-1",
+      "category": "biography",
+      "subject": "Ramon S. Ang",
+      "predicate": "title",
+      "value": "Chairman and Chief Executive Officer",
+      "sourceIds": [
+        "src-1",
+        "src-2",
+        "src-3"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "current_position"
+      }
+    },
+    {
+      "factId": "fact-identity-2",
+      "category": "biography",
+      "subject": "Ramon S. Ang",
+      "predicate": "company",
+      "value": "San Miguel Corporation (SMC)",
+      "sourceIds": [
+        "src-1",
+        "src-2",
+        "src-14"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "current_company"
+      }
+    },
+    {
+      "factId": "fact-education-3",
+      "category": "biography",
+      "subject": "Ramon S. Ang",
+      "predicate": "education",
+      "value": "Bachelor of Science in Mechanical Engineering, Far Eastern University",
+      "sourceIds": [
+        "src-2",
+        "src-16"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "education"
+      }
+    },
+    {
+      "factId": "fact-career-4",
+      "category": "professional_history",
+      "subject": "Ramon S. Ang",
+      "predicate": "career_history",
+      "value": "Entrepreneur (car/truck engine reconditioning, aluminum wheel sales) at Self-employed, early career",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-5",
+      "category": "professional_history",
+      "subject": "Ramon S. Ang",
+      "predicate": "career_history",
+      "value": "President, North Cement Corporation at Under mentorship of Eduardo Cojuangco Jr.",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.65,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-6",
+      "category": "professional_history",
+      "subject": "Ramon S. Ang",
+      "predicate": "career_history",
+      "value": "Vice Chairman at San Miguel Corporation",
+      "sourceIds": [
+        "src-16"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-7",
+      "category": "professional_history",
+      "subject": "Ramon S. Ang",
+      "predicate": "career_history",
+      "value": "President & Chief Operating Officer at San Miguel Corporation",
+      "sourceIds": [
+        "src-16"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-8",
+      "category": "professional_history",
+      "subject": "Ramon S. Ang",
+      "predicate": "career_history",
+      "value": "President & Chief Operating Officer at Philippine Airlines",
+      "sourceIds": [
+        "src-2"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-9",
+      "category": "professional_history",
+      "subject": "Ramon S. Ang",
+      "predicate": "career_history",
+      "value": "Gained controlling stake / Chairman at San Miguel Corporation",
+      "sourceIds": [
+        "src-2",
+        "src-4",
+        "src-16"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-10",
+      "category": "professional_history",
+      "subject": "Ramon S. Ang",
+      "predicate": "career_history",
+      "value": "President and Chief Executive Officer at Top Frontier Investment Holdings, Inc.",
+      "sourceIds": [
+        "src-1",
+        "src-2"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-11",
+      "category": "professional_history",
+      "subject": "Ramon S. Ang",
+      "predicate": "career_history",
+      "value": "Chairman and Chief Executive Officer (roles unified) at San Miguel Corporation",
+      "sourceIds": [
+        "src-2",
+        "src-3"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-awards-12",
+      "category": "awards",
+      "subject": "Ramon S. Ang",
+      "predicate": "award",
+      "value": "First Filipino named to Bloomberg 50 (global innovators list) — Bloomberg — 2019",
+      "sourceIds": [
+        "src-12"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "awards"
+      }
+    },
+    {
+      "factId": "fact-awards-13",
+      "category": "awards",
+      "subject": "Ramon S. Ang",
+      "predicate": "award",
+      "value": "People of the Year 2026 — PeopleAsia — 2026",
+      "sourceIds": [
+        "src-11"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "awards"
+      }
+    },
+    {
+      "factId": "fact-awards-14",
+      "category": "awards",
+      "subject": "Ramon S. Ang",
+      "predicate": "award",
+      "value": "Ernst & Young Entrepreneur of the Year Philippines — Ernst & Young — 2004",
+      "sourceIds": [
+        "src-16"
+      ],
+      "confidence": 0.6,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "awards"
+      }
+    },
+    {
+      "factId": "fact-awards-15",
+      "category": "awards",
+      "subject": "Ramon S. Ang",
+      "predicate": "award",
+      "value": "The Outstanding Filipino (TOFIL) Award in Business — 2007",
+      "sourceIds": [
+        "src-16"
+      ],
+      "confidence": 0.6,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "awards"
+      }
+    },
+    {
+      "factId": "fact-awards-16",
+      "category": "awards",
+      "subject": "Ramon S. Ang",
+      "predicate": "award",
+      "value": "Asia's Best CEO — Institutional Investor magazine — 2012",
+      "sourceIds": [
+        "src-16"
+      ],
+      "confidence": 0.6,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "awards"
+      }
+    },
+    {
+      "factId": "fact-awards-17",
+      "category": "awards",
+      "subject": "Ramon S. Ang",
+      "predicate": "award",
+      "value": "Order of Sikatuna, rank of Grand Commander — Republic of the Philippines — 2009",
+      "sourceIds": [
+        "src-16"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "awards"
+      }
+    },
+    {
+      "factId": "fact-strategy-18",
+      "category": "strategic_priorities",
+      "subject": "Ramon S. Ang",
+      "predicate": "strategic_priority",
+      "value": "NAIA rehabilitation and modernization: P170-billion privatization contract; direct quotes on decongestion, new expressway off-ramp, terminal reassignments, and passenger capacity growth from 43M to 62M annually.",
+      "sourceIds": [
+        "src-5",
+        "src-6"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-19",
+      "category": "strategic_priorities",
+      "subject": "Ramon S. Ang",
+      "predicate": "strategic_priority",
+      "value": "New Manila International Airport (Bulacan) megaproject: P735-billion, four-runway airport; personally assured shareholders the first runway could complete ahead of the 2028 timeline.",
+      "sourceIds": [
+        "src-8"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-20",
+      "category": "strategic_priorities",
+      "subject": "Ramon S. Ang",
+      "predicate": "strategic_priority",
+      "value": "Diversified infrastructure expansion (toll roads, rail, power, LNG): Direct/company statements describing SMC's investments as addressing 'bottlenecks in mobility, productivity, and energy and food security.'",
+      "sourceIds": [
+        "src-13"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-21",
+      "category": "strategic_priorities",
+      "subject": "Ramon S. Ang",
+      "predicate": "strategic_priority",
+      "value": "Food & Beverage manufacturing capacity expansion: Company-context evidence of the largest capacity expansion program in SMC's 129-year history at the time (breweries, feed mills, flour mills, poultry, ready-to-eat plant) and a P30-billion animal feed capacity expansion under San Miguel Foods & Beverage.",
+      "sourceIds": [
+        "src-4",
+        "src-12"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-22",
+      "category": "strategic_priorities",
+      "subject": "Ramon S. Ang",
+      "predicate": "strategic_priority",
+      "value": "Toll collection automation / AI-enabled infrastructure operations: Directly quoted announcing 522 AI-enabled ALPR cameras across SMC's 220km expressway network to enable barrier-less tolling.",
+      "sourceIds": [
+        "src-9"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-tech-23",
+      "category": "technology_interests",
+      "subject": "Ramon S. Ang",
+      "predicate": "technology_interest",
+      "value": "Artificial Intelligence",
+      "sourceIds": [
+        "src-9"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "direct_quote"
+      }
+    },
+    {
+      "factId": "fact-tech-24",
+      "category": "technology_interests",
+      "subject": "Ramon S. Ang",
+      "predicate": "technology_interest",
+      "value": "Automation",
+      "sourceIds": [
+        "src-9"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "direct_quote"
+      }
+    },
+    {
+      "factId": "fact-tech-25",
+      "category": "technology_interests",
+      "subject": "Ramon S. Ang",
+      "predicate": "technology_interest",
+      "value": "Data Analytics / Digital Transformation",
+      "sourceIds": [
+        "src-10"
+      ],
+      "confidence": 0.5,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "company_context"
+      }
+    },
+    {
+      "factId": "fact-tech-26",
+      "category": "technology_interests",
+      "subject": "Ramon S. Ang",
+      "predicate": "technology_interest",
+      "value": "Manufacturing Technology",
+      "sourceIds": [
+        "src-4",
+        "src-12"
+      ],
+      "confidence": 0.5,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "company_context"
+      }
+    },
+    {
+      "factId": "fact-tech-27",
+      "category": "technology_interests",
+      "subject": "Ramon S. Ang",
+      "predicate": "technology_interest",
+      "value": "Infrastructure Technology (airport/toll systems engineering)",
+      "sourceIds": [
+        "src-5",
+        "src-6",
+        "src-8"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "direct_executive_action"
+      }
+    },
+    {
+      "factId": "fact-tech-28",
+      "category": "technology_interests",
+      "subject": "Ramon S. Ang",
+      "predicate": "technology_interest",
+      "value": "Sustainability Technology (renewable energy)",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.55,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "company_context"
+      }
+    },
+    {
+      "factId": "fact-tech-29",
+      "category": "technology_interests",
+      "subject": "Ramon S. Ang",
+      "predicate": "technology_interest",
+      "value": "Cybersecurity",
+      "sourceIds": [
+        "src-10"
+      ],
+      "confidence": 0.4,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "company_context"
+      }
+    },
+    {
+      "factId": "fact-leadership-30",
+      "category": "leadership_style",
+      "subject": "Ramon S. Ang",
+      "predicate": "leadership_trait",
+      "value": "Infrastructure And Nation Building Focus",
+      "sourceIds": [
+        "src-5",
+        "src-6",
+        "src-7",
+        "src-8"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "infrastructure_and_nation_building_focus"
+      }
+    },
+    {
+      "factId": "fact-leadership-31",
+      "category": "leadership_style",
+      "subject": "Ramon S. Ang",
+      "predicate": "leadership_trait",
+      "value": "Operational Hands On Execution",
+      "sourceIds": [
+        "src-5",
+        "src-6",
+        "src-8"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "operational_hands_on_execution"
+      }
+    },
+    {
+      "factId": "fact-leadership-32",
+      "category": "leadership_style",
+      "subject": "Ramon S. Ang",
+      "predicate": "leadership_trait",
+      "value": "Growth And Diversification Orientation",
+      "sourceIds": [
+        "src-4",
+        "src-13"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "growth_and_diversification_orientation"
+      }
+    },
+    {
+      "factId": "fact-leadership-33",
+      "category": "leadership_style",
+      "subject": "Ramon S. Ang",
+      "predicate": "leadership_trait",
+      "value": "Risk Tolerant Dealmaker",
+      "sourceIds": [
+        "src-6",
+        "src-13"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "risk_tolerant_dealmaker"
+      }
+    },
+    {
+      "factId": "fact-leadership-34",
+      "category": "leadership_style",
+      "subject": "Ramon S. Ang",
+      "predicate": "leadership_trait",
+      "value": "Resilience Disaster Response Orientation",
+      "sourceIds": [
+        "src-7"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "resilience_disaster_response_orientation"
+      }
+    },
+    {
+      "factId": "fact-leadership-35",
+      "category": "leadership_style",
+      "subject": "Ramon S. Ang",
+      "predicate": "leadership_trait",
+      "value": "Patriotic Public Facing Framing",
+      "sourceIds": [
+        "src-6",
+        "src-7"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "leadership_style",
+        "trait": "patriotic_public_facing_framing"
+      }
+    },
+    {
+      "factId": "fact-decision-36",
+      "category": "decision_profile",
+      "subject": "Ramon S. Ang",
+      "predicate": "decision_dimension",
+      "value": "Innovation Appetite: high",
+      "sourceIds": [
+        "src-9",
+        "src-12"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "innovation_appetite"
+      }
+    },
+    {
+      "factId": "fact-decision-37",
+      "category": "decision_profile",
+      "subject": "Ramon S. Ang",
+      "predicate": "decision_dimension",
+      "value": "Technology Adoption Posture: moderate-high",
+      "sourceIds": [
+        "src-9",
+        "src-10"
+      ],
+      "confidence": 0.6,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "technology_adoption_posture"
+      }
+    },
+    {
+      "factId": "fact-decision-38",
+      "category": "decision_profile",
+      "subject": "Ramon S. Ang",
+      "predicate": "decision_dimension",
+      "value": "Growth Orientation: very high",
+      "sourceIds": [
+        "src-4",
+        "src-13"
+      ],
+      "confidence": 0.9,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "growth_orientation"
+      }
+    },
+    {
+      "factId": "fact-decision-39",
+      "category": "decision_profile",
+      "subject": "Ramon S. Ang",
+      "predicate": "decision_dimension",
+      "value": "Risk Tolerance: high",
+      "sourceIds": [
+        "src-6",
+        "src-13"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "risk_tolerance"
+      }
+    },
+    {
+      "factId": "fact-decision-40",
+      "category": "decision_profile",
+      "subject": "Ramon S. Ang",
+      "predicate": "decision_dimension",
+      "value": "Budget Influence: very high",
+      "sourceIds": [
+        "src-1",
+        "src-2"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "budget_influence"
+      }
+    },
+    {
+      "factId": "fact-decision-41",
+      "category": "decision_profile",
+      "subject": "Ramon S. Ang",
+      "predicate": "decision_dimension",
+      "value": "Operational Focus: high",
+      "sourceIds": [
+        "src-5",
+        "src-6",
+        "src-8"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "operational_focus"
+      }
+    },
+    {
+      "factId": "fact-decision-42",
+      "category": "decision_profile",
+      "subject": "Ramon S. Ang",
+      "predicate": "decision_dimension",
+      "value": "Sustainability Orientation: moderate",
+      "sourceIds": [
+        "src-4",
+        "src-7",
+        "src-10"
+      ],
+      "confidence": 0.55,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "sustainability_orientation"
+      }
+    },
+    {
+      "factId": "fact-signals-43",
+      "category": "event_signals",
+      "subject": "Ramon S. Ang",
+      "predicate": "event_interest",
+      "value": "Interested in Ai",
+      "sourceIds": [
+        "src-9"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_ai"
+      }
+    },
+    {
+      "factId": "fact-signals-44",
+      "category": "event_signals",
+      "subject": "Ramon S. Ang",
+      "predicate": "event_interest",
+      "value": "Interested in Digital Transformation",
+      "sourceIds": [
+        "src-9",
+        "src-10"
+      ],
+      "confidence": 0.55,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_digital_transformation"
+      }
+    },
+    {
+      "factId": "fact-signals-45",
+      "category": "event_signals",
+      "subject": "Ramon S. Ang",
+      "predicate": "event_interest",
+      "value": "Interested in Infrastructure Technology",
+      "sourceIds": [
+        "src-5",
+        "src-6",
+        "src-8",
+        "src-9"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_infrastructure_technology"
+      }
+    },
+    {
+      "factId": "fact-signals-46",
+      "category": "event_signals",
+      "subject": "Ramon S. Ang",
+      "predicate": "event_interest",
+      "value": "Interested in Sustainability",
+      "sourceIds": [
+        "src-4",
+        "src-7",
+        "src-10"
+      ],
+      "confidence": 0.6,
+      "verificationStatus": "corroborated",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "event_signals",
+        "signal": "interested_in_sustainability"
+      }
+    },
+    {
+      "factId": "fact-boards-47",
+      "category": "professional_history",
+      "subject": "Ramon S. Ang",
+      "predicate": "board_membership",
+      "value": "Chairman & CEO, San Miguel Corporation",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-boards-48",
+      "category": "professional_history",
+      "subject": "Ramon S. Ang",
+      "predicate": "board_membership",
+      "value": "President & CEO, Top Frontier Investment Holdings, Inc.",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-boards-49",
+      "category": "professional_history",
+      "subject": "Ramon S. Ang",
+      "predicate": "board_membership",
+      "value": "President & CEO, Petron Corporation",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-boards-50",
+      "category": "professional_history",
+      "subject": "Ramon S. Ang",
+      "predicate": "board_membership",
+      "value": "Chairman, Eagle Cement Corporation",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-boards-51",
+      "category": "professional_history",
+      "subject": "Ramon S. Ang",
+      "predicate": "board_membership",
+      "value": "Chairman, San Miguel Brewery Inc. / San Miguel Yamamura Packaging Corporation",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-boards-52",
+      "category": "professional_history",
+      "subject": "Ramon S. Ang",
+      "predicate": "board_membership",
+      "value": "Chairman & CEO, SMC Global Power Holdings Corp.",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-boards-53",
+      "category": "professional_history",
+      "subject": "Ramon S. Ang",
+      "predicate": "board_membership",
+      "value": "Director, Metro Pacific Investments Corporation",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-boards-54",
+      "category": "professional_history",
+      "subject": "Ramon S. Ang",
+      "predicate": "board_membership",
+      "value": "Chairman & CEO, New NAIA Infrastructure Corporation",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-keywords-55",
+      "category": "executive_keywords",
+      "subject": "Ramon S. Ang",
+      "predicate": "keyword",
+      "value": "Infrastructure",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-56",
+      "category": "executive_keywords",
+      "subject": "Ramon S. Ang",
+      "predicate": "keyword",
+      "value": "Airports",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-57",
+      "category": "executive_keywords",
+      "subject": "Ramon S. Ang",
+      "predicate": "keyword",
+      "value": "Toll Roads",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-58",
+      "category": "executive_keywords",
+      "subject": "Ramon S. Ang",
+      "predicate": "keyword",
+      "value": "Diversified Conglomerate",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-59",
+      "category": "executive_keywords",
+      "subject": "Ramon S. Ang",
+      "predicate": "keyword",
+      "value": "Food & Beverage Manufacturing",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-60",
+      "category": "executive_keywords",
+      "subject": "Ramon S. Ang",
+      "predicate": "keyword",
+      "value": "Capacity Expansion",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-61",
+      "category": "executive_keywords",
+      "subject": "Ramon S. Ang",
+      "predicate": "keyword",
+      "value": "AI-Enabled Operations",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-62",
+      "category": "executive_keywords",
+      "subject": "Ramon S. Ang",
+      "predicate": "keyword",
+      "value": "Nation Building",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-63",
+      "category": "executive_keywords",
+      "subject": "Ramon S. Ang",
+      "predicate": "keyword",
+      "value": "Power & Energy",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-64",
+      "category": "executive_keywords",
+      "subject": "Ramon S. Ang",
+      "predicate": "keyword",
+      "value": "Megaprojects",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-comm-65",
+      "category": "communication_style",
+      "subject": "Ramon S. Ang",
+      "predicate": "communication_register",
+      "value": "formal_executive_with_populist_public_framing",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "communication_style"
+      }
+    }
+  ],
+  "metadata": {
+    "original_format": "executive_intelligence_object",
+    "version": "1.0",
+    "entry_status": "verified_curated"
+  }
+}

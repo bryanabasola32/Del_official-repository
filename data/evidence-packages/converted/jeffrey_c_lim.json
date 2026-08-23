@@ -1,0 +1,617 @@
+{
+  "executive": {
+    "name": "Jeffrey C. Lim",
+    "title": "President and Executive Director",
+    "company": "SM Prime Holdings, Inc."
+  },
+  "sources": [
+    {
+      "id": "src-1",
+      "url": "https://smprime.com",
+      "title": "Board of Directors > Jeffrey C. Lim",
+      "sourceName": "smprime.com",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-2",
+      "url": "https://accountinghalloffame.org",
+      "title": "Mr. Jeffrey C. Lim — Global Management Accounting Hall of Fame",
+      "sourceName": "accountinghalloffame.org",
+      "sourceTier": 2,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": "2019",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-3",
+      "url": "https://acesawards.com",
+      "title": "ACES Awards — Jeffrey C. Lim leadership profile",
+      "sourceName": "acesawards.com",
+      "sourceTier": 2,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-4",
+      "url": "https://rappler.com",
+      "title": "SM Prime to bring premier mall experience to Nuvali by October 2026",
+      "sourceName": "rappler.com",
+      "sourceTier": 1,
+      "sourceType": "news_article",
+      "snippet": "",
+      "publishedDate": "2026-05-01",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-5",
+      "url": "https://smprime.com",
+      "title": "SM Prime Boosts Malls and Commercial Property Portfolio with ₱33 Billion Investment",
+      "sourceName": "smprime.com",
+      "sourceTier": 1,
+      "sourceType": "company_website",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-6",
+      "url": "https://en.wikipedia.org",
+      "title": "SM Prime (company overview)",
+      "sourceName": "en.wikipedia.org",
+      "sourceTier": 2,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-7",
+      "url": "https://lamudi.com.ph",
+      "title": "Jeffrey Lim: The Man at the Helm of SM Prime",
+      "sourceName": "lamudi.com.ph",
+      "sourceTier": 2,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": "2019-03-03",
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-8",
+      "url": "https://intel.com",
+      "title": "SM Supermalls Engages Shoppers (vendor case study)",
+      "sourceName": "intel.com",
+      "sourceTier": 2,
+      "sourceType": "other",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    },
+    {
+      "id": "src-9",
+      "url": "https://marketscreener.com",
+      "title": "Jeffrey Lim: Positions, Relations and Network",
+      "sourceName": "marketscreener.com",
+      "sourceTier": 2,
+      "sourceType": "industry_report",
+      "snippet": "",
+      "publishedDate": null,
+      "retrievedAt": "2026-08-08T00:00:00.000Z",
+      "author": null
+    }
+  ],
+  "facts": [
+    {
+      "factId": "fact-identity-0",
+      "category": "biography",
+      "subject": "Jeffrey C. Lim",
+      "predicate": "name",
+      "value": "Jeffrey C. Lim",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "full_name"
+      }
+    },
+    {
+      "factId": "fact-identity-1",
+      "category": "biography",
+      "subject": "Jeffrey C. Lim",
+      "predicate": "title",
+      "value": "President and Executive Director",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "current_position"
+      }
+    },
+    {
+      "factId": "fact-identity-2",
+      "category": "biography",
+      "subject": "Jeffrey C. Lim",
+      "predicate": "company",
+      "value": "SM Prime Holdings, Inc.",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "identity",
+        "field": "current_company"
+      }
+    },
+    {
+      "factId": "fact-career-3",
+      "category": "professional_history",
+      "subject": "Jeffrey C. Lim",
+      "predicate": "career_history",
+      "value": "Vice President for Finance at SM Prime Holdings",
+      "sourceIds": [
+        "src-7"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-4",
+      "category": "professional_history",
+      "subject": "Jeffrey C. Lim",
+      "predicate": "career_history",
+      "value": "CFO and Executive Vice President (strategic planning, finance, treasury, business development, IR, IT) at SM Prime Holdings",
+      "sourceIds": [
+        "src-2"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-5",
+      "category": "professional_history",
+      "subject": "Jeffrey C. Lim",
+      "predicate": "career_history",
+      "value": "President at SM Development Corporation (concurrent)",
+      "sourceIds": [
+        "src-2"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-6",
+      "category": "professional_history",
+      "subject": "Jeffrey C. Lim",
+      "predicate": "career_history",
+      "value": "President and Executive Director at SM Prime Holdings, Inc.",
+      "sourceIds": [
+        "src-1"
+      ],
+      "confidence": 0.95,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-career-7",
+      "category": "professional_history",
+      "subject": "Jeffrey C. Lim",
+      "predicate": "career_history",
+      "value": "Chief Executive Officer at Bluenest Pte. Ltd. (Singapore)",
+      "sourceIds": [
+        "src-9"
+      ],
+      "confidence": 0.65,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "career_history"
+      }
+    },
+    {
+      "factId": "fact-strategy-8",
+      "category": "strategic_priorities",
+      "subject": "Jeffrey C. Lim",
+      "predicate": "strategic_priority",
+      "value": "Continued Mall Expansion: Target of ~5 flagship malls opened annually through 2030",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-9",
+      "category": "strategic_priorities",
+      "subject": "Jeffrey C. Lim",
+      "predicate": "strategic_priority",
+      "value": "Regional/Provincial Expansion: SM Nuvali (Laguna) as the 91st mall nationally, part of expanding beyond Metro Manila",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-10",
+      "category": "strategic_priorities",
+      "subject": "Jeffrey C. Lim",
+      "predicate": "strategic_priority",
+      "value": "Net-Zero GHG Emissions by 2040: Alignment with WWF-Philippines; waste recycling/composting programs",
+      "sourceIds": [
+        "src-3"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-strategy-11",
+      "category": "strategic_priorities",
+      "subject": "Jeffrey C. Lim",
+      "predicate": "strategic_priority",
+      "value": "Office Portfolio Targeting Tech/BPO Tenants: Six E-Com Center developed for technology-driven and BPO firms",
+      "sourceIds": [
+        "src-5"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "strategic_priorities"
+      }
+    },
+    {
+      "factId": "fact-tech-12",
+      "category": "technology_interests",
+      "subject": "Jeffrey C. Lim",
+      "predicate": "technology_interest",
+      "value": "Robotics / Computer Vision for Mall Customer Engagement",
+      "sourceIds": [
+        "src-8"
+      ],
+      "confidence": 0.4,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "vendor_case_study"
+      }
+    },
+    {
+      "factId": "fact-tech-13",
+      "category": "technology_interests",
+      "subject": "Jeffrey C. Lim",
+      "predicate": "technology_interest",
+      "value": "Information Technology Oversight (historical)",
+      "sourceIds": [
+        "src-2"
+      ],
+      "confidence": 0.7,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "technology_interests",
+        "evidence_strength": "documented_role_scope"
+      }
+    },
+    {
+      "factId": "fact-decision-14",
+      "category": "decision_profile",
+      "subject": "Jeffrey C. Lim",
+      "predicate": "decision_dimension",
+      "value": "Growth Orientation: high",
+      "sourceIds": [
+        "src-4"
+      ],
+      "confidence": 0.85,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "growth_orientation"
+      }
+    },
+    {
+      "factId": "fact-decision-15",
+      "category": "decision_profile",
+      "subject": "Jeffrey C. Lim",
+      "predicate": "decision_dimension",
+      "value": "Sustainability Commitment: high",
+      "sourceIds": [
+        "src-3"
+      ],
+      "confidence": 0.8,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "sustainability_commitment"
+      }
+    },
+    {
+      "factId": "fact-decision-16",
+      "category": "decision_profile",
+      "subject": "Jeffrey C. Lim",
+      "predicate": "decision_dimension",
+      "value": "Financial Discipline: high",
+      "sourceIds": [
+        "src-2"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "financial_discipline"
+      }
+    },
+    {
+      "factId": "fact-decision-17",
+      "category": "decision_profile",
+      "subject": "Jeffrey C. Lim",
+      "predicate": "decision_dimension",
+      "value": "Budget Influence: high",
+      "sourceIds": [
+        "src-6"
+      ],
+      "confidence": 0.75,
+      "verificationStatus": "single_source",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "decision_profile",
+        "dimension": "budget_influence"
+      }
+    },
+    {
+      "factId": "fact-boards-18",
+      "category": "professional_history",
+      "subject": "Jeffrey C. Lim",
+      "predicate": "board_membership",
+      "value": "SM Prime Holdings",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-boards-19",
+      "category": "professional_history",
+      "subject": "Jeffrey C. Lim",
+      "predicate": "board_membership",
+      "value": "SM Development Corp.",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-boards-20",
+      "category": "professional_history",
+      "subject": "Jeffrey C. Lim",
+      "predicate": "board_membership",
+      "value": "Concrete Aggregates Corp.",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-boards-21",
+      "category": "professional_history",
+      "subject": "Jeffrey C. Lim",
+      "predicate": "board_membership",
+      "value": "Capitol Commons Corp.",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-boards-22",
+      "category": "professional_history",
+      "subject": "Jeffrey C. Lim",
+      "predicate": "board_membership",
+      "value": "OCLP Holdings Inc.",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-boards-23",
+      "category": "professional_history",
+      "subject": "Jeffrey C. Lim",
+      "predicate": "board_membership",
+      "value": "Ortigas Land Corp.",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-boards-24",
+      "category": "professional_history",
+      "subject": "Jeffrey C. Lim",
+      "predicate": "board_membership",
+      "value": "Pico de Loro Beach & Country Club, Inc.",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-orgs-25",
+      "category": "professional_history",
+      "subject": "Jeffrey C. Lim",
+      "predicate": "industry_organization",
+      "value": "Asian Public Real Estate Association Ltd. (Member)",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "relationships"
+      }
+    },
+    {
+      "factId": "fact-keywords-26",
+      "category": "executive_keywords",
+      "subject": "Jeffrey C. Lim",
+      "predicate": "keyword",
+      "value": "Mall Expansion",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-27",
+      "category": "executive_keywords",
+      "subject": "Jeffrey C. Lim",
+      "predicate": "keyword",
+      "value": "Net-Zero 2040",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-28",
+      "category": "executive_keywords",
+      "subject": "Jeffrey C. Lim",
+      "predicate": "keyword",
+      "value": "Regional Growth",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-29",
+      "category": "executive_keywords",
+      "subject": "Jeffrey C. Lim",
+      "predicate": "keyword",
+      "value": "Investor Relations Excellence",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-keywords-30",
+      "category": "executive_keywords",
+      "subject": "Jeffrey C. Lim",
+      "predicate": "keyword",
+      "value": "Multiple Best CEO Awards",
+      "sourceIds": [],
+      "confidence": 0.6,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "executive_keywords"
+      }
+    },
+    {
+      "factId": "fact-comm-31",
+      "category": "communication_style",
+      "subject": "Jeffrey C. Lim",
+      "predicate": "communication_register",
+      "value": "formal_executive, investor-relations oriented",
+      "sourceIds": [],
+      "confidence": 0.7,
+      "verificationStatus": "unverified",
+      "extractionMethod": "manual",
+      "metadata": {
+        "section": "communication_style"
+      }
+    }
+  ],
+  "metadata": {
+    "original_format": "executive_intelligence_object",
+    "version": "1.0",
+    "entry_status": "verified_curated"
+  }
+}
